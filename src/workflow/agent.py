@@ -3,7 +3,7 @@ from llama_index.core.agent.workflow import AgentWorkflow
 from omegaconf import DictConfig
 
 
-@hydra.main(config_name="workflow", config_path="../config", version_base="1.1")
+@hydra.main(config_name="config", config_path="../config", version_base=None)
 def create_agentic_workflow(cfg: DictConfig) -> AgentWorkflow:
     """
     Create an agentic workflow using the specified configuration.

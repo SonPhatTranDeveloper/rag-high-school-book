@@ -1,3 +1,22 @@
+llm:
+  model:
+    model_name: "gpt-4"
+    temperature: 0.7
+    max_tokens: 1000
+
+  embeddings:
+    model_name: "text-embedding-3-small"
+    dimensions: 1536
+
+data:
+  index:
+    _target_: src.utils.index.create_or_load_index
+    storage_dir: /Users/user/Desktop/Python/rag-book-prod/storage
+    data_dir: /Users/user/Desktop/Python/rag-book-prod/data
+    chunk_size: 1024
+    chunk_overlap: 20
+    show_progress: true
+
 # Define the prompts for the agents
 prompts:
   classifier_agent:
@@ -124,3 +143,55 @@ prompts:
       - Với các công thức toán, luôn luôn sử dụng LaTeX để trình bày.
 
       Cuối mỗi câu trả lời nên có một câu kết luận đơn giản, dễ nhớ.
+
+agents:
+  classifier_agent:
+    _target_: llama_index.core.agent.workflow.FunctionAgent
+    name: "ClassifierAgent" 
+    description: ${prompts.classifier_agent.description}
+    system_prompt: ${prompts.classifier_agent.prompt}
+    can_handoff_to:
+      - "NoRAGAgent"
+      - "RAGAgent"
+  
+  no_rag_agent:
+    _target_: llama_index.core.agent.workflow.FunctionAgent
+    name: "NoRAGAgent"
+    description: ${prompts.no_rag_agent.description}
+    system_prompt: ${prompts.no_rag_agent.prompt}
+    can_handoff_to:
+      - "ExplainerAgent"
+  
+  rag_agent:
+    _target_: llama_index.core.agent.workflow.FunctionAgent
+    name: "RAGAgent"
+    description: ${prompts.rag_agent.description}
+    system_prompt: ${prompts.rag_agent.prompt}
+    can_handoff_to:
+      - "ExplainerAgent"
+    tools:
+      - _target_: llama_index.core.tools.QueryEngineTool.from_defaults
+        name: "rag_book_search_tool"
+        description: ${prompts.rag_agent.query_engine_tool.description}
+        query_engine: ${data.index}
+  
+  explainer_agent:
+    _target_: llama_index.core.agent.workflow.FunctionAgent
+    name: "ExplainerAgent"
+    description: ${prompts.explainer_agent.description}
+    system_prompt: ${prompts.explainer_agent.prompt}
+
+workflow:
+  _target_: llama_index.core.agent.workflow.AgentWorkflow
+  root_agent: "ClassifierAgent"
+  agents:
+    - ${agents.classifier_agent}
+    - ${agents.no_rag_agent}
+    - ${agents.rag_agent}
+    - ${agents.explainer_agent}
+  initial_state:
+    mode: ""  # rag or no_rag
+    rag_items: {}
+    no_rag_result: ""
+    rag_result: ""
+    explainer_result: ""

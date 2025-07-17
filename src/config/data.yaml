@@ -1,9 +1,0 @@
-data:
-  # Index
-  index:
-    _target_: src.utils.index.create_or_load_index
-    storage_dir: "storage"
-    data_dir: "data/pages"
-    chunk_size: 1024
-    chunk_overlap: 20
-    show_progress: true
