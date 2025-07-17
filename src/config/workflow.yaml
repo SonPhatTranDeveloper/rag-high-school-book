@@ -1,9 +1,11 @@
-# Include the agents
+# Include the agents and data
 defaults:
-  - agents: agents.yaml
+  - agents.yaml
+  - data.yaml
 
 # Workflow configuration
 workflow:
+  _target_: llama_index.core.agent.workflow.AgentWorkflow
   root_agent: "ClassifierAgent"
   agents:
     - ${agents.classifier_agent}

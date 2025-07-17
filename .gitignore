@@ -13,4 +13,9 @@ wheels/
 .env
 
 # Local RAG index storage
-src/storage
+storage
+data
+
+# Hydra
+outputs
+

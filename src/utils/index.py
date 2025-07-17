@@ -15,11 +15,11 @@ logger = logging.getLogger(__name__)
 
 
 def create_or_load_index(
-    storage_dir: str = "src/.index_storage",
-    data_dir: str = "src/data",
-    chunk_size: int = 1024,
-    chunk_overlap: int = 20,
-    show_progress: bool = True,
+    storage_dir: str,
+    data_dir: str,
+    chunk_size: int,
+    chunk_overlap: int,
+    show_progress: bool,
 ):
     """
     Create or load a LlamaIndex index from the specified storage directory.

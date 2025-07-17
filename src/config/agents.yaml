@@ -1,6 +1,7 @@
 # Include the prompts
 defaults:
-  - prompts: prompts.yaml
+  - prompts.yaml
+  - data.yaml
 
 # Individual agent configurations
 agents:
