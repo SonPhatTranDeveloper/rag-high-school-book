@@ -16,6 +16,8 @@ dev = [
 
 [tool.ruff]
 line-length = 88
+
+[tool.ruff.lint] 
 select = ["E", "F", "W", "I"]
 ignore = []
 exclude = [".venv", "__pycache__", "build", "dist"]

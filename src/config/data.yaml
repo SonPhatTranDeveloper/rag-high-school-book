@@ -1,0 +1,12 @@
+# Local storage and data configuration
+local_storage_dir: src/storage
+local_data_dir: src/data
+
+# Index
+index:
+  _target_: src.utils.index.create_or_load_index
+  storage_dir: ${local_storage_dir}
+  data_dir: ${local_data_dir}
+  chunk_size: 1024
+  chunk_overlap: 20
+  show_progress: true

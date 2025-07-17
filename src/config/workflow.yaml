@@ -1,0 +1,18 @@
+# Include the agents
+defaults:
+  - agents: agents.yaml
+
+# Workflow configuration
+workflow:
+  root_agent: "ClassifierAgent"
+  agents:
+    - ${agents.classifier_agent}
+    - ${agents.no_rag_agent}
+    - ${agents.rag_agent}
+    - ${agents.explainer_agent}
+  initial_state:
+    mode: ""  # rag or no_rag
+    rag_items: {}
+    no_rag_result: ""
+    rag_result: ""
+    explainer_result: ""
