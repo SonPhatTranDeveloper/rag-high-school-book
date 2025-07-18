@@ -1,14 +1,14 @@
+import logging
+
 import hydra
-from llama_index.core.agent.workflow import AgentWorkflow
 from omegaconf import DictConfig
 
 
-@hydra.main(config_name="config", config_path="../config", version_base=None)
-def create_agentic_workflow(cfg: DictConfig) -> AgentWorkflow:
-    """
-    Create an agentic workflow using the specified configuration.
+class RAGAgent:
+    def __init__(self, cfg: DictConfig):
+        self.logger = logging.getLogger(__name__)
+        self.workflow = hydra.utils.instantiate(cfg)
+        self.logger.info(self.workflow)
 
-    Args:
-        cfg (DictConfig): The configuration for the workflow.
-    """
-    return hydra.utils.instantiate(cfg)
+    async def run(self, query: str) -> str:
+        return await self.workflow.run(query)
