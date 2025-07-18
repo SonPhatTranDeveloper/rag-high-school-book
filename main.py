@@ -1,8 +1,8 @@
 import asyncio
 
 import hydra
-from omegaconf import DictConfig
 from dotenv import load_dotenv
+from omegaconf import DictConfig
 
 from src.workflow.agent import RAGAgent
 

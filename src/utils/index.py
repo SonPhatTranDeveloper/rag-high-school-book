@@ -135,11 +135,12 @@ class VectorIndexManager:
 
 
 # Backward compatibility function (optional)
-def create_or_load_index(
+def create_or_load_query_engine(
     storage_dir: str,
     data_dir: str,
     chunk_size: int,
     chunk_overlap: int,
+    top_k: int,
     show_progress: bool,
 ) -> VectorStoreIndex:
     """
@@ -150,6 +151,7 @@ def create_or_load_index(
         data_dir (str): Directory containing documents to index.
         chunk_size (int): Number of tokens per chunk during ingestion.
         chunk_overlap (int): Number of overlapping tokens between chunks.
+        top_k (int): Number of results to return.
         show_progress (bool): Whether to show progress bar.
     Returns:
         VectorStoreIndex: The loaded or newly created index.
@@ -161,4 +163,4 @@ def create_or_load_index(
         chunk_overlap=chunk_overlap,
         show_progress=show_progress,
     )
-    return manager.get_index()
+    return manager.get_index().as_query_engine(similarity_top_k=top_k)

@@ -9,12 +9,13 @@ llm:
     dimensions: 1536
 
 data:
-  index:
-    _target_: src.utils.index.create_or_load_index
+  query_engine:
+    _target_: src.utils.index.create_or_load_query_engine
     storage_dir: /Users/user/Desktop/Python/rag-book-prod/storage
     data_dir: /Users/user/Desktop/Python/rag-book-prod/data
     chunk_size: 1024
     chunk_overlap: 20
+    top_k: 5
     show_progress: true
 
 # Define the prompts for the agents
@@ -173,7 +174,7 @@ agents:
       - _target_: llama_index.core.tools.QueryEngineTool.from_defaults
         name: "rag_book_search_tool"
         description: ${prompts.rag_agent.query_engine_tool.description}
-        query_engine: ${data.index}
+        query_engine: ${data.query_engine}
   
   explainer_agent:
     _target_: llama_index.core.agent.workflow.FunctionAgent
