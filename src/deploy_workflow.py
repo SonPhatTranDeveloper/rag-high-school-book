@@ -19,16 +19,14 @@ async def main():
     """
     Deploy workflow to the control plane
     """
-    deploy_workflow(
+    await deploy_workflow(
         workflow=workflow,
         workflow_config=WorkflowServiceConfig(
             service_name="rag-book-workflow",
-            service_port=8000,
+            port=8000,
             host="0.0.0.0",
         ),
-        control_plane_config=ControlPlaneConfig(
-            control_plane_url="http://localhost:8000",
-        ),
+        control_plane_config=ControlPlaneConfig(),
     )
 
 

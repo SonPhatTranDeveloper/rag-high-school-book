@@ -1,4 +1,3 @@
-import asyncio
 import logging
 
 from flask import Flask, jsonify, request
@@ -70,7 +69,10 @@ async def query_workflow():
 
         # Query the workflow using the LlamaDeployClient
         session = client.create_session()
-        result = await session.run(service="rag-book-workflow", query=query)
+        result = session.run(
+            service_name="rag-book-workflow",
+            query=query,
+        )
 
         logger.info(f"Query processed successfully - Session: {session_id}")
 
@@ -138,27 +140,6 @@ async def list_services():
         ), 500
 
 
-def run_async_route(f):
-    """Decorator to run async functions in Flask routes"""
-
-    def wrapper(*args, **kwargs):
-        loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(loop)
-        try:
-            return loop.run_until_complete(f(*args, **kwargs))
-        finally:
-            loop.close()
-
-    return wrapper
-
-
-# Apply the async decorator to async routes
-query_workflow.view_func = run_async_route(query_workflow.view_func)
-list_sessions.view_func = run_async_route(list_sessions.view_func)
-delete_session.view_func = run_async_route(delete_session.view_func)
-list_services.view_func = run_async_route(list_services.view_func)
-
-
 if __name__ == "__main__":
     logger.info("Starting Flask server...")
     logger.info(
@@ -171,4 +152,4 @@ if __name__ == "__main__":
     logger.info("  DELETE /sessions/<session_id> - Delete a session")
     logger.info("  GET  /services - List all services")
 
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=9000, debug=True)
