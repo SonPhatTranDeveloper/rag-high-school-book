@@ -1,13 +1,17 @@
 import asyncio
 
-import hydra
 from dotenv import load_dotenv
-from omegaconf import DictConfig
+from hydra import compose, initialize
 
 from src.workflow.agent import RAGAgent
 
+# Initialize the RAG Agent
+with initialize(version_base=None, config_path="src/config"):
+    cfg = compose(config_name="config")
+    agent = RAGAgent(cfg)
 
-async def run_agent(cfg: DictConfig) -> None:
+
+async def run_agent() -> None:
     """
     Run the agent with the given configuration.
 
@@ -18,13 +22,11 @@ async def run_agent(cfg: DictConfig) -> None:
     Returns:
         None
     """
-    agent = RAGAgent(cfg.workflow)
-    result = await agent.run("Phản ứng oxi hoá khử là gì?")
+    result = await agent.run("Hồ Chí Minh là ai?")
     print(result)
 
 
-@hydra.main(config_name="config", config_path="src/config", version_base=None)
-def main(cfg: DictConfig) -> None:
+def main() -> None:
     """
     Main function to run the agent.
 
@@ -36,7 +38,7 @@ def main(cfg: DictConfig) -> None:
         None
     """
     load_dotenv()
-    asyncio.run(run_agent(cfg))
+    asyncio.run(run_agent())
 
 
 if __name__ == "__main__":

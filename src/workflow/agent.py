@@ -1,6 +1,9 @@
 import logging
 
 import hydra
+from llama_index.core.settings import Settings
+from llama_index.embeddings.openai import OpenAIEmbedding
+from llama_index.llms.openai import OpenAI
 from omegaconf import DictConfig
 
 
@@ -17,7 +20,27 @@ class RAGAgent:
 
     def __init__(self, cfg: DictConfig) -> None:
         self.logger = logging.getLogger(__name__)
-        self.workflow = hydra.utils.instantiate(cfg)
+        self._initialize_llm(cfg)
+        self.workflow = hydra.utils.instantiate(cfg.workflow)
+
+    def _initialize_llm(self, cfg: DictConfig) -> None:
+        """
+        Initialize the LLM via the configuration.
+
+        Args:
+            cfg (DictConfig): The configuration for the LLM.
+        """
+        # Get the llm and embedding config
+        llm_config = cfg.llm.model
+        embedding_config = cfg.llm.embeddings
+
+        # Initialize the LLM via LlamaIndex settings
+        Settings.llm = OpenAI(
+            model=llm_config.model_name, temperature=llm_config.temperature
+        )
+
+        # Initialize the embedding via LlamaIndex settings
+        Settings.embed_model = OpenAIEmbedding(model_name=embedding_config.model_name)
 
     async def run(self, query: str) -> any:
         """
