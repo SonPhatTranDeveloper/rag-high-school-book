@@ -1,5 +1,3 @@
-import logging
-
 import hydra
 from llama_index.core.settings import Settings
 from llama_index.embeddings.openai import OpenAIEmbedding
@@ -7,49 +5,26 @@ from llama_index.llms.openai import OpenAI
 from omegaconf import DictConfig
 
 
-class RAGAgent:
+def initialize_llm(cfg: DictConfig) -> None:
     """
-    RAGAgent is a class that implements the RAG workflow.
-    It uses the workflow configuration to create an agentic workflow.
-    It then runs the workflow with the given query.
-    It returns the result of the workflow.
-
-    Args:
-        cfg (DictConfig): The configuration for the workflow.
+    Initialize the LLM via LlamaIndex settings.
     """
+    llm_config = cfg.llm.model
+    embedding_config = cfg.llm.embeddings
 
-    def __init__(self, cfg: DictConfig) -> None:
-        self.logger = logging.getLogger(__name__)
-        self._initialize_llm(cfg)
-        self.workflow = hydra.utils.instantiate(cfg.workflow)
+    # Initialize the LLM via LlamaIndex settings
+    Settings.llm = OpenAI(
+        model=llm_config.model_name, temperature=llm_config.temperature
+    )
 
-    def _initialize_llm(self, cfg: DictConfig) -> None:
-        """
-        Initialize the LLM via the configuration.
+    # Initialize the embedding via LlamaIndex settings
+    Settings.embed_model = OpenAIEmbedding(model_name=embedding_config.model_name)
 
-        Args:
-            cfg (DictConfig): The configuration for the LLM.
-        """
-        # Get the llm and embedding config
-        llm_config = cfg.llm.model
-        embedding_config = cfg.llm.embeddings
 
-        # Initialize the LLM via LlamaIndex settings
-        Settings.llm = OpenAI(
-            model=llm_config.model_name, temperature=llm_config.temperature
-        )
-
-        # Initialize the embedding via LlamaIndex settings
-        Settings.embed_model = OpenAIEmbedding(model_name=embedding_config.model_name)
-
-    async def run(self, query: str) -> any:
-        """
-        Run the workflow with the given query.
-
-        Args:
-            query (str): The query to run the workflow with.
-
-        Returns:
-            any: The result of the workflow.
-        """
-        return await self.workflow.run(query)
+def build_workflow(cfg: DictConfig) -> any:
+    """
+    Build the workflow from the configuration.
+    """
+    # Get the llm and embedding config
+    initialize_llm(cfg)
+    return hydra.utils.instantiate(cfg.workflow)

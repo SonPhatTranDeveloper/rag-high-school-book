@@ -14,7 +14,7 @@ services:
       type: local
       # The path relative to this deployment config file where to look for the code. This assumes
       # there's an src folder along with the config file containing the file workflow.py we created previously
-      name: ./src
-    # This assumes the Python module workflow.py contains a variable called `echo_workflow`
+      name: .
+    # This assumes the Python module main.py contains a variable called `agent`
     # containing our workflow instance
     path: main:agent
