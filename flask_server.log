@@ -850,3 +850,29 @@ Traceback (most recent call last):
 TimeoutError: Task 9683ae5c-dd14-4a4f-bccc-931b058d08e4 timed out after 120.0 seconds
 2025-07-18 21:58:47,733 - __main__ - INFO - Response: 500 for POST /query
 2025-07-18 21:58:47,735 - werkzeug - INFO - 127.0.0.1 - - [18/Jul/2025 21:58:47] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-07-18 22:28:28,906 - __main__ - INFO - LlamaDeployClient initialized
+2025-07-18 22:28:28,907 - __main__ - INFO - Starting Flask server...
+2025-07-18 22:28:28,907 - __main__ - INFO - Make sure your LlamaDeploy workflow is running on http://localhost:8000
+2025-07-18 22:28:28,907 - __main__ - INFO - Available endpoints:
+2025-07-18 22:28:28,907 - __main__ - INFO -   GET  /health - Health check
+2025-07-18 22:28:28,907 - __main__ - INFO -   POST /query - Query the RAG workflow
+2025-07-18 22:28:28,907 - __main__ - INFO -   GET  /sessions - List all sessions
+2025-07-18 22:28:28,907 - __main__ - INFO -   DELETE /sessions/<session_id> - Delete a session
+2025-07-18 22:28:28,907 - __main__ - INFO -   GET  /services - List all services
+2025-07-18 22:28:28,995 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9000
+ * Running on http://192.0.0.2:9000
+2025-07-18 22:28:28,995 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-18 22:28:28,996 - werkzeug - INFO -  * Restarting with stat
+2025-07-18 22:28:29,712 - __main__ - INFO - LlamaDeployClient initialized
+2025-07-18 22:28:29,713 - __main__ - INFO - Starting Flask server...
+2025-07-18 22:28:29,713 - __main__ - INFO - Make sure your LlamaDeploy workflow is running on http://localhost:8000
+2025-07-18 22:28:29,713 - __main__ - INFO - Available endpoints:
+2025-07-18 22:28:29,713 - __main__ - INFO -   GET  /health - Health check
+2025-07-18 22:28:29,713 - __main__ - INFO -   POST /query - Query the RAG workflow
+2025-07-18 22:28:29,713 - __main__ - INFO -   GET  /sessions - List all sessions
+2025-07-18 22:28:29,713 - __main__ - INFO -   DELETE /sessions/<session_id> - Delete a session
+2025-07-18 22:28:29,713 - __main__ - INFO -   GET  /services - List all services
+2025-07-18 22:28:29,728 - werkzeug - WARNING -  * Debugger is active!
+2025-07-18 22:28:29,739 - werkzeug - INFO -  * Debugger PIN: 306-937-103

@@ -19,3 +19,5 @@ data
 # Hydra
 outputs
 
+# Logs
+flask_server.log
