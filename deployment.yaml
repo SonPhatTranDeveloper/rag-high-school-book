@@ -1,0 +1,20 @@
+name: RAG
+
+control-plane:
+  port: 8000
+
+default-service: rag_agent
+
+services:
+  rag_agent:
+    name: RAG Agent Workflow
+    # We tell LlamaDeploy where to look for our workflow
+    source:
+      # In this case, we instruct LlamaDeploy to look in the local filesystem
+      type: local
+      # The path relative to this deployment config file where to look for the code. This assumes
+      # there's an src folder along with the config file containing the file workflow.py we created previously
+      name: ./src
+    # This assumes the Python module workflow.py contains a variable called `echo_workflow`
+    # containing our workflow instance
+    path: main:agent
