@@ -5,7 +5,7 @@ llm:
     temperature: 0.0
 
   embeddings:
-    model_name: "text-embedding-ada-002"
+    model_name: "text-embedding-3-large"
 
 data:
   query_engine:

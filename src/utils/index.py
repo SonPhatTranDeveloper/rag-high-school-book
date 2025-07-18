@@ -11,6 +11,8 @@ from llama_index.core import (
 from llama_index.core.ingestion import IngestionPipeline
 from llama_index.core.node_parser import SentenceSplitter
 
+from src.utils.document import file_metadata_extractor
+
 logger = logging.getLogger(__name__)
 
 
@@ -90,8 +92,12 @@ class VectorIndexManager:
 
             # Split documents into nodes
             documents = SimpleDirectoryReader(
-                input_dir=self.data_dir, recursive=True
+                input_dir=self.data_dir,
+                recursive=True,
+                file_metadata=file_metadata_extractor,
             ).load_data()
+
+            # Extract the nodes from the documents
             nodes = pipeline.run(documents=documents, show_progress=self.show_progress)
 
             # Create and save
