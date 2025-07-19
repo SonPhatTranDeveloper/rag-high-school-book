@@ -5,6 +5,7 @@ from flask_pydantic import validate
 from llama_deploy import ControlPlaneConfig, LlamaDeployClient
 
 from src.server.model import AgentResponse
+from src.server.utils.constants import ServerConstants
 from src.server.utils.metadata import extract_metadata_from_event
 
 # Configure logging
@@ -75,7 +76,7 @@ def query_workflow():
         # Query the workflow using the LlamaDeployClient
         session = client.create_session()
         task_id = session.run_nowait(
-            service_name="rag_agent",
+            service_name=ServerConstants.RAG_AGENT_SERVICE_NAME.value,
             user_msg=query,
         )
 
