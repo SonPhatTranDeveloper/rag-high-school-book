@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local RAG index storage
+data
+
+# Hydra
+outputs
+
+# Logs
+flask_server.log
+
+# Ruff cache
+.ruff_cache
