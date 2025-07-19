@@ -37,7 +37,7 @@ def extract_metadata_from_event(events: list[dict]) -> list[DocumentMetadata]:
                 result.append(
                     DocumentMetadata(
                         text=node["node"]["text"],
-                        score=node["node"]["score"],
+                        score=node["score"],
                         grade=node["node"]["metadata"]["grade"],
                         book_type=node["node"]["metadata"]["book_type"],
                         book_subject=node["node"]["metadata"]["book_subject"],

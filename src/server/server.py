@@ -66,7 +66,7 @@ def query_workflow():
             return jsonify({"error": "Missing 'query' in request body"}), 400
 
         query = data["query"]
-        session_id = data.get("session_id", "default_session")
+        session_id = data.get("session_id", "123456")
 
         logger.info(
             f"Processing query request - Session: {session_id}, "
@@ -74,7 +74,7 @@ def query_workflow():
         )
 
         # Query the workflow using the LlamaDeployClient
-        session = client.create_session()
+        session = client.get_or_create_session(session_id)
         task_id = session.run_nowait(
             service_name=ServerConstants.RAG_AGENT_SERVICE_NAME.value,
             user_msg=query,
@@ -82,14 +82,18 @@ def query_workflow():
 
         # Get the events from the task
         events = session.get_task_result_stream(task_id)
-        result = session.get_task_result(task_id).result
+
+        # Get the result from the task until it is finished
+        result = None
+        while result is None:
+            result = session.get_task_result(task_id)
 
         # Extract the metadata from the events
         metadata = extract_metadata_from_event(events)
 
         return AgentResponse(
             query=query,
-            response=result,
+            response=result.result,
             session_id=session_id,
             status="success",
             document_metadata=metadata,
