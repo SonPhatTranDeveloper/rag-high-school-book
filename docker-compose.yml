@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      PYTHONUNBUFFERED: 1 # Ensure Python output is not buffered
+    expose:
+      - "10000" # Expose port 10000 to other services within the Docker network
+
+  nginx:
+    build:
+      context: .
+      dockerfile: Dockerfile.nginx
+    restart: always
+    ports:
+      - "80:80" # Map host port 80 to Nginx container port 80
+    depends_on:
+      - web # Ensure 'web' service starts before 'nginx'
