@@ -8,6 +8,12 @@ from omegaconf import DictConfig
 def initialize_llm(cfg: DictConfig) -> None:
     """
     Initialize the LLM via LlamaIndex settings.
+
+    Args:
+        cfg: The configuration object.
+
+    Returns:
+        None
     """
     llm_config = cfg.llm.model
     embedding_config = cfg.llm.embeddings
@@ -24,6 +30,12 @@ def initialize_llm(cfg: DictConfig) -> None:
 def build_workflow(cfg: DictConfig) -> any:
     """
     Build the workflow from the configuration.
+
+    Args:
+        cfg: The configuration object.
+
+    Returns:
+        The workflow object.
     """
     # Get the llm and embedding config
     initialize_llm(cfg)

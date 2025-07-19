@@ -159,6 +159,7 @@ def create_or_load_query_engine(
         chunk_overlap (int): Number of overlapping tokens between chunks.
         top_k (int): Number of results to return.
         show_progress (bool): Whether to show progress bar.
+
     Returns:
         VectorStoreIndex: The loaded or newly created index.
     """
