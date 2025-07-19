@@ -9,7 +9,7 @@ services:
     environment:
       PYTHONUNBUFFERED: 1 # Ensure Python output is not buffered
     expose:
-      - "8000" # Expose port 8000 to other services within the Docker network
+      - "8080" # Expose port 8000 to other services within the Docker network
 
   nginx:
     build:
