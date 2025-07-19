@@ -48,7 +48,7 @@ def get_book_type(book_type: str) -> str:
     """
     if book_type == "canh_dieu":
         return "Cánh Diều"
-    elif book_type == "key_noi_tri_thuc":
+    elif book_type == "ket_noi_tri_thuc":
         return "Kết nối tri thức"
     elif book_type == "chan_troi_sang_tao":
         return "Chân trời sáng tạo"
