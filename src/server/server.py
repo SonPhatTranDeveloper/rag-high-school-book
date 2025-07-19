@@ -1,7 +1,10 @@
 import logging
 
 from flask import Flask, jsonify, request
+from flask_pydantic import validate
 from llama_deploy import ControlPlaneConfig, LlamaDeployClient
+
+from src.server.model import AgentResponse
 
 # Configure logging
 logging.basicConfig(
@@ -42,7 +45,8 @@ def health_check():
 
 
 @app.route("/query", methods=["POST"])
-async def query_workflow():
+@validate()
+def query_workflow():
     """
     Query the RAG workflow via LlamaDeployClient
 
@@ -70,19 +74,18 @@ async def query_workflow():
         # Query the workflow using the LlamaDeployClient
         session = client.create_session()
         result = session.run(
-            service_name="rag-book-workflow",
-            query=query,
+            service_name="rag_agent",
+            user_msg=query,
         )
 
         logger.info(f"Query processed successfully - Session: {session_id}")
 
-        return jsonify(
-            {
-                "query": query,
-                "response": str(result),
-                "session_id": session_id,
-                "status": "success",
-            }
+        return AgentResponse(
+            query=query,
+            response=str(result),
+            session_id=session_id,
+            status="success",
+            document_metadata=[],
         )
 
     except Exception as e:
@@ -108,7 +111,7 @@ async def list_sessions():
 
 
 @app.route("/sessions/<session_id>", methods=["DELETE"])
-async def delete_session(session_id):
+def delete_session(session_id):
     """Delete a specific session"""
     try:
         logger.info(f"Session deletion requested for: {session_id}")
@@ -143,7 +146,7 @@ async def list_services():
 if __name__ == "__main__":
     logger.info("Starting Flask server...")
     logger.info(
-        "Make sure your LlamaDeploy workflow is running on http://localhost:8000"
+        "Make sure your LlamaDeploy workflow is running on http://localhost:10000"
     )
     logger.info("Available endpoints:")
     logger.info("  GET  /health - Health check")
@@ -152,4 +155,4 @@ if __name__ == "__main__":
     logger.info("  DELETE /sessions/<session_id> - Delete a session")
     logger.info("  GET  /services - List all services")
 
-    app.run(host="0.0.0.0", port=9000, debug=True)
+    app.run(host="0.0.0.0", port=10_000, debug=True)
