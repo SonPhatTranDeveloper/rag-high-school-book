@@ -1,0 +1,15 @@
+Đọc ngữ liệu tham khảo
+
+Bạn đang ở đâu trong hành trình "khẳng định bản thân"?
+
+Giả sử một ngày nào đó, bạn nhận được một tấm bưu thiếp in hình nữ kình ngư Ánh Viên với nụ cười tươi tắn cùng tấm huy chương vàng lấp lánh trên cổ, mặt bên kia bưu thiếp là lời nhắn: "Hãy tìm ra điểm mạnh của mình và hãy biết cách tự khẳng định giá trị bản thân". Bạn sẽ suy nghĩ thế nào về lời nhắn đó?[1]
+
+Đã bao giờ bạn tự hỏi bản thân: "Tôi là ai? Tôi đến với thế giới này để làm gì? Những người xung quanh nhìn nhận tôi như thế nào?". Nếu bạn gặp khó khăn trong việc trả lời những câu hỏi này, có lẽ bạn chưa biết thế nào là tự khẳng định giá trị của mình. "Tự khẳng định giá trị của bản thân" là khi bạn tự nhận ra điểm mạnh của mình, có ước mơ, hoài bão; nỗ lực để đạt được ước mơ, hoài bão và để lại ấn tượng sâu sắc trong mắt của những người khác. Trong một xã hội đang phát triển nhanh chóng như hiện nay thì việc tự khẳng định mình càng trở nên quan trọng.[2]
+
+Giá trị của bản thân là điều khiến bạn trở nên khác biệt. Và nó cũng giúp bạn thực hiện được hoài bão của mình.[3] Có thể bạn không phải là người giỏi nhất, giàu nhất nhưng bạn luôn là duy nhất. Chỉ khi bạn thực sự hiểu mình cần gì, mình giỏi ở điểm nào thì bạn mới có thể thành công. Đơn cử như tiền vệ Mê-sút Ơ-siu (Mesut Ozil) của đội tuyển bóng đá Đức, vốn được biết đến với tài chuyền bóng như "đơn cỡ" cho đồng đội ghi bàn. Điều này không làm cho Ơ-siu trở nên nhạt nhòa mà khiến anh trở thành cầu thủ đắt giá, liên tiếp nhận được những giải thưởng danh giá. Anh thành công là nhờ biết tự khẳng định điểm mạnh của bản thân và chứng tỏ cho người khác thấy rằng, ai cũng có thể thành công theo cách của riêng mình.[3a], [3b]
+
+Xã hội hiện nay đòi hỏi nhiều hơn ở mỗi người, vì thế, việc khẳng định giá trị bản thân càng quan trọng. Trong buổi tư vấn tuyển sinh đại học, một vị giáo sư cho rằng, gần đây, bằng cấp không còn quá quan trọng, các nhà tuyển dụng đang hướng tới những người trẻ có đam mê nghề nghiệp và thực sự biết làm mình nổi bật. Qua đó, có thể thấy bên cạnh yếu tố về bằng cấp thì nét riêng của từng người ngày càng được coi trọng. Đây là áp lực đồng thời là lực đẩy khiến chúng ta nỗ lực hơn để trở thành một cá nhân nổi bật. Nếu chỉ ỷ lại vào gia thế và đổ lỗi cho hoàn cảnh, bạn khó có thể thành công. Giờ đây, chính bạn là người quyết định tương lai của mình.[3b]
+
+Tự khẳng định giá trị của bản thân không phải là điều đơn giản.[4] Một bác sĩ muốn được người bệnh tin tưởng thì phải trải qua hàng chục năm trời học hỏi, nghiên cứu và thực tập. Nói rộng ra, tự khẳng định mình là quá trình học hỏi, rèn luyện, hoàn thiện bản thân để trở nên tốt hơn. Để một quốc gia, một cộng đồng phát triển, luôn cần những cá nhân như thế.[4a]
+
+Đôi lúc, chúng ta thường quên mình thích gì, giỏi những gì, điểm mạnh của mình là gì. Đó là điều có thể khiến ta thất bại. Trước vô vàn những thử thách của cuộc sống, giá trị của bản thân là gốc rễ giúp bạn đứng vững. Thế nhưng vẫn còn những người trẻ thờ ơ trước vấn đề này. Họ chấp nhận cách sống buông trôi, không nỗ lực vươn lên. Lại có một bộ phận

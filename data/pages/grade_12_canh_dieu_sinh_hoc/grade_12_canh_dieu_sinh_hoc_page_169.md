@@ -1,0 +1,10 @@
+Thuật ngữ | Giải thích thuật ngữ | Trang
+--- | --- | ---
+phân đoạn Okazaki | các đoạn DNA ngắn khoảng 1 000 – 2 000 nucleotide ở vi khuẩn hoặc khoảng 100 – 200 nucleotide ở tế bào có nhân, được tạo thành từ quá trình tái bản DNA gián đoạn trên một mạch khuôn DNA, được nối lại với nhau sau đó hình thành mạch ra chậm | 8
+quần thể địa phương | tập hợp các cá thể trong quần thể của một loài cùng tồn tại ở một vùng sinh cảnh biệt lập, các cá thể này dễ dàng giao phối với nhau hơn so với các cá thể cùng quần thể nhưng cách xa chúng | 77
+sinh vật biến đổi gene | sinh vật có hệ gene bị biến đổi. Trong công nghệ gene, sinh vật biến đổi gene là sinh vật có DNA tái tổ hợp | 65, 69, 70, 71
+tế bào nguyên thủy (protocell, protobiont) | cấu trúc gồm tập hợp các phân tử lipid tự sắp xếp theo trật tự hình thành dạng khối cầu khép kín, bên trong chứa các đại phân tử hữu cơ, có thể có một số biểu hiện sống: trao đổi chất, tăng trưởng, phân chia, biến đổi qua các bước hình thành tế bào sống đầu tiên trên Trái Đất | 108
+Thuyết trung tâm của sinh học phân tử (Thuyết trung tâm của di truyền học) | thuyết cho biết dòng thông tin di truyền từ DNA qua RNA đến chuỗi polypeptide (protein). Ngoài ra, DNA tái bản tạo ra bản sao của nó khi truyền thông tin di truyền qua các thế hệ tế bào và từ bố mẹ đến thế hệ con | 17
+thư viện cDNA | tập hợp dòng tế bào chủ mang vector tái tổ hợp chứa các đoạn cDNA (DNA bổ sung) | 72
+trình tự khởi động (promoter) | trình tự DNA chứa vị trí bám của các protein để khởi đầu phiên mã tổng hợp phân tử RNA tương ứng từ một gene hoặc một operon (ở vi khuẩn), phía đầu 5' của mạch DNA mang mã, có độ dài khác nhau, khoảng từ 100 đến vài nghìn cặp base, có vai trò điều hoà khởi đầu phiên mã | 8, 11
+yếu tố di truyền vận động | trình tự DNA có khả năng di chuyển đến các vị trí khác nhau trong hệ gene, có ở cả tế bào nhân sơ và tế bào nhân thực | 14

@@ -1,0 +1,13 @@
+2. Em đã dành nhiều ngày để nghiên cứu, tìm hiểu yêu cầu của nhà trường và khoá trải nghiệm hè về hoạt động bảo tồn thiên nhiên hoang dã đối với các ứng viên và nhận thấy bản thân hoàn toàn có thể đáp ứng các tiêu chuẩn đề ra. Trong đó, em tự nhận thấy mình có ba thế mạnh sau đây để có thể tham gia và hoàn thành tốt khoá trải nghiệm.
+
+Em có một niềm yêu thích mãnh mẽ với việc khám phá những điều lí thú mà thiên nhiên mang lại cho con người. Có lẽ, điều này nảy sinh từ những dịp được đi tới nhiều miền của Tổ quốc cùng với bố, mẹ - những người nghiên cứu về thực vật học và giàu khát vọng bảo tồn những giá trị vững bền của thiên nhiên. Vì tình yêu này mà bất cứ khi nào có cơ hội, em đều lên đường và không quản ngại khó khăn, thử thách để đến với những vùng đất - nơi thiên nhiên còn hoang sơ và vẹn nguyên những thảm thực vật như hàng ngàn năm trước. Em có một bộ sưu tập những bức ảnh về thiên nhiên và cả nhân mình trước vẻ đẹp hùng vĩ, thơ mộng của thiên nhiên Việt Nam và một số quốc gia khác.
+
+Không chỉ yêu thích khám phá vẻ đẹp của thiên nhiên, em còn là một người luôn đặt ra và nỗ lực để đạt được các mục tiêu, nhiệm vụ một cách tốt nhất. Em đã chứng tỏ điều này thông qua nhiều việc làm, hành động như: hoàn thành đúng hạn và có chất lượng bài tập ở các môn học, công việc được giao trong nhóm / lớp hay trách nhiệm cá nhân trong các dự án cộng đồng vì môi trường;... Dù hợp tác với ai, trong bất cứ hoạt động nào, em đều hoàn thành mục tiêu, nhiệm vụ được giao và kết quả làm việc đều được đánh giá tốt. Những minh chứng mà em gửi trong hồ sơ này như các giấy chứng nhận, nhận xét của các thành viên khác trong nhóm, đánh giá của các tổ chức, kết quả của các hoạt động,... có thể giúp em khẳng định điều đó.
+
+Trong đánh giá của những người xung quanh, một thế mạnh khác và cũng là sở thích của em là chinh phục những thử thách. Em tự nhận ra điều này ở bản thân ngay từ khi còn nhỏ. Trong lúc các bạn cùng lớp chỉ thích đến nơi đô thị, đi những cung đường dễ dàng thì em lại rất thích thú với những vùng đất hoang sơ, những con đường ngoằn ngoèo, khó đi. Trong lúc nhiều bạn cùng trang lứa thích chìm đắm trong những trò chơi điện tử thì em tự thấy mình rất có hứng với những cảnh tượng mây núi, sông biển hùng vĩ, đòi hỏi phải trèo đèo, lội suối, băng rừng mới có thể đến được. Em còn nhớ mãi một kỉ niệm của năm lớp 3, đó là dịp cùng với bố mẹ đi xuyên rừng trong nhiều ngày, ăn ngủ trong các lều trại để tìm hiểu về các loài thực vật đặc trưng của vùng đất Tây Nguyên hùng vĩ. Đó thực sự là một thử thách
+
+Phần 2 nêu những nội dung gì?
+
+Mỗi đoạn văn trong phần 2 đều được trình bày theo hướng nào?
+
+109

@@ -1,0 +1,15 @@
+II. Nhà văn hoá, nhà văn kiệt xuất
+
+Nguyễn Trãi không chỉ là người anh hùng dân tộc mà còn là một nhà văn hoá khai sáng, một nhà văn, nhà thơ mà những đóng góp của ông đã tạo ra bước ngoặt mới trong lịch sử phát triển của văn hoá, văn học Việt Nam. Ngoài những đóng góp quan trọng trong các hoạt động thực tiễn, ông còn để lại một di sản to lớn trên nhiều lĩnh vực: tư tưởng, chính trị, quân sự, ngoại giao, lịch sử, địa lí, văn học,... với nhiều tác phẩm có giá trị như: Quân trung từ mệnh tập, Đại cáo bình Ngô, Dư địa chí (Chí Linh sơn phú), Lam Sơn thực lục (Bộ sử biên niên về thời kì ở Lam Sơn), Văn bia Vĩnh Lăng, Chuyến đi về cũ Bằng Hồ, Dư địa chí (Ghi chép về địa lí), Ức Trai thi tập (Tập thơ của Ức Trai)... Các tác phẩm này đều được viết bằng chữ Hán. Nguyễn Trãi còn có tập thơ Quốc âm thi tập viết bằng chữ Nôm, đánh dấu sự hình thành, phát triển của thơ ca tiếng Việt. Phần lớn các bài trong tập thơ được Nguyễn Trãi viết trong thời kì về sống ẩn dật ở Côn Sơn.
+
+Nguyễn Trãi có công rất lớn trong việc giúp Lê Lợi xây dựng một đường lối chính trị và quân sự đúng đắn ngay từ khi tham gia khởi nghĩa Lam Sơn. Đó là đường lối đấu tranh dựa trên tư tưởng nhân nghĩa vì người dân, vì đất nước. Năm 1426, khi cuộc kháng chiến chống giặc Minh sắp sửa kết thúc, ông đã giúp Lê Lợi cho mở kì thi, lựa chọn nhân tài để phục vụ cho công cuộc kiến thiết đất nước lâu dài. Nguyễn Trãi chủ trương xây dựng thể chế chính trị thân dân vững mạnh, kết hợp truyền thống dân chủ, đoàn kết của dân tộc và những mặt tích cực của Nho giáo với khát vọng "khiến cho trong thôn cùng, xóm vắng không còn một tiếng hờn giận, oán sầu"(*). Nguyễn Trãi có những kế hoạch mới mẻ về việc xây dựng hình luật, âm nhạc, khoa cử, tiến hành các quy chế về lễ nghi, nội trị, biên soạn sách vở... Mặc dù tầm huyết xây dựng một thể chế và một nền văn hoá như ông mong muốn, đương thời chưa thực hiện được trọn vẹn, nhưng đây sẽ là nền tảng cho sự phát triển bền vững, lâu dài của đất nước.
+
+Những đóng góp về văn học của Nguyễn Trãi là hết sức to lớn, có giá trị mở đầu cho nhiều truyền thống quý báu của văn học dân tộc. Thơ văn Nguyễn Trãi thấm nhuần tư tưởng yêu nước, nhân nghĩa vì dân, cùng với niềm suy tư thể sự và tình yêu thiên nhiên, đất nước. "Yêu nước, thương dân" và "nhân nghĩa vì dân", khát vọng xây dựng một quốc gia độc lập, hưng thịnh, thái bình, người dân được sống ấm no, hạnh phúc là những nội dung lớn trong thơ văn Nguyễn Trãi. Ông luôn đau đáu một tấm lòng vì nước: "Đêm ngày cuồn cuộn
+
+(*) Các trích dẫn thơ văn Nguyễn Trãi trong bài này lấy từ cuốn Nguyễn Trãi toàn tập tân biên, tập 1, 2, 3, NXB Văn học - Trung tâm Nghiên cứu Quốc học, Hà Nội, 2001.
+
+Chú ý các lĩnh vực mà Nguyễn Trãi có đóng góp và các tác phẩm chính của ông.
+
+Nguyễn Trãi có đóng góp như thế nào về văn hoá?
+
+Những nội dung cơ bản của phần này là gì?

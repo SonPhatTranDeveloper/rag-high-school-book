@@ -1,0 +1,13 @@
+Do có cuộc đời hoạt động cách mạng phong phú và phạm vi giao tiếp rộng rãi, lại sẵn tư chất nghệ sĩ và tài năng nghệ thuật lớn, việc đa dạng hoá sáng tác đã được Hồ Chí Minh thực hiện một cách hết sức tự nhiên. Ở bộ phận thơ trữ tình viết theo cảm hứng thầm mĩ, nhiều lúc tác giả hướng về các nội dung cá nhân, thể hiện những suy nghĩ thầm trầm trước bao câu hỏi mang tính muôn đời về tồn tại.
+
+2. Thành tựu sáng tác
+
+Sáng tác của Hồ Chí Minh có thể được chia thành ba bộ phận chính: văn chính luận, truyện và kí, thơ.
+
+Văn chính luận chiếm khối lượng lớn nhất trong di sản văn học của Hồ Chí Minh, gồm những tác phẩm được viết ra nhằm đáp ứng kịp thời mọi yêu cầu của hoạt động chính trị, cách mạng. Văn chính luận của Hồ Chí Minh luôn chứa chan nhiệt huyết, thể hiện tinh thần bám sát cuộc sống cách mạng để nắm bắt những vấn đề có ý nghĩa bức thiết đối với vận mệnh dân tộc và vận mệnh của tầng lớp cần lao trên toàn thế giới. Nhiều tác phẩm trực tiếp chất vấn, tố cáo các thế lực thực dân, đế quốc, kêu gọi nhân dân và các dân tộc bị áp bức tham gia đấu tranh cách mạng, đấu tranh vì chân lí độc lập, tự do. Tác phẩm Bản án chế độ thực dân Pháp được viết bằng tiếng Pháp dưới bút danh Nguyễn Ái Quốc, xuất bản năm 1925, đã tấn công mạnh liệt vào chủ nghĩa thực dân, vạch trần tội ác của thực dân Pháp đối với các dân tộc thuộc địa cũng như tính bịp bợm trong luận điệu mà chúng thường rêu rao về sự "khai hoá". Bản Tuyên ngôn Độc lập (1945) với lập luận chặt chẽ, lí lẽ sắc bén và những bằng chứng "không ai chối cãi được", là tiếng nói hùng hồn khẳng định quyền hưởng tự do, độc lập, quyền tự làm chủ vận mệnh của một dân tộc đã can trường đấu tranh chống lại mọi sự nô dịch do ngoại bang áp đặt. Rất nhiều tác phẩm chính luận khác của Hồ Chí Minh như Lời kêu gọi toàn quốc kháng chiến (19/12/1946), Không có gì quý hơn độc lập, tự do (17/7/1966), Di chúc (1965 - 1969),... âm vang tiếng nói của non sông, của lịch sử, luôn có sức động viên, cổ vũ rất lớn, có thể khơi dậy được sức mạnh của toàn dân tộc.
+
+Truyện, kí là một bộ phận sáng tác thực sự đặc sắc của Hồ Chí Minh, tuy có số lượng không nhiều. Nổi bật trong đó là những truyện ngắn được viết bằng tiếng Pháp, ra đời vào những năm hai mươi của thế kỉ XX: Pa-ri (Paris), Lời than vãn của Bà Trưng Trắc, "Vì hạnh", Những trò lố
+
+[Ở lề phải trang có hai ghi chú:
+1. "Liên hệ đến những tác phẩm chính luận của Hồ Chí Minh đã được học hoặc đã đọc."
+2. "Truyện, kí của Hồ Chí Minh chủ yếu được viết trong những khoảng thời gian nào?"]

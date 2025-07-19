@@ -1,0 +1,13 @@
+2.2. Sáng tác chữ Nôm của Nguyễn Du không nhiều, nhưng các tác phẩm của ông đều kết tinh nhiều giá trị quan trọng. Văn chiêu hồn và Truyện Kiều đều là những tác phẩm bất hủ. Trong đó, Truyện Kiều được xem là "khúc Nam âm tuyệt xướng" (từ dùng của Đào Nguyên Phổ).
+
+Về nội dung, tư tưởng, Truyện Kiều đặt ra câu hỏi lớn về "phận đàn bà" và số phận con người nói chung. Đó là câu chuyện về cuộc đời khổ đau của một con người bị đem đi mua bán như món hàng, bị đánh đập, bị sàm sỡ, bị sỉ nhục, dọa dẫy,... mà không ai có thể cứu giúp, cuối cùng phải đi tìm cái chết. Tác phẩm là "tiếng kêu thương đồng đất trời" khi nhân cách và giá trị làm người bị chà đạp.
+
+Về hình thức, với Truyện Kiều, Nguyễn Du đã nâng thể loại truyện thơ Nôm và ngôn ngữ văn chương của dân tộc lên một tầm cao mới. Nhiều nhân vật trong tác phẩm như Thúy Kiều, Kim Trọng, Thúc Sinh, Từ Hải, Hoạn Thư, Mã Giám Sinh, Tú Bà, Sở Khanh,... được khắc họa với những nét tính cách điển hình, sinh động tựa con người đang sống giữa cuộc đời. Ngôn ngữ Truyện Kiều đạt đến mức điêu luyện, biến hóa linh hoạt cả khi kể chuyện, tả cảnh, tả tình,... khi nhân vật đối thoại hay độc thoại nội tâm,...
+
+Viết Truyện Kiều, Nguyễn Du mượn cốt truyện Kim Vân Kiều truyện của Thanh Tâm Tài Nhân, nhà văn thời Minh - Thanh (Trung Quốc). Nhưng với việc bổ sung, thay đổi khá nhiều tình tiết, tăng cường hàm lượng trữ tình, sử dụng câu thơ lục bát để kể chuyện, tả cảnh, miêu tả nội tâm một cách tinh tế, điêu luyện,... Nguyễn Du đã sáng tạo nên một kiệt tác.
+
+3. Những kiệt tác văn chương, nghệ thuật luôn có sức sống vượt thời gian. Truyện Kiều, Văn tế thập loại chúng sinh và rất nhiều bài thơ chữ Hán của Nguyễn Du suốt mấy trăm năm qua đã chứng minh điều này. Đó là những tác phẩm đã, đang và sẽ làm rung động trái tim bao thế hệ người đọc, mang lại cho họ những bài học sâu sắc về tình yêu thương, quý trọng con người, về nghị lực sống, tranh đấu và vượt lên trên hoàn cảnh khắc nghiệt, về tư tưởng nhân văn và ý thức sáng tạo của người nghệ sĩ,...
+
+Điểm nhìn trong truyện thơ: Truyện thơ thường sử dụng điểm nhìn ngôi thứ ba toàn tri. Tuy nhiên, trong một số trường hợp, truyện thơ cũng sử dụng điểm nhìn ngôi thứ ba hạn tri từ một số nhân vật như điểm nhìn của nhân vật "anh" trong Tiếng đàn người yêu (truyện thơ dân tộc Thái) hoặc điểm nhìn của nhân vật Thúy Kiều ở một số đoạn trong Truyện Kiều (Nguyễn Du).
+
+Nhân vật và đối thoại, độc thoại nội tâm: Nhân vật trong tác phẩm truyện thường được khắc họa không chỉ thông qua các chi tiết miêu tả ngoại hình, hành động, mà còn qua ngôn ngữ giao tiếp và đời sống nội tâm của nhân vật, tức là thông qua đối thoại, độc thoại nội tâm.

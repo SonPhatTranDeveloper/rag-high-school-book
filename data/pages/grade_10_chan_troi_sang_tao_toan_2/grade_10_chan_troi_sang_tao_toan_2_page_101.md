@@ -1,0 +1,16 @@
+Bản quyền thuộc Nhà xuất bản Giáo dục Việt Nam.
+
+Tất cả các phần của nội dung cuốn sách này đều không được sao chép, lưu trữ, chuyển thể dưới bất kì hình thức nào khi chưa có sự cho phép bằng văn bản của Nhà xuất bản Giáo dục Việt Nam.
+
+TOÁN 10 - TẬP HAI (Chân trời sáng tạo)
+
+Mã số:
+In........bản, (QĐ in số....) Khổ 19x26,5 cm.
+Đơn vị in:..........................
+Cơ sở in:...........................
+Số ĐKXB:...........................
+Số QĐXB:........ ngày.... tháng.... năm 20....
+In xong và nộp lưu chiểu tháng.... năm 20....
+Mã số ISBN:
+
+100

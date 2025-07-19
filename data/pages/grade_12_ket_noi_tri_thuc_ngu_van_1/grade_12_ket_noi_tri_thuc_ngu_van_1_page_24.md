@@ -1,0 +1,13 @@
+Về sau, khi bằng một cách nào đó, có được trong tay toàn bộ bản thảo trữ trên tầng áp mái trong phòng người đàn bà bị cấm, không hiểu sao tôi thấy khá yên tâm với sự đảm bảo thầm lặng của chị để có thể kiên nhẫn lần đọc kĩ càng, thậm chí từng trang. Tất nhiên, tôi cố gắng như thế còn do sự cảm đó bởi sự tò mò muốn tìm hiểu đôi chút về một nhân vật mà bản dân thiên hạ trong phố coi là hiện tượng dị biệt, khó cắt nghĩa. [...] Một kẻ được đàn bà ưa thích và cưu mang song lại là một thực thụ ăn năn ăn nữ về phận hèn. Một tay tiểu tư sản thực thụ cuối cùng của khu phố, phàn loạn và cực đoan song cực kì bạc nhược và cực kì đo đỏ. Đại để là như thế, nói chung là chẳng rõ ràng gì. Tuy nhiên, trong thời buổi mà hầu hết chúng ta đều chung một tuyến cảm xúc, tôi thường bị hấp dẫn bởi những nhân cách lạc điệu và vì vậy tôi đã gắng đọc của anh ta, dù rằng thật là cực nhọc.
+
+Thoạt tiên, tôi cũng gắng sắp xếp để tìm lại một trình tự mong có thể đọc được như tôi vẫn thường đọc. Song hoài công. Có vẻ như chẳng một trình tự nào hết. Trang nào cũng hầu như là trang đầu, trang nào cũng có vẻ như trang cuối. Tôi nghĩ, ngay dù có đánh số trang, ngay dù không có những trường đoạn bị đứt, bị mối xông, không có những trang mà tác giả đã loại nhưng vẫn lẫn bản thảo thì đây vẫn là một sáng tác dựa trên cảm hứng chủ đạo của sự rối bời. Tôi không muốn nói là điên rồ.
+
+Từng trang, từng trường đoạn một thì có thể theo dõi được, đôi khi khá cuốn hút. Những địa danh không còn ai nhớ tới của một trận thần thuộc khiến tôi xúc động. Những cảnh chiến trận, những tiểu tiết của cuộc sống bình sĩ, những gương mặt đồng đội hiện lên ngắn ngủi, thoáng lướt nhưng đậm nét trên từng trang. Tuy nhiên mạch chuyện không ngừng đứt gãy. Tác phẩm từ đầu đến cuối không hề có nổi một tuyến chung, một bề mặt đại khái nào mà hoàn toàn là những khối thù hình(1). Tất cả đang diễn ra đột nhiên đứt gãy và bị quét sạch khỏi giữa chừng trang giấy y như thế rơi vào một kẽ nứt nào đó của thời gian tác phẩm. Ta vẫn gọi đó là sự mất bố cục, sự thiếu mạch lạc, thiếu bao quát nhiều khi chúng tỏ sự hụt hẫng của tư duy người viết, chúng tỏ cái vẻ "lực bất tòng tâm" của y.
+
+[...] Dần dà chính tôi đã đi đến chỗ cho phép mình đọc theo một phương thức rất tùy nghi. Tôi đọc cả núi giấy ấy một cách giản đơn là từ trước rồi đến từ sau bất kể trình tự đó là ngẫu nhiên, bất kể đó là một trang bản thảo hay là một
+
+(1) Thù hình: hình ảnh khác biệt.
+
+Người kể chuyện gặp khó khăn gì khi đọc những trang bản thảo do "nhà văn của phường chúng tôi" để lại?
+
+Theo bạn, "nguyên do" mà người kể chuyện cho rằng mình đã hiểu có thể là gì?

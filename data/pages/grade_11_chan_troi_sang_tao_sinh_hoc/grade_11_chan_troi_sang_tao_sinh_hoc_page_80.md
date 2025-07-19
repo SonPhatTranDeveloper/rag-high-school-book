@@ -1,0 +1,17 @@
+Miễn dịch dịch thể: Tế bào T hỗ trợ được hoạt hoá tiết ra các phân tử cytokine (các protein có vai trò kích thích làm tăng sinh và hoạt hoá các tế bào đáp ứng miễn dịch) hoạt hoá các tế bào B. Tế bào B tăng sinh và biệt hoá tạo các tế bào B nhớ và tương bào. Kháng thể được sản xuất bởi tương bào có khả năng nhận diện đặc trưng với từng loại kháng nguyên, sau đó tiến hành gây ngưng kết, bao bọc các loại virus và vi sinh vật gây bệnh, lắng kết các loại độc tố do vi sinh vật tiết ra, nhờ đó làm bất hoạt chúng.
+
+Miễn dịch qua trung gian tế bào: Các phân tử cytokine kết hợp với sự tác động của tế bào trình diện kháng nguyên làm cho các tế bào T độc được hoạt hoá. Tế bào T độc tăng sinh tạo các tế bào T độc hoạt hoá và tế bào T độc nhớ. Tế bào T độc tiết ra chất độc để làm tan các tế bào có kháng nguyên lạ (tế bào nhiễm virus, các tế bào ung thư, các thể kí sinh). Bên cạnh đó, tế bào T hỗ trợ cũng hoạt hoá các tế bào đáp ứng miễn dịch khác (đại thực bào, tế bào giết tự nhiên,...) để làm tan các tế bào bị lây nhiễm.
+
+Các tế bào B và T nhớ có nhiệm vụ ghi nhớ các kháng nguyên để khi chúng tái xâm nhập, cơ thể sẽ tạo đáp ứng miễn dịch thứ phát nhanh hơn và mạnh hơn (từ 2 - 3 ngày).
+
+# III. BẢO VỆ SỨC KHOẺ Ở NGƯỜI
+
+## 1. Quá trình phá vỡ hệ miễn dịch của một số tác nhân
+
+Nhiều tác nhân khi xâm nhập vào cơ thể sẽ tấn công hệ miễn dịch theo nhiều cách khác nhau. Chẳng hạn, HIV khi đã xâm nhập vào cơ thể sẽ tấn công và phá huỷ các tế bào lympho T hỗ trợ (có chức năng nhận diện kháng nguyên và tạo khả năng miễn dịch). Do đó, làm cho hoạt động miễn dịch của cơ thể ngày càng suy giảm gây hội chứng suy giảm miễn dịch ở người (AIDS).
+
+Sự tác động của các hoá chất hoặc virus gây đột biến gene làm cho một nhóm tế bào trở nên bất thường và phân chia liên tục, không được kiểm soát, hình thành nên khối u ác tính gây bệnh ung thư. Tế bào ung thư có khả năng tách khỏi khối u, di căn theo đường máu và bạch huyết đến các vị trí khác trong cơ thể, phát triển thành khối u mới gây tổn thương các cơ quan và giảm sự lưu thông máu. Khi các tế bào ung thư xâm nhập và hình thành khối u ác tính trong tuỷ xương, gây cản trở quá trình sinh sản của các tế bào tuỷ xương, ức chế sự hình thành các tế bào miễn dịch dẫn đến chức năng của hệ miễn dịch bị suy giảm. Bên cạnh đó, các tế bào ung thư còn sản sinh protein làm giảm khả năng hoạt động của các tế bào bạch cầu lympho T.
+
+Thông thường, hệ miễn dịch của cơ thể sẽ không phản ứng lại với các kháng nguyên của bản thân (gọi là dung nạp miễn dịch). Tuy nhiên, trong một số trường hợp, hệ miễn dịch tạo ra các đáp ứng chống lại các tế bào, cơ quan của cơ thể được gọi là hiện tượng tự miễn. Nguyên nhân có thể do di truyền, sự tác động của các yếu tố môi trường làm cho hệ miễn dịch mất khả năng phân biệt kháng nguyên lạ và kháng nguyên của cơ thể làm cho hệ miễn dịch tấn công các tế bào của cơ thể gây tổn thương các cơ quan. Ví dụ: Kháng nguyên ở vi khuẩn lậu (Neisseria gonorrhoeae) có cấu trúc tương tự như các phân tử do tế bào ở khớp sản xuất, gây nên đáp ứng tự miễn. Lúc này, các tế bào bạch cầu tiết ra kháng thể tiêu diệt cả vi khuẩn lẫn các tế bào ở khớp khoẻ mạnh (Hình 12.5).
+
+[Hình minh họa với chú thích: Hãy giải thích tại sao nguy cơ mắc bệnh ở người rất lớn nhưng xác suất bị bệnh lại rất nhỏ.]

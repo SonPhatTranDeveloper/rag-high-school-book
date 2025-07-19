@@ -1,0 +1,17 @@
+cách của mình làm nguồn vốn cho sự nghiệp, thì sau này cho dù không phải lúc nào con cũng gặp thuận lợi, nhưng cũng không gặp thất bại đến ê chề. Ngược lại, nếu đánh mất đi nhân cách cơ bản nhất, thì con chẳng còn gì để mà nói đến sự nghiệp thành công nữa. Một người thực sự có được thành tựu trong sự nghiệp chắc chắn là người có nhân cách. Chúng ta thường nói, phải học làm người trước, từ đó có thể thấy bồi dưỡng nhân cách là nguồn vốn đáng tin cậy nhất cho sự nghiệp.
+
+Con bây giờ đang ở trong giai đoạn học tập then chốt, tuổi trẻ tươi đẹp là thời kì lí tưởng để con nuôi dưỡng nhân cách của mình. Rất nhiều các bạn trẻ không nhận thức được điều này. Thời đi học, nhiều người không chịu khó học các kiến thức văn hoá, lại đi học các thói hư tật xấu như: lười biếng, ích kỉ, lừa thầy dối bạn, không có trách nhiệm nào với tương lai của chính mình. Sau này chắc chắn họ không thể là người đủ tiêu chuẩn bước vào xã hội, chứ đừng nói đến việc sẽ gây dựng nên sự nghiệp. Ngược lại những người hết lòng ham học, thật thà, có trách nhiệm, đạo đức tốt, sau này chắc chắn sẽ có tiền đồ tươi sáng.
+
+Thành thật và giữ lời hứa là những phẩm chất quan trọng nhất trong vẻ đẹp nhân cách của con người, là thứ đáng tin cậy nhất trên đời. Trong cuộc sống không ít người vì vứt bỏ sự thành thật mà cuối cùng phải gánh chịu thất bại. Mấu chốt của thành công nằm ở sự chính trực, công bằng, thành thật và giữ chữ tín, nếu ta thiếu những thứ này thì không thể đi tới thành công đích thực được. Bất kể trong học tập hay đi làm, những phẩm chất này đều giúp con gặt hái được thành công như mong muốn.
+
+Con trai, con cần phải biết bảo vệ nhân cách của mình, nhân cách là thứ quý giá nhất trong mọi tài sản. Lúc cần thiết, thậm chí ta còn hi sinh tính mạng của mình để bảo vệ nhân cách.
+
+Người không có nhân cách thì làm bất cứ việc gì cũng phải đeo mặt nạ, hại người để trục lợi, tuy họ có được tiền nhưng trong thâm tâm thực ra rất đau khổ, bởi việc họ làm không có nhân tính nên lương tâm sẽ bị dằn vặt.
+
+Con phải hiểu rằng, cho dù sau này con làm bất cứ ngành nghề gì thì cũng phải tôn trọng nhân cách và giữ gìn phẩm hạnh của mình. Sau này dù con làm bác sĩ, luật sư, doanh nhân, hay làm nông dân, nghi sĩ, chính trị gia,... thì con cũng phải nhớ một điều, trước sau con vẫn đang làm "người". Ngoài ra, để có được nhân tính tốt đẹp, con cần có một tấm lòng cao thượng, hãy đong đầy trong tim mình những điều tốt đẹp. Với một tấm lòn mạnh mẽ, đứng cảm, con có thể chống lại tất cả những thứ tàn ác. Con hãy ghi nhớ rằng: Thà chấp nhận kẻ trộm vào nhà cà nghìn lần, lấy đi những bộ sưu tập đắt giá, lấy đi bao của cải, cũng không được chấp nhận kẻ thù của tinh thần, đó là sự hỗn loạn, suy nghĩ bệnh hoạn, lo âu, đố kị, sợ hãi,... lấy đi sự bình an của con, cướp đi sự yên tĩnh trong tâm hồn con. Mất sự bình an và yên tĩnh trong tâm hồn, cuộc sống chỉ còn là "nấm mồ sống" mà thôi.
+
+Một người làm chủ được suy nghĩ của mình, có thể thay thế thất vọng bằng hi vọng, lấy suy nghĩ tích cực thay thế cho tiêu cực, lấy quyết tâm thay cho hoài nghi, lấy lạc quan thế chỗ cho bi quan. Người làm nô lệ cho sự lo âu, sợ hãi, suy sụp thì chắc chắn sẽ là người thất bại. Vì vậy, trong
+
+[6]: Thuyết phục người đọc bằng lí lẽ
+
+Đoàn văn Doanh - THPT Nam Trực - Nam Định 119

@@ -1,0 +1,13 @@
+"Miệt thị ngoại hình", trước hết, có thể xem như một hình thức bạo lực bằng ngôn từ. Những lời lẽ thô thiển, ác ý nhằm vào dung mạo, thân hình, màu da,... của ai đó có thể gây tổn thương tâm lí cho chính người ấy. Hình thức bạo lực bằng ngôn từ này cũng có nguy cơ dẫn đến bạo lực về thể chất, hay làm dấy lên những định kiến, bất công xã hội. Không phải ngẫu nhiên mà giữa miệt thị ngoại hình và tình trạng phân biệt chủng tộc, kì thị giới tính,... có mối liên hệ khá mật thiết. Điều này được mô tả rõ nét trong cuốn tiểu thuyết Mắt nào xanh nhất (1970) của Tô-ni Mô-ri-xơn (Toni Morrison), nhà văn nữ da màu người Mỹ đầu tiên được trao giải Nô-ben Văn học vào năm 1993. Tác phẩm gây chấn động khi nó xoáy sâu vào bi kịch của một cô bé da đen bị xem là "xấu xí", bị căm ghét bởi màu da và ngoại hình. Trong văn học Việt Nam, nhiều truyện ngắn của Nam Cao cũng đã phê phán những định kiến xã hội về đặc điểm nhân dạng của con người, điển hình nhất là Chí Phèo (1941), trong đó, những nhân vật như Chí Phèo, thị Nở phải hứng chịu thái độ ác cảm và sự khinh miệt của cộng đồng bởi ngoại hình của họ bị xem là dị dạng và khuôn mặt của họ bị chế nhạo "không phải mặt người".
+
+Hiện tượng miệt thị ngoại hình có thể có nguồn gốc tâm lí: muốn phán xét người khác. Người ta thường dựa vào những đặc điểm được xem như một thứ tiêu chuẩn về ngoại hình để chế giễu, mỉa mai, khinh thị người không vừa "khuôn". Trên thực tế, tiêu chuẩn này thường là biểu hiện của quan niệm mang tính áp đặt, liên quan đến đặc quyền của một số bộ phận trong xã hội, nhưng lại làm tổn thương những cá nhân, những nhóm xã hội khác.
+
+Miệt thị ngoại hình là một hiện tượng mang tính lịch sử. Vào thời Phục hưng ở châu Âu, cơ thể đẫy đà của một người là dấu hiệu cho biết người đó thuộc tầng lớp cao trong xã hội, bởi thời kì ấy, chỉ giới quý tộc và những người giàu có mới đủ ăn, đủ dinh dưỡng. Nhưng đến thế kỉ XX, khi bài toán lương thực, thực phẩm được giải quyết về cơ bản, sự đẫy đà, mập mạp của cơ thể không còn là điều lí tưởng. Thậm chí, tầng lớp nghèo ở nhiều nước phương Tây mới là những người phải ăn thực phẩm có hàm lượng mỡ cao, và do đó, đối diện với nguy cơ bị béo phì. Sự miệt thị người có cơ thể béo phì trong trường hợp này liên quan mật thiết đến những vấn đề bất công tồn tại trong xã hội.
+
+Ngày nay, những định kiến về ngoại hình có thể còn gắn kết một cách tinh vi với tham vọng về lợi ích thương mại. Ngành công nghiệp thời trang và mĩ phẩm đã từng hứng chịu những làn sóng phê bình khi góp phần không nhỏ vào việc thiết lập và duy trì các tiêu chuẩn về vóc dáng, màu da, khuôn mặt, trần áp sự đa dạng
+
+Thuyết minh về thực chất của hiện tượng miệt thị ngoại hình.
+
+Thuyết minh về nguyên nhân của hiện tượng miệt thị ngoại hình.
+
+53

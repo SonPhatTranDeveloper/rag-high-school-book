@@ -1,0 +1,11 @@
+trường hợp này, sản phẩm của hai gene không trực tiếp tương tác với nhau nhưng nếu sản phẩm của gene bị mất chức năng hoặc không được tạo ra thì không có nguyên liệu để cho sản phẩm của gene kia chuyển hóa nên kiểu hình chung bị ảnh hưởng. Kiểu tương tác gene này thường được gọi là tương tác át chế vì gene này bị đột biến mất chức năng sẽ át chế sự biểu hiện các gene khác.
+
+2. Sản phẩm của các gene tương tác trực tiếp với nhau theo kiểu cộng gộp
+
+Nhiều tính trạng như chiều cao, màu da, màu tóc,... của người do rất nhiều gene quy định. Mỗi allele trội của một gene quy định một "đơn vị" nhỏ sản phẩm, góp phần cùng sản phẩm của các gene khác tạo nên kiểu hình chung. Ví dụ: Mỗi allele trội quy định màu da, màu tóc chỉ tạo ra một lượng rất nhỏ sắc tố. Tổng số các allele trội quy định màu da, màu tóc trong hệ gene sẽ quyết định lượng sắc tố quy định kiểu hình (H 9.3). Kiểu tương tác giữa các gene theo kiểu cộng dồn đó được gọi là tương tác cộng gộp và tính trạng đa gene như vậy được gọi là tính trạng số lượng. Hầu hết các tính trạng quy định tốc độ sinh trưởng, năng suất, cân nặng,... đều thuộc loại tính trạng số lượng.
+
+[Hình 9.3 là một biểu đồ phân bố tần số người với các màu da người. Trục x biểu thị màu da từ sáng đến đậm, trục y biểu thị tần số kiểu hình F1. Biểu đồ có dạng chuông, với đỉnh ở giữa và hai đuôi thấp dần về hai bên. Bên dưới biểu đồ có bảng thể hiện tỉ lệ kiểu hình F1 và số allele trội trong kiểu gene tương ứng với từng cột của biểu đồ.]
+
+Hình 9.3. Biểu đồ phân bố tần số người với các màu da người
+
+Ví dụ: Người có kiểu gene AABBDD (tổng hợp được nhiều sắc tố melanin nhất nên có màu da sẫm màu nhất) lấy người có kiểu gene aabbdd không có khả năng tổng hợp sắc tố nên có da trắng nhất (sáng màu nhất). Những người có kiểu gene AaBbDd có màu da sẫm ở mức trung bình giữa hai kiểu gene trên. Khi hai người có kiểu gene dị hợp về ba cặp gene AaBbDd lấy nhau và 3 cặp gene này nằm trên 3 cặp NST tương đồng khác nhau thì sẽ tạo ra tới 64 tổ hợp gene ở đời con với 7 nhóm kiểu hình theo tỉ lệ: 1: 6: 15: 20: 15: 6: 1 (H 9.3).

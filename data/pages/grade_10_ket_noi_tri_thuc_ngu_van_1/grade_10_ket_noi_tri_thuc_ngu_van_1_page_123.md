@@ -1,0 +1,15 @@
+Đây là nội dung được trích xuất từ trang sách tiếng Việt:
+
+còn gì vướng mắc với chính mình. Nàng đã bị gã Rắc-sa-xa (Rakshasa)(1) tầm đia xảo trá bắt cóc khi vắng mặt ta, đó là do sở phận nàng xui nên, nhưng ta đã gỡ cho nàng khỏi điều vu khống. Kẻ nào bị quân thù lăng nhục mà không đem tài nghệ của mình ra để trả thù là kẻ tầm thường. Ngày hôm nay, việc chàng Ha-nu-man hào hán vượt biển cả đã kết thúc thành công; việc đốt phá Lan-ka (Lanka) và những kì tích khác đã đem lại vinh quang. Ngày hôm nay, tài nghệ và những lời khuyên sáng suốt của Vi-phi-sa-na (Viphisana)(2) đã hoàn toàn được chứng tỏ; cả những cố gắng của chàng cũng thành công tốt đẹp, chàng đã từ bỏ người anh bất hảo của mình, ủng hộ đại nghĩa của ta và nương tựa vào ta".
+
+Nghe những lời đó, Gia-na-ki mở tròn đôi mắt đẫm lệ. Thấy người đẹp khuôn mặt bỗng sen với những cuộn tóc lượn sóng đứng trước mặt mình, lòng Ra-ma đau như dao cắt. Nhưng vì sợ tai tiếng, chàng bèn nói với nàng, trước mặt những người khác: "Để trả thù sự lăng nhục, ta đã làm những gì mà một con người phải làm: ta đã tiêu diệt Ra-va-na. Cũng như đại đạo sĩ A-ga-xti-a (Agaxtia) nhờ công sấm hỏi khổ hạnh đã giải thoát cho các xứ phương Nam khỏi nỗi kinh khiếp đối với In-van (Ilvala) và Va-ta-pi (Vatapi)(3), ta cũng giải thoát cho cõi thế gian này khỏi mối lo sợ Ra-va-na. Phải biết chắc điều này: chẳng phải vì nàng mà ta đã đánh thắng kẻ thù với sự giúp đỡ của bạn bè. Ta làm điều đó vì nhân phẩm của ta, để xóa bỏ vết ô nhục, để bảo vệ uy tín và danh dự của dòng họ lừng lẫy tiếng tăm của ta. Ta làm điều đó chính là để chứng tỏ ta không thuộc về một gia đình bình thường. Nay ta phải nghi ngờ tư cách của nàng, vì nàng đã lưu lại lâu trong nhà một kẻ xa lạ. Giờ đây, nàng đang đứng trước mặt ta, nhưng trong thấy nàng, ta không chịu nổi, chẳng khác nào ánh sáng đối với người bị đau mắt. Vậy ta nói cho nàng hay, nàng muốn đi đâu tùy nàng, ta không ưng có nàng nữa. Người đã sinh trưởng trong một gia đình cao quý có thể nào lại lấy về một người vợ từng sống trong nhà kẻ khác, đơn giản chỉ vì mụ ta là một vật để yêu đương? Nàng đã bị quấy nhiễu khi ở trong vạt áo của Ra-va-na, đôi mắt tội lỗi của hắn đã hau háu nhìn khắp người nàng, vậy làm sao ta có thể nhận nàng về khi nghĩ tới gia đình cao quý đã sinh ra ta?
+
+Nay mục đích cứu nàng đã đạt được rồi, ta không cần đến nàng nữa. Nàng muốn đi đâu tùy ý. Hỡi phu nhân cao quý! Ta nói rõ cho nàng hay, chẳng chút quanh co, ngập ngừng:
+
+(1) Rắc-sa-xa: một loài yêu quỷ. Ra-va-na, kẻ bắt cóc Xi-ta, là vua của yêu quỷ Rắc-sa-xa sống trên đảo Lan-ka.
+
+(2) Vi-phi-sa-na: em trai của Ra-va-na. Khuyên Ra-va-na trả Xi-ta lại cho Ra-ma không được, Vi-phi-sa-na đã từ bỏ người anh tội lỗi của mình sang chiến đấu bên phe của Ra-ma. Sau khi tiêu diệt Ra-va-na, Ra-ma đưa Vi-phi-sa-na lên ngôi cai trị đảo Lan-ka.
+
+(3) In-van và Va-ta-pi: hai anh em nhà quỷ độc ác thường ăn thịt các tu sĩ Bà La Môn. Chúng bị đạo sĩ A-ga-xti-a tiêu diệt.
+
+122

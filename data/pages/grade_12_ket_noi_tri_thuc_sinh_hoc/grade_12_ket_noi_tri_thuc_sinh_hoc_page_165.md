@@ -1,0 +1,17 @@
+yếu tố gây biến đổi điều kiện sống và có thể làm giảm khả năng thích nghi của loài đó. Điều kiện sống thay đổi cũng tạo môi trường phù hợp cho loài mới định cư, phát triển, dẫn cạnh tranh và thay thế loài ưu thế cũ để trở thành loài ưu thế mới. Quá trình này lặp lại cho đến khi hình thành quần xã định cực. Ví dụ: Trên nền đá nghèo dinh dưỡng, đia y là loài ưu thế, hoạt động sống và xác của đia y được tích tụ theo thời gian hình thành nên lớp đất mùn phù hợp cho rêu định cư. Rêu dần thích nghi, phát triển, tăng kích thước quần thể, cạnh tranh và dần loại bỏ đia y.
+
+2. Tầm quan trọng của nghiên cứu diễn thế
+
+Những hiểu biết về diễn thế giúp con người giải thích được sự biến đổi của các quần xã trong tự nhiên. Ngoài ra, dựa vào các nghiên cứu về quy luật diễn thế, từ quần xã hiện tại con người có thể biết được các quần xã từng tồn tại trước đó và dự đoán được sự biến đổi của quần xã trong tương lai, từ đó giúp con người giải quyết nhiều vấn đề trong thực tiễn, gồm:
+
+- Đánh giá và dự đoán được hệ quả những tác động của con người lên hệ sinh thái, từ đó đưa ra các kế hoạch xây dựng, khai thác tài nguyên, cải tiến công nghệ,... giúp ngăn chặn diễn thế suy thoái và bảo vệ môi trường sống. Ví dụ: Đánh giá tác động môi trường trước và sau khi xây đập thủy điện, hồ chứa nước, khu công nghiệp,... để đưa ra các quyết định hoặc biện pháp ứng phó với các thay đổi bất lợi của hệ sinh thái; cải tiến các công nghệ như khai khoáng, tuyển quặng, kĩ thuật canh tác, xử lí chất thải,...để giảm thiểu tác động ô nhiễm, hủy hoại quần xã; khai thác tài nguyên tái sinh như rừng, thủy sản, ...đúng thời điểm, đúng định mức với kĩ thuật hợp lí nhằm duy trì nguồn lợi lâu dài.
+
+- Giúp rút ngắn thời gian hình thành quần xã định cực trong tái sinh rừng, hồi phục quần xã suy thoái,...thông qua các tác động can thiệp thành phần loài, cải tạo sinh cảnh,... Ví dụ: Để tăng hiệu quả cải tạo đất ngập mặn ở miền Bắc Việt Nam, các loài trang (Kandelia obovata) hoặc bần (Sonneratia spp.) được lựa chọn là loài tiên phong do khả năng thích nghi với nền đất yếu, sinh trưởng nhanh, tỉ lệ sống cao, giữ phù sa tốt,... Sau khi nền đất được nâng cao, các loài đước (Rhizophora apiculata), vẹt (Bruguiera spp.) thích nghi hơn được trồng bổ sung.
+
+III. MỘT SỐ HIỆN TƯỢNG ẢNH HƯỞNG ĐẾN HỆ SINH THÁI
+
+Loài người hiện tại và tương lai đang phải đối mặt với sự biến đổi bất lợi của môi trường sống như hiện tượng phì dưỡng, sự ấm lên toàn cầu và sa mạc hoá.
+
+Phì dưỡng (phú dưỡng) là hiện tượng môi trường nước thừa chất dinh dưỡng (nitrogen, phosphorus) dẫn đến sự phát triển quá mức của vi sinh vật (vi khuẩn lam, tảo,...) gây độc và suy giảm lượng oxygen trong nước, làm chết hàng loạt động vật thủy sinh (cá, tôm,...). Nguyên nhân chủ yếu gây ra hiện tượng này đến từ dòng nước chứa phân bón dư thừa, nước thải sinh hoạt, nước thải của các ngành chế biến nông, thủy sản và chất thải chăn nuôi chưa được xử lí.
+
+Sự ấm lên toàn cầu là hiện tượng tăng nhiệt độ trung bình của Trái Đất trong thời gian dài. Sự ấm lên của Trái Đất dẫn đến biến đổi khí hậu, thể hiện qua sự thất thường về thời tiết, chu kì mưa và gia tăng các hiện tượng thời tiết cực đoan như hạn hán, bão, lũ lụt, nước biển dâng,... gây mất cân bằng sinh thái trên quy mô toàn cầu. Nguyên nhân gây ra hiện tượng này là do hoạt động sống của con người như chặt phá rừng, phát thải quá nhiều khí nhà kính,... dẫn đến tăng hiệu ứng nhà kính làm tăng nhiệt độ của Trái Đất.

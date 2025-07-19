@@ -1,0 +1,9 @@
+LỜI NÓI ĐẦU
+
+Các bạn thân mến!
+
+Các bạn vừa trải qua năm học đầu tiên của cấp Trung học phổ thông - một năm học có nhiều thử thách đầy ý nghĩa cùng bao hoạt động, trải nghiệm thú vị. Với sách giáo khoa Ngữ văn lớp 10, các bạn đã được làm quen một mô hình tổ chức bài học hiện đại và hấp dẫn; được tiếp xúc, khám phá không ít tác phẩm thuộc nhiều loại, thể loại của sáng tác ngôn từ; được thực hành tìm hiểu và sử dụng tiếng Việt một cách hiệu quả; được tập viết những kiểu bài cần cho bước đường trưởng thành của mỗi cá nhân; được tập thuyết trình và thảo luận về những vấn đề gần gũi với cuộc sống. Qua việc tham gia tích cực những hoạt động học tập, các bạn đã bồi đắp được cho mình nhiều phẩm chất tốt đẹp cần có ở con người Việt Nam trong thời kì phát triển mới.
+
+Với sách giáo khoa Ngữ văn lớp 11, các bạn vẫn tiếp tục hành trình khám phá, sáng tạo và trưởng thành cùng 9 bài học mang nội dung mới nhưng không xa lạ: Cấu chuyện và điểm nhìn trong truyện kể, Cấu từ và hình ảnh trong thơ trữ tình, Cấu trúc của văn bản nghị luận, Tự sự trong truyện thơ dân gian và trong thơ trữ tình, Nhân vật và xung đột trong bi kịch, Nguyễn Du - "Những điều trông thấy mà đau đớn lòng", Ghi chép và tưởng tượng trong kí, Cấu trúc của văn bản thông tin, Lựa chọn và hành động. Nhìn vào hệ thống nhan đề trên, hẳn các bạn nhận thấy giữa sách giáo khoa Ngữ văn lớp 10 và sách giáo khoa Ngữ văn lớp 11 không chỉ có sự tương đồng về cấu trúc bài học mà còn có sự tương đồng trong cách sắp xếp trình tự các bài. Bài 6 - Nguyễn Du - "Những điều trông thấy mà đau đớn lòng" đi sâu tìm hiểu tác gia Nguyễn Du - đại thi hào dân tộc được thế giới vinh danh. Bài 9 - Lựa chọn và hành động gồm một tổ hợp văn bản và hoạt động xoay quanh chủ đề "lựa chọn và hành động", khơi gợi những suy nghĩ nghiêm túc về mối quan hệ giữa việc khẳng định bản sắc cá nhân và tinh thần trách nhiệm trước cộng đồng.
+
+Hãy bảo quản, giữ gìn sách giáo khoa để dành tặng các em học sinh lớp sau.

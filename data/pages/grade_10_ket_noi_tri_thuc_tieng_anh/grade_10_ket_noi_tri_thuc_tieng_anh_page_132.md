@@ -1,0 +1,9 @@
+TIENG ANH 10 - GLOBAL SUCCESS - SACH HOC SINH
+
+Ma so: G3HHXA001A22
+In ... ban, (QD ...) kho 20 x 28cm
+Don vi in: ... dia chi ...
+So DKXB: 183-2022/CXBIPH/41-62/GD
+So QDXB: /QD - GD - HN ngay ... thang ... nam 20...
+In xong nop luu chieu thang ... nam 20...
+Ma so ISBN: 978-604-0-31117-7

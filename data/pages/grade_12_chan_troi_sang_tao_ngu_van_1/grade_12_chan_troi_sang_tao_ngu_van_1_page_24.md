@@ -1,0 +1,15 @@
+Chim mồi về rừng tìm chốn ngủ,
+Chòm mây trôi nhẹ giữa tầng không;
+Cô em xóm núi xay ngô tối,
+Xay hết, lò than đỏ rực hồng.
+(Bản dịch của Nam Trần)
+
+Buổi chiều tối ở miền núi vẫn có hình ảnh "chim mồi về rừng", "chòm mây lê loi lững lờ trôi" gợi nỗi buồn man mác nhưng không đến mức cô quạnh như bài thơ Giang tuyết. Bài thơ Mộ cũng có sự xuất hiện của con người, nhưng không phải là ngư ông mang tơi, đội nón mà hình ảnh tuyệt trên sông lạnh mà là "cô em xóm núi xay ngô tối", một con người lao động lam lũ nhưng khoẻ khoắn, đầy sức sống. Do đó, với sự xuất hiện của mình, con người đã mang lại hoạt động và sự sống cho bức tranh sinh hoạt nơi xóm núi lúc chiều tối. Mọi hoạt động như thu lại, vận động theo vòng xoay cối xay ngô của người sơn nữ. Ngô xay xong thì trời tối hẳn, ta cảm nhận được điều đó bởi sự tương phản ánh sáng – bóng tối: Lò than đỏ rực lên.
+
+Điểm khác biệt thứ hai là cách sử dụng nhân tự (chữ mắt) của hai nhà thơ. Nhân tự của bài thơ Giang tuyết là "hàn" (lạnh). Cái "hàn" không chỉ toát ra từ dòng sông tuyết mà còn từ sự lẻ loi nơi hình ảnh chiếc thuyền "cô chu" (lẻ loi) và cả cái lẻ loi nơi ông câu "độc điếu" (câu một mình). Hơn thế lại là "độc điếu hàn giang tuyết" (một mình câu tuyết sông lạnh). Đó hẳn không phải chỉ cái lạnh từ ngoài cảnh mà có thể còn là cái lạnh từ tâm hồn chủ thể trữ tình – người đang lặng lẽ quan sát bức tranh "Giang tuyết". Nhân tự của bài thơ Mộ, chữ "hồng" (đỏ), tạo một hiệu ứng cảm giác ngược lại với chữ "hàn" nói trên. "Lò đỏ hồng" là lò than đỏ rực lên trên nền trời tối. Đó là ánh sáng, là hơi ấm không chỉ toả ra từ bếp lò mà còn từ thành quả vòng quay của cối, động tác xay ngô của cô gái xóm núi. Và hơn thế, còn là ánh sáng từ cái nhìn, hơi ấm từ tâm hồn của chủ thể trữ tình. Theo đó, chữ "hồng" cuối bài thơ đã xua đi bóng tối và giá lạnh buổi chiều hôm nơi xóm núi, mang lại ánh sáng, hơi ấm cho bức tranh. Thật đáng ngạc nhiên, khi đó lại là ánh sáng, hơi ấm từ cái nhìn và từ tâm hồn của chủ thể trữ tình – một người từ sau suốt một ngày dài bị dọa dẫy đau khổ trên đường đi. Nhân tự này đặt trong chính thể nghệ thuật của bài thơ đã phản ánh quan niệm thẩm mĩ hiện đại, tinh thần lạc quan của nhà thơ Hồ Chí Minh: Cái đẹp nằm trong đời sống sinh hoạt bình dị; ở đâu có con người, ở đó có hoạt động, có hơi ấm, có ánh sáng, có niềm vui.
+
+Việc phân tích trong sự so sánh hai bài thơ cũng giúp ta hiểu thêm hai phong cách sáng tác: phong cách thơ cổ điển và phong cách thơ hiện đại (lãng mạn, hiện thực hoặc lãng mạn kết hợp với hiện thực). Tiêu biểu cho phong cách cổ điển, bài thơ Giang tuyết (Liễu Tông Nguyên) cho thấy: Trong con mắt của nhà thơ xưa, thế giới tạo vật thật lớn lao, vô biên, vô tận; con người chỉ như cái rơm, cọng cỏ hoà tan vào trong cõi vô tận, vô biên ấy. Tiêu biểu cho phong cách hiện đại (kết hợp giữa cổ điển và lãng mạn), bài thơ Mộ (Hồ Chí Minh) lại cho thấy: Trong tương quan với vũ trụ và thế giới, con người bao giờ cũng giữ một vị trí, vai trò xứng đáng; và trong các bức tranh thơ, con người thường chiếm vị trí trung tâm.
+
+[3b]: So sánh điểm khác biệt thứ hai: cách sử dụng nhân tự
+
+[4]: Đánh giá phong cách sáng tác của mỗi tác phẩm

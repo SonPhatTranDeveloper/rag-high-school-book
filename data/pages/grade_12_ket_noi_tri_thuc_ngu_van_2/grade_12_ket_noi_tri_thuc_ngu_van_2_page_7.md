@@ -1,0 +1,13 @@
+nhà văn lựa chọn đề tài, xác định chủ đề, bày tỏ thái độ trước đối tượng miêu tả và vận dụng các phương thức, phương tiện nghệ thuật.
+
+Đối với các nhà văn cách mạng, quan điểm sáng tác thường được tuyên bố công khai, gắn với sự lựa chọn một thái độ chính trị dứt khoát, do đặc điểm của thời đại cách mạng quy định. Chính điều này làm nên tính đặc thù của những sáng tác thuộc loại hình văn học cách mạng mà thơ văn Hồ Chí Minh là một ví dụ tiêu biểu.
+
+Đánh giá một tác giả, tác phẩm văn học
+
+Khi đánh giá một tác giả, tác phẩm văn học, cần huy động kiến thức nhiều mặt và phải dựa trên những tiêu chí xác đáng. Điều quan trọng là phải đặt đối tượng vào tiến trình văn học (văn học dân tộc, văn học thế giới) để nhận ra mức độ đóng góp về nội dung tư tưởng và nghệ thuật của tác giả, tác phẩm đó. Những tác giả, tác phẩm lớn thường đạt được thành tựu quan trọng trong việc tổng hợp kinh nghiệm nghệ thuật phong phú của các giai đoạn văn học đã qua, tạo được bước phát triển có ý nghĩa cho văn học ở giai đoạn mới. Tuy khó tránh khỏi một số hạn chế do sự ràng buộc của thời đại, nhưng những tác giả, tác phẩm thực sự có tầm vóc thường chạm được vào các vấn đề nhân sinh vĩnh cửu, để tiếp tục đồng hành cùng bao lớp người đọc đến sau.
+
+Tính khẳng định, phủ định trong văn bản nghị luận
+
+Trong văn bản nghị luận, tính khẳng định và tính phủ định luôn song hành. Tính khẳng định gắn với nội dung thuyết phục người đọc tin vào sự đúng đắn của một luận đề, quan điểm, cách ứng xử, lựa chọn, niềm tin nào đó. Ngược lại, tính phủ định gắn với ý đồ phản bác những luận đề, quan điểm, cách ứng xử, lựa chọn, niềm tin mà tác giả cho là sai trái hoặc không phù hợp. Đằng sau sự khẳng định luôn ẩn chứa thái độ phủ định một đối tượng đối lập, còn sự phủ định thì luôn được thể hiện dựa trên thái độ khẳng định một đối tượng khác.
+
+Để tăng cường tính khẳng định hoặc phủ định cho văn bản nghị luận, người viết thường sử dụng nhiều biện pháp thuộc các cấp độ khác nhau như: từ ngữ, cú pháp, phép tu từ, lập luận (trong đó có lí lẽ, bằng chứng). Loại biện pháp có thể giống nhau nhưng hiệu quả đạt được thì trái ngược, do tính chất riêng của các yếu tố ngôn ngữ và ý đồ tư tưởng gắn với biện pháp đó. Ví dụ, cùng sử dụng những từ ngữ thể hiện thái độ đánh giá, nếu hướng đến việc khẳng định, người viết sẽ chọn những từ ngữ khác hẳn với khi hướng đến việc phủ định. Tương tự, cùng sử dụng bằng chứng nhưng bằng chứng nhằm mục đích phủ định không thể giống bằng chứng được đưa ra để khẳng định vấn đề.

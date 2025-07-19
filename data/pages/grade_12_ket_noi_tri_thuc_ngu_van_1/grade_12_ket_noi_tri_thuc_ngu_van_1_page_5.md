@@ -1,0 +1,9 @@
+Đoàn văn Doanh - THPT Nam Trực - Nam Định
+
+một cái nhìn tổng quan. Đó là các bài: 1 – Khả năng lớn lao của tiểu thuyết, 7 – Sự thật trong tác phẩm kí. Bài 6 – Hồ Chí Minh – "Văn hóa phải soi đường cho quốc dân đi" hướng dẫn các bạn khám phá những tác phẩm tiêu biểu cho thành tựu sáng tác của Hồ Chí Minh thuộc ba loại, thể loại chính: văn nghị luận, truyện – kí và thơ. Bài 9 – Văn học và cuộc đời gồm một cụm văn bản thuộc các thể loại khác nhau (thơ trữ tình, tiểu thuyết, kịch) chứa đựng những gợi mở quan trọng đối với việc hình thành thái độ ứng xử tích cực trước cuộc đời. Tất cả văn bản đọc trong sách giáo khoa Ngữ văn lớp 12 đều có thể được nhìn nhận như là điểm hội tụ của nhiều mối quan hệ thiết yếu trong cuộc sống. Do vậy, khi tìm hiểu, khám phá chúng, các bạn sẽ học được cách huy động hiệu quả những kiến thức lịch sử, văn hóa, xã hội, nghệ thuật,... từng tiếp nhận từ một số môn học khác. Những kiểu bài viết và nói dung nói, nghe được yêu cầu thực hiện trong sách này như viết và thuyết trình về một vấn đề liên quan đến tuổi trẻ, viết thư trao đổi công việc, viết bài phát biểu trong một buổi lễ phát động, viết và trình bày báo cáo kết quả thực hiện bài tập dự án,... đều là những kiểu bài, nội dung hoạt động thật sự thiết thực và mang tính ứng dụng cao, đưa người học đến với các cuộc tập dượt bổ ích.
+
+Sách giáo khoa Ngữ văn lớp 12 được thiết kế phù hợp với định hướng đổi mới phương pháp dạy học và đánh giá kết quả học tập. Từ việc đọc một văn bản cụ thể và thực hành viết, nói và nghe với những nội dung cụ thể, các bạn sẽ hình dung được sáng tỏ cách thực hiện các hoạt động ấy trước muôn vàn đối tượng, tình huống mới mà mình sẽ đối diện trong tương lai.
+
+Hi vọng rằng với sách giáo khoa Ngữ văn lớp 12, các bạn sẽ cùng có được tình yêu đối với văn học, tiếng Việt, để từ đó có được nền tảng nhân văn vững chắc và tầm nhìn khoáng đạt khi bước ra hòa nhịp với cuộc đời rộng lớn.
+
+CÁC TÁC GIẢ

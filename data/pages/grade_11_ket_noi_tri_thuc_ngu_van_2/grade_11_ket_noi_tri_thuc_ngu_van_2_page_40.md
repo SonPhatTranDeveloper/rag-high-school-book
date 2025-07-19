@@ -1,0 +1,12 @@
+Hiện nhiên là sông Hương đã sống những thế kỉ quang vinh với nhiệm vụ lịch sử của nó, từ thuở nó còn là một dòng sông biên thùy xa xôi của đất nước các vua Hùng. Trong sách địa dư của Nguyễn Trãi, nó mang tên là Linh Giang, dòng sông viễn châu(1) đã chiến đấu oanh liệt bảo vệ biên giới phía nam của Tổ quốc Đại Việt qua những thế kỉ trung đại. Thế kỉ mười tám, nó vẽ vang soi bóng kinh thành Phú Xuân(2) của người anh hùng Nguyễn Huệ; nó sống hết lịch sử bi tráng của thế kỉ mười chín với máu của những cuộc khởi nghĩa, và từ đấy sông Hương đã đi vào thời đại Cách mạng tháng Tám bằng những chiến công rung chuyển.
+
+[...] Sông Hương là vậy, là dòng sông của thời gian ngân vang, của sử thi viết giữa màu cỏ lá xanh biếc. Khi nghe lời gọi, nó biết cách tự biến đổi mình làm một chiến công, để rồi nó trở về với cuộc sống bình thường, làm một người con gái dịu dàng của đất nước. Thỉnh thoảng, tôi vẫn còn gặp trong những ngày nắng đem áo ra phơi, một sắc áo cưới của Huế ngày xưa, rất xưa: màu áo lục điều với loại vải vân thưa màu xanh chàm lồng lên một màu đỏ ở bên trong, tạo thành một màu tím ẩn hiện, thấp thoáng theo bóng người, thuở ấy các cô dâu trẻ vẫn mặc sau tiết sương giáng. Đấy cũng chính là màu của sương khói trên sông Hương, giống như tấm voan huyền ảo của tự nhiên, sau đó ẩn giấu khuôn mặt thực của dòng sông...
+
+Có một dòng thi ca về sông Hương và tôi hi vọng đã nhận xét một cách công bằng về nó khi nói rằng dòng sông ấy không bao giờ tự lặp lại mình trong cảm hứng của các nghệ sĩ. Mỗi nhà thơ đều có một khám phá riêng về nó: từ xanh biếc thường ngày, nó bỗng thay màu thực bất ngờ, "Dòng sông trắng - lá cây xanh" trong cái nhìn tinh tế của Tản Đà, từ tha thướt mơ màng nó chợt nhiên hùng tráng lên "như kiếm dựng trời xanh" trong khi phách của Cao Bá Quát; từ nỗi quan hoài vạn cổ với bóng chiều bảng lảng trong hồn thơ Bà Huyện Thanh Quan, nó đột khởi thành sức mạnh phục sinh của tâm hồn, trong thơ Tố Hữu. Và ở đây, một lần nữa, sông Hương quả thực là Kiều, rất Kiều, trong cái nhìn thâm thiết tình người của tác giả Tự ấy.
+
+Có một nhà thơ từ Hà Nội đã đến đây, tóc bạc trắng, [...] lặng ngắm dòng sông, hỏi với trời, với đất, một câu thật bâng khuâng:
+
+- Ai đã đặt tên cho dòng sông?
+
+(1) Viễn châu: vùng đất xa xôi của Tổ quốc.
+(2) Phú Xuân: tên cũ của kinh thành Huế thời chúa Nguyễn và thời Tây Sơn.

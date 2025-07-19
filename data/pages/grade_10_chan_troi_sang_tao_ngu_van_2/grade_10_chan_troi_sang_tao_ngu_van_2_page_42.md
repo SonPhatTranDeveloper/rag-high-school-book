@@ -1,0 +1,15 @@
+Nay Ngô mạnh không bằng Tần, mà hà khắc lại quá, không đầy mấy năm nổi nhau mà chết, ấy là mệnh trời, không phải sức người vậy. Hướng nay phương bắc có giặc Đại Nguyên, phía nam lo nổi loạn các xứ Tầm Châu, một vùng Giang Tả còn không tự giữ xong, huống lại mưu đồ sang nước khác ư? Các ông không hiểu sự thế, bị người đánh thua, lại còn chực mượn cái oai Trương Phụ¹, thế là đáng đài trương phụ chăng? (...) Sự thế ngày nay, cho đâu ngôi cao² có đem quân cả nước sang chăng nữa, cũng chỉ thúc nhanh sự bại vong mà thôi, huống là Trương Phụ chỉ tự đến nộp mạng thì đâu có gì đáng nói! Xưa Hán Chiêu Liệt³, chỉ là chi nhánh đời xa của họ Lưu, mà Khổng Minh làm cho đại nghiệp phục hưng được, huống hồ con cháu vua Trần, mệnh trời đã cho, lòng người đã theo, thì Ngô làm sao có thể cướp được! Và kẻ hào kiệt ngày xưa, chưa gặp thời thì ẩn, thấy thời cơ thì trỗi dậy. Cho nên Y Doãn⁴ là người cày ruộng ở đồng Sân, Thái Công là kẻ câu cá ở sông Vị, rồi sau một người thì làm vương tá, một người thì làm đế sư, đấy là người cao quý chăng? Là người bần tiện chăng? Còn như Mô Dung nước Yên, Thạch Lặc nước Triệu, đó là người Trung Quốc chăng? Hay là người man rợ chăng?
+
+Ngẫm kĩ lời các ông nói, thật là lời nói của tiểu nhân man rợ chứ không phải là lời nói của người Trung Quốc vậy.
+
+Suy luận: Tác giả nhắc đến những chuyện xưa nhằm mục đích gì?
+
+Nay sức hết kế cùng, quân sĩ nhọc mệt, trong thiếu lương thực, ngoài không viện binh, bấm hờ cùm đất nhỏ nhoi, nghi tam cái thành trơ trọi, há chẳng phải như thịt trên thớt, cá trong nồi sao? Thế mà lại còn muốn lừa dối dân nước tôi, dụ dỗ những điều phi nghĩa. Họ là những kẻ trung thần nghĩa sĩ, ngay cả khi thời cùng vận khốn, nếm mật nằm gai, cũng còn chẳng chịu mưu đồ kia khác, lẽ nào ngày nay lại đi tin nghe những lời bất nghĩa của bọn các ông hay sao? Chỉ e người Nam trong thành nhỏ mến chủ cũ, cũng như người Ngô ở đây không kham nổi khốn khổ, họ sẽ cùng hùa hai lại các ông rồi dẫn nhau ra hàng, giống như Trương Phi, Lã Bố⁵, lại bị chính bộ hạ giết hại, đó là lẽ tất nhiên thôi. Nay ở các thành, từ Đô ti trở xuống, đều căm giận bọn các ông đã lừa dối họ, ai cũng buông lời oán thán. Hoặc đã có người hiến kế hạ thành, lại có kẻ trèo lũy trốn ra ngoài, chế tạo chiến cụ, sửa đóng xe thang. Bọn người đang bị khốn ấy lại sẽ giết lẫn nhau, há tất phải đợi đến quân sĩ của tôi nữa. Nay tính họ các ông thì có sáu điều phải thua. Nước lũ mùa hạ chảy tràn, cầu sàn, rào lũy sụp lở, cửi có thiếu thốn, ngựa chết quân ốm. Đó là điều phải thua
+
+¹ Trương Phụ: viên tướng nhà Minh mượn tiếng sang giúp nhà Trần diệt nhà Hồ để cướp nước ta.
+² Ngôi cao: dịch chữ Hán "thượng vị", chỉ vua nhà Minh.
+³ Hán Chiêu Liệt: tức Lưu Bị, vốn là dòng dõi nhà Hán, được Khổng Minh (Gia Cát Lượng) giúp đánh lại Tào Tháo, lấy Kinh Châu, bình định Ích Châu, lập nên nước thời Tam Quốc.
+⁴ Y Doãn: công thần của nhà Thương. Trước cày ruộng ở Hữu Sân, vua Thành Thang nghe tiếng ba lần đem lễ vật đến đón mời, ông mới ra giúp đánh bại vua Kiệt nhà Hạ, lập nên nhà Thương.
+⁵ Trương Phi, Lã Bố: hai dũng tướng thời Tam Quốc ở Trung Hoa, đều bị bộ hạ giết hại.
+
+41

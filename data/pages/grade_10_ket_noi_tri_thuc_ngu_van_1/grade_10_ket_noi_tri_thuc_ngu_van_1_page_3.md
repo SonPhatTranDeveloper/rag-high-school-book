@@ -1,0 +1,13 @@
+# LỜI NÓI ĐẦU
+
+Các bạn thân mến!
+
+Sách giáo khoa Ngữ văn 10 thuộc bộ sách Kết nối tri thức với cuộc sống sẽ đưa các bạn tham dự hành trình đầu tiên khám phá nhiều điểm thú vị, bất ngờ của môn Ngữ văn ở cấp Trung học phổ thông.
+
+Ngữ văn 10 có 9 bài học, mỗi bài đều được tổ chức xoay quanh trục đọc – viết – nói và nghe, với những yêu cầu cụ thể, phù hợp, vừa lặp lại, vừa biến đổi, mở rộng theo hướng nâng cao dần. Việc sắp xếp các phần ở từng bài về cơ bản tuân thủ cấu trúc chung của bài học trong sách giáo khoa Ngữ văn thuộc bộ Kết nối tri thức với cuộc sống, nhằm bảo đảm tính nhất quán và triết lí riêng của bộ sách.
+
+Nhan đề các bài học trong Ngữ văn 10 không đặt theo tên từng loại, thể loại văn bản hay theo nội dung, chủ đề của các cụm văn bản được chọn, mà theo một số vấn đề hay yếu tố nổi bật của loại, thể loại đòi hỏi chúng ta phải nắm vững khi thực hành đọc, viết, nói và nghe. Trọng tâm của mỗi bài học là các văn bản thuộc cùng một loại, thể loại đã được gợi mở từ nhan đề bài học. Các văn bản này có mối liên hệ nhất định với nhau về nội dung và không nhất thiết phải cùng ra đời trong một thời kì hay cùng thuộc về một nền văn học. Cách tổ chức hệ thống văn bản như vậy giúp các bạn ý thức được phần nào sự phát triển của mỗi loại sáng tác ngôn từ trong thời gian và không gian.
+
+Ngữ văn 10 đặc biệt quan tâm tuyển chọn những văn bản có thể phục vụ tốt nhất cho việc rèn luyện, phát triển đồng bộ các kĩ năng đọc, viết, nói và nghe của người học, theo đúng yêu cầu của Chương trình giáo dục phổ thông môn Ngữ văn ban hành năm 2018. Các bạn sẽ gặp ở đây những văn bản mang hơi thở của cuộc sống hiện đại đầy náo động, lần đầu tiên được đưa vào sách Ngữ văn cấp Trung học phổ thông. Bên cạnh đó là không ít văn bản từng quen thuộc với nhiều thế hệ học sinh nhưng có diện mạo mới do cách giới thiệu, cung cấp thông tin, hướng dẫn tìm hiểu,... có tính chất mở, chú trọng mục tiêu phát triển năng lực và bám sát Yêu cầu cần đạt của mỗi bài học.
+
+Thông qua thực hành đọc hiểu các tác phẩm có giá trị của văn học Việt Nam và một số nền văn học trên thế giới, các bạn chẳng những sẽ tích luỹ được cho mình nhiều tri thức văn hoá, văn học và đời sống bổ ích, mà quan trọng hơn, còn nắm vững cách đọc các loại, thể loại văn bản khác nhau. Việc làm chủ cách đọc có liên quan mật thiết với việc tự xây dựng cho mình thói quen đọc, niềm đam mê đọc suốt cuộc đời, vốn là đòi hỏi thiết yếu đối với con người sống trong thế giới của những kết nối đa chiều. Điều quan trọng khác là qua đọc văn bản và thực hành tiếng Việt trên cơ sở ngữ liệu lấy từ chính văn bản vừa đọc, các bạn sẽ dần hoàn thiện khả năng sử dụng tiếng Việt của mình.

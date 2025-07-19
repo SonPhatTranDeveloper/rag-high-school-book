@@ -1,0 +1,16 @@
+Nay các người nhìn chủ nhục mà không biết lo, thấy nước nhục mà không biết thẹn. Làm tướng triều đình phải hầu quân giặc mà không biết tức; nghe nhạc thái thường¹ để đãi yến ngụy sứ mà không biết cấm. Hoặc lấy việc chơi gà làm vui đùa, hoặc lấy việc đánh bạc làm tiêu khiển, hoặc vui thú vườn rượng, hoặc quyến luyến vợ con; hoặc lo làm giàu mà quên việc nước, hoặc ham săn bắn mà quên việc binh; hoặc thích rượu ngon, hoặc mê tiếng hát. Nếu có giặc Mông Thát² tràn sang thì cửa ải trọng không thể đảm đương ào giặp của giặc, mệnh có bạc không thể dùng làm mưu lược nhà binh; dẫu rằng trồng lắm vườn nhiều, tấm thân quý hơn nghìn vàng khôn chuộc, và lại vợ bìu con díu, việc quân cơ trăm sự ích chi; tiền của tuy nhiều khôn mua được đầu giặc, chó săn tuy khoẻ khôn đuổi được quân thù; chén rượu ngon không thể làm cho giặc say chết, tiếng hát hay không thể làm cho giặc điếc tai. Lúc bấy giờ, ta cùng các người sẽ bị bắt, đau xót biết chừng nào! Chẳng những thái ấp³ của ta không còn, mà bổng lộc các người cũng mất; chẳng những gia quyến của ta bị tan, mà vợ con các người cũng khốn; chẳng những xã tắc tổ tông ta bị giày xéo, mà phần mộ cha mẹ các người cũng bị quật lên; chẳng những thân ta kiếp này chịu nhục, rồi đến trăm năm sau, tiếng dơ khôn rửa, tiếng xấu còn lưu, mà đến gia thanh⁴ các người cũng không khỏi mang tiếng là tướng bại trận. Lúc bấy giờ, dẫu các người muốn vui vẻ phỏng có được không?
+
+Nay ta bảo thật các người: nên nhớ câu "đặt mồi lửa vào dưới đống củi"⁵ là nguy cơ, nên lấy câu "kiềng canh nóng mà thổi rau nguội"⁶ làm răn sợ. Huấn luyện quân sĩ, tập dượt cung tên; khiến cho người người giỏi như Bàng Mông, nhà nhà đều là Hậu Nghệ⁷; có thể bắn được đầu Hốt Tất Liệt ở cửa khuyết⁸, làm rữa thịt Vân Nam Vương ở Cao Nhai⁹. Như vậy, chẳng những thái ấp của ta mãi mãi vững bền, mà bổng lộc các người cũng đời đời hưởng thụ; chẳng những gia quyến của ta được êm ấm gối chăn, mà vợ con các người cũng được bách niên giai lão; chẳng những lòng miếu của ta sẽ được muôn đời tế lễ, mà tổ tông các người cũng được thờ cúng quanh năm; chẳng những thân ta kiếp này đắc chí, mà đến các người trăm năm về sau tiếng vẫn lưu truyền; chẳng những danh hiệu ta không bị mai một, mà tên họ các người cũng sử sách lưu thơm. Lúc bấy giờ, dẫu các người không muốn vui vẻ phỏng có được không?
+
+1. Nhạc thái thường: nhạc của triều đình trong những dịp tế lễ quan trọng ở tông miếu. Bấy giờ, trong những buổi yến tiệc tiếp sứ giặc, triều đình nhà Trần phải dùng đến nhạc thái thường để giúp vui, Trần Quốc Tuấn coi đó là điều nhục nhã.
+2. Giặc Mông Thát: chỉ quân Nguyên.
+3. Thái ấp: phần đất vua ban cho quý tộc.
+4. Gia thanh: thanh danh của một dòng họ.
+5. Đặt mồi lửa vào dưới đống củi: ý nói phải cảnh giác như nằm trên đống củi mà có mồi lửa ở dưới (lấy ý một câu văn của Hán thư).
+6. Kiềng canh nóng mà thổi rau nguội: theo một câu của Sử ký, ý nói: người từng bị bỏng vì canh nóng, trong lòng e sợ, gặp rau nguội cũng lấy miệng thổi. Ở đây, Trần Quốc Tuấn muốn diễn tích này để nhấn mạnh việc phải luôn đề cao cảnh giác trước kẻ thù xâm lược.
+7. Bàng Mông, Hậu Nghệ: hai nhân vật bắn cung rất giỏi trong thần thoại Trung Quốc.
+8. Cửa khuyết: cửa lớn ở kinh thành.
+9. Cao Nhai: nơi trú ngụ của các vua chư hầu khi vào chầu vua Hán ở Trường An, Trung Quốc.
+
+Suy luận:
+3. Giọng điệu ở phần 3 là người trên nói với kẻ dưới hay là lời người đồng cảnh ngộ?

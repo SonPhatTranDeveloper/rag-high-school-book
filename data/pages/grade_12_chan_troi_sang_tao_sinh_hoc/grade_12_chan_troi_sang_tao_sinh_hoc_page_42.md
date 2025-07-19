@@ -1,0 +1,17 @@
+Thể đa bội đa số gặp ở thực vật, các thể đa bội lẻ hầu như không có khả năng sinh giao tử bình thường; ở động vật, ít khi quan sát thấy cơ thể đa bội vì thường gây chết ở giai đoạn hợp tử hoặc phôi sớm. Tuy nhiên, người ta cũng đã phát hiện thể đa bội ở một số loài côn trùng, bò sát, động vật có vú (như chuột cống Tympanoctomys barrerae, chuột đồng vàng Mesocricetus auratus,...).
+
+3. Vai trò của đột biến nhiễm sắc thể
+
+Đối với tiến hoá: Đột biến nhiễm sắc thể có thể tạo ra vật chất di truyền bổ sung và tăng kích thước hệ gene, dẫn đến sự sắp xếp lại các gene trên nhiễm sắc thể, góp phần tạo ra nguồn nguyên liệu cho quá trình tiến hoá của các loài sinh vật; đặc biệt đột biến đa bội là con đường hình thành loài mới một cách nhanh chóng. Ví dụ: Quá trình đảo đoạn nhiều lần trên các nhiễm sắc thể ở nhiều loài muỗi góp phần hình thành loài mới; ở người, các gene mã hoá cho chuỗi α-globin (trên nhiễm sắc thể số 16) và β-globin (trên nhiễm sắc thể số 11) được hình thành từ một gene ban đầu do sự phát sinh và tích luỹ các đột biến lặp đoạn; loài lúa mì (Triticum aestivum) có bộ nhiễm sắc thể 6n = 42 được hình thành bằng con đường lai xa và đa bội hoá; loài thằn lằn (Cnemidophorus sonorae) tam bội (3n = 69) chỉ toàn giới cái, chúng sinh sản bằng hình thức trinh sinh tạo ra quần thể có kiểu gene giống nhau.
+
+Đối với chọn giống: Người ta có thể sử dụng đột biến nhiễm sắc thể để tạo các giống cây trồng mang các đặc điểm mong muốn, có giá trị kinh tế cao. Ví dụ: Sử dụng đột biến mất đoạn để loại bỏ các gene quy định các tính trạng bất lợi ở một số giống cây trồng; tạo thành công giống bông (Gossypium sp.) tứ bội 4n = 52 có năng suất cao; gây đột biến đa bội lẻ để tạo các giống cây ăn quả không hạt (nho, chuối, dưa hấu,...).
+
+Đối với nghiên cứu di truyền: Thông qua quan sát những bất thường về cấu trúc và số lượng của nhiễm sắc thể, có thể phát hiện và dự đoán khả năng xuất hiện, để xuất các biện pháp phòng chống bệnh, tật ở người; so sánh sự thay đổi trong cấu trúc nhiễm sắc thể và số lượng gene để nghiên cứu sự tiến hoá của hệ gene và xác định mối quan hệ họ hàng giữa các loài; giải thích được cơ chế điều hoà biểu hiện gene trên nhiễm sắc thể;... Ví dụ: Sử dụng đột biến mất đoạn nhiễm sắc thể để lập bản đồ di truyền; dựa vào lặp đoạn nhiễm sắc thể, người ta có thể giải thích sự xuất hiện của nhiều gene có chức năng tương tự (họ đa gene) hoặc các gene có chức năng khác nhau từ một gene ban đầu (gene mã hoá α-lactalbumin có vai trò trong sản xuất sữa ở động vật có vú và gene mã hoá enzyme lysozyme ở động vật được phân hoá từ một gene ban đầu); nghiên cứu các dạng lệch bội nhiễm sắc thể giới tính X, các nhà khoa học đã xác định được cơ chế phát sinh thể Barr (vật thể giới tính ở tế bào soma của người và động vật có vú) là do sự bất hoạt nhiễm sắc thể X ở cá thể có từ hai nhiễm sắc thể X trở lên. Việc tìm ra thể Barr có ý nghĩa trong việc xác định giới tính, chẩn đoán y học nhằm xác định sớm các dạng đột biến lệch bội ở cặp nhiễm sắc thể giới tính ở người.
+
+11. Cho biết đột biến nhiễm sắc thể có ý nghĩa như thế nào trong việc nghiên cứu:
+a) Sự phát sinh chủng loại ở các loài sinh vật.
+b) Các bệnh di truyền ở người.
+
+12. Tại sao các giống cây đa bội thường được nhân lên bằng các phương pháp nhân giống vô tính?
+
+40

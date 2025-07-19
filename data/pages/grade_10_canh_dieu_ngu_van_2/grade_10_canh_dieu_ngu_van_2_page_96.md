@@ -1,0 +1,13 @@
+Ngày nay, người ta thường nói nhiều đến sự xung đột giữa chiếc xe Lếch-xớt(1) (Lexus) với cây ô liu(2). Chiếc xe Lếch-xớt đại diện cho sự hiện đại và sự toàn cầu hoá. Cây ô liu đại diện cho bản sắc và cho truyền thống. Có vẻ như toàn cầu hoá đang áp đặt vô số những chuẩn mực chung cho mọi tộc người. Các chuẩn mực về kĩ thuật, về công nghệ thông tin và truyền thông, về thương mại, về đầu tư,... tất cả là chung và tất cả những cái chung đang ngày một nhiều thêm lên. Cái chung nhiều thêm lên, thì cái riêng sẽ bị giảm bớt đi. Đó là một nguy cơ hoàn toàn có thật. Tuy nhiên, chiếc xe Lếch-xớt và cây ô liu không nhất thiết bao giờ cũng phải xung đột và triệt tiêu lẫn nhau. Ngược lại, chiếc xe Lếch-xớt vẫn có thể tạo điều kiện cho việc bảo tồn cây ô liu và cây ô liu vẫn có thể trang điểm cho chiếc xe Lếch-xớt. Việc hội nhập và việc giữ gìn bản sắc cũng vậy. Không có hội nhập, nghề mua rồi nước, nghề thổ cẩm của chúng ta chắc sẽ rất khó phát triển. Ngược lại, các nhà hàng, khách sạn cao cấp chắc cũng sẽ có ít sức hấp dẫn đối với khách du lịch nước ngoài, nếu thiếu sự hiện diện của hồn văn hoá Việt.
+
+Bản sắc thậm chí là một lợi thế cạnh tranh. Bởi vì bản sắc tạo nên sự độc đáo, sự hấp dẫn. Ví dụ, phố cổ Hà Nội mang bản sắc văn hoá của người Việt và là duy nhất trên thế giới nên có sức cuốn hút to lớn đối với du khách nước ngoài. Hồ Gươm cũng vậy, các gánh hàng hoa trên đường Hà Nội cũng vậy...
+
+Bản sắc văn hoá còn có thể bổ sung giá trị cho các hàng hoá và dịch vụ của chúng ta. Nhờ đó, chúng cũng trở nên đặc biệt hơn, hấp dẫn hơn đối với khách hàng cả trong nước, lẫn ngoài nước.
+
+3 Tóm lại, tiếp thu tinh hoa của nhân loại, nhưng giữ gìn bản sắc của dân tộc không chỉ là phương châm(3) hành động, mà còn là bản năng(4) tồn tại của chúng ta.
+
+(Những nghịch lí của thời gian, NXB Thời đại, Hà Nội, 2011)
+
+(1), (2) Xe Lếch-xớt: loại xe hơi hạng sang của hãng Tô-y-ô-ta (Toyota), Nhật Bản. Cây ô liu: loại cây xanh quanh năm, rất phổ biến ở các nước thuộc vùng Địa Trung Hải, hoa trắng, quả nhỏ, dùng để ăn hoặc ép lấy dầu. Chiếc xe Lếch-xớt và cây ô liu (The Lexus and the Olive tree) là tên một tác phẩm của Thô-mát Phờ-rít-men (Thomas Friedman) viết về toàn cầu hoá.
+(3) Phương châm: tư tưởng chỉ đạo hành động, thường được diễn đạt bằng những câu ngắn gọn.
+(4) Bản năng: toàn bộ những hoạt động, những hành vi bẩm sinh tự nhiên của một sinh vật đối với môi trường xung quanh hay những kích thích từ bên trong để tự vệ, sinh sản,... thường để phản biệt với ý thức.

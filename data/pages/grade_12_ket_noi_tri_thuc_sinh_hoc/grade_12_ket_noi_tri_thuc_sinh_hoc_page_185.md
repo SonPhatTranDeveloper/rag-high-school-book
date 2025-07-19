@@ -1,0 +1,15 @@
+giảm thiểu chất thải, ứng dụng công nghệ tiên tiến trong sản xuất sạch hơn, sử dụng năng lượng tái tạo, hạn chế sử dụng hoá chất độc hại, tăng cường tái sử dụng và tái chế, tiết kiệm tài nguyên thiên nhiên,... Bên cạnh đó, truyền thông, giáo dục môi trường nâng cao ý thức và trách nhiệm của cộng đồng để họ hạn chế sử dụng túi nylon, bỏ rác thải đúng nơi quy định, tiết kiệm điện, nước, ứng hộ hàng hoá và các sản phẩm "xanh", sống thân thiện với môi trường,... (H 34.2a).
+
+- Ngăn ngừa: Nhóm biện pháp này thường sử dụng Luật và các quy định (của quốc tế, quốc gia, tổ chức, cộng đồng,...) để ngăn ngừa tác động xấu lên môi trường. Ví dụ: Trong Luật Bảo vệ môi trường của nước ta có quy định những việc mà các doanh nghiệp, tổ chức, người dân phải làm để bảo vệ môi trường, nếu vi phạm sẽ bị pháp luật xử lí. Trong bộ Quy chuẩn Việt Nam đối với nước thải, khí thải, quản lí chất thải rắn, xử lí chất thải tại nơi sản xuất quy định chất thải của các nhà máy khi xả thải ra môi trường phải đạt các quy chuẩn đó. Ngoài ra, còn có các quy định về đánh giá tác động môi trường trước khi xây dựng dự án, nhà máy; quan trắc và giám sát môi trường định kì hoặc thường xuyên (do các cơ quan quản lí môi trường và cộng đồng thực hiện) để phát hiện và ngăn ngừa các hoạt động gây ô nhiễm môi trường (H 34.2b).
+
+[Hình ảnh mô tả hai bức ảnh]
+
+Hình 34.2. (a) Giáo dục môi trường giúp mọi người tự nguyện hành động vì môi trường; (b) Quan trắc theo dõi các hợp chất hữu cơ dễ bay hơi từ nhà máy bằng máy đo hoá chất
+
+- Khắc phục và nâng cao khả năng chịu đựng: Bao gồm các biện pháp giảm nhẹ tác hại và nâng cao khả năng chịu đựng của môi trường. Ví dụ: khôi phục môi trường sau lũ lụt, bão, giông lốc; xử lí các khu vực đã bị ô nhiễm chất độc tồn dư của kho thuốc trừ sâu; rà phá bom mìn sau chiến tranh; tiêu huỷ và khử khuẩn vùng nuôi trồng sau khi nhiễm dịch bệnh; cải tạo đất bị thoái hoá,... Ngoài ra, cần xây dựng các hệ sinh thái mạnh khoẻ, đa dạng và bền vững để chứng tỏ khả năng thanh lọc chất thải, hấp thụ và phân giải chất thải, giảm nhẹ tác động của ô nhiễm và các sự cố môi trường. Ví dụ: gia tăng diện tích cây xanh, mặt nước trong các khu đô thị; phục hồi và phát triển các khu rừng phòng hộ ở thượng nguồn để giảm lũ lụt; gia cố rừng ngập mặn và rừng phi lao ven biển để hạn chế tác động của thuỷ triều, bão, gió...
+
+3. Vai trò và các biện pháp sử dụng hợp lí tài nguyên thiên nhiên
+
+Tài nguyên thiên nhiên là nguồn lực quan trọng để phát triển kinh tế, xã hội. Có thể chia các loại tài nguyên thiên nhiên thành ba nhóm: tài nguyên có khả năng tái tạo, tài nguyên không có khả năng tái tạo và tài nguyên khí hậu. Tài nguyên thiên nhiên cần được khai thác hợp lí và bền vững để phục vụ cho sự phát triển lâu dài. Tuỳ thuộc vào từng nhóm tài nguyên mà con người sử dụng các biện pháp khai thác phù hợp. Cụ thể như sau:
+
+183

@@ -1,0 +1,13 @@
+đèo thịt cá phơi trên dây(1) và đang ban phước lành cho những chiếc máy cất nước(2) của mình. Ngược lại, khi trời mưa như trút và làm đầy những bình chứa nước ngọt của ta, thì sự ướt át như thế sẽ làm thiu thối những thực phẩm mà ta đã mất công phơi phóng và cất giấu. Khi thời tiết dữ dằn đã qua đi, và ta biết rằng trời biển đã để ta được sống, thì nỗi vui mừng của ta lại nhanh chóng bị tan đi bởi ý nghĩ tiếc hận rằng biết bao nhiêu nước ngọt như thế đã phí phạm rơi xuống biển và bởi một nỗi lo không biết đó có phải là trận đông mưa cuối cùng hay không, rằng liệu ta có chết khát trước khi trời lại mưa trở lại không.
+
+Cặp đối nghịch tệ hại nhất là buồn chán và sợ hãi. Nhiều khi cuộc đời là một chuỗi những chuyện dịch như quả lắc đồng hồ từ cái này sang cái kia. Biển không một gợn sóng. Trời không một gợn gió. Thời gian như vô tận. Ta thấy buồn chán đến mức chìm hẳn vào một tâm trạng vô tình rất gần với bất tỉnh nhân sự. Rồi biển nổi sóng và quất vào các tình cảm của ta như những làn roi và khiến cho chúng phát cuồng. Nhưng ngay cả hai đối nghịch này cũng không tách biệt với nhau. Trong cơn buồn chán cũng vẫn có những yếu tố hãi hùng: ta bật khóc, ta tràn đầy sợ hãi, ta kêu thét, ta cố tình hành hạ bản thân cho đau đớn. Và trong gọng kìm của tình trạng hãi hùng - ví dụ như trong một cơn bão - ta vẫn cảm thấy buồn chán, một nỗi niềm mỏi mệt sâu thẳm về tất cả mọi chuyện.
+
+Chỉ có cái chết là luôn luôn khích động những cảm xúc của ta, cho dù ta nghĩ về nó lúc đang an toàn và yên ổn, hay đang cảm thấy nó khi cuộc sống đang bị đe dọa và trở nên thật quý giá với ta.
+
+Cuộc sống trên một chiếc xuồng không thật sự là cuộc sống. Nó như một ván cờ đang vào kì chung cục, một ván cờ chỉ còn vài quân. Các toán tính không thể nào đơn giản hơn được nữa, và các rủi ro cũng chẳng thể nào cao hơn được nữa. Nó đặc biệt gian khó về thể xác, và chết chóc về tinh thần. Ta phải điều chỉnh liên tục nếu muốn sống sót. Rất nhiều thứ có thể vứt bỏ đi được. Ta chộp lấy cảm giác hạnh phúc bất cứ lúc nào có thể được. Ta như rơi xuống tận đáy địa ngục, nhưng vẫn đứng khoảnh tay với một nụ cười trên môi, và cảm thấy ta là người may mắn nhất trên thế gian này. Vì sao? Vì dưới chân ta vẫn có được một con cá chết bé tí xíu.
+
+(Y-an Ma-ten, Cuộc đời của Pi, Trịnh Lữ dịch, NXB Văn học, Hà Nội, 2004, tr. 379 – 384)
+
+(1) Đèo thịt cá phơi trên dây: trong những ngày lênh đênh trên biển, để có thực phẩm dự trữ nhằm duy trì mạng sống của mình và con hổ Pac-cơ, Pi đã tìm cách bắt cá, xẻ thịt chúng và phơi trên chiếc bè được buộc cạnh xuồng cứu hộ.
+
+(2) Máy cất nước: công cụ chưng nước ngọt từ nước biển, được chuẩn bị sẵn trên xuồng cứu hộ.

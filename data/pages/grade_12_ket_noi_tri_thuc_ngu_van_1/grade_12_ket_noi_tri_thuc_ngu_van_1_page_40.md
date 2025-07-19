@@ -1,0 +1,13 @@
+Trời là trận mưa đen ngòm và rất bỗng rơi xuống gương mặt đang cố cười của tôi. Trời chỉ là nước đổ xuống, một trận hồng thủy không ngừng làm da tôi nhăn nheo phồng rộp và người tôi lạnh cứng.
+
+Có nhiều loại biển. Biển gầm thét như một con hổ. Biển thì thầm vào tai ta như người bạn rù rì tâm tình. Biển kêu lanh canh như một đống xu lẻ trong túi quần. Biển sầm sét như những trận đất lở. Biển rít lên như giấy nhám cọ trên mặt gỗ. Biển kêu như người đang nôn mửa. Biển lặng ngắt như chết.
+
+Và ở giữa hai cái đó, giữa trời và biển, là gió và chỉ gió mà thôi.
+
+Rồi còn có đêm, trăng.
+
+Là một kẻ đắm tàu tức là thường trực tại tâm điểm của một vòng tròn. Cho dù mọi vật có vẻ như biến động vô cùng - biển từ thì thầm đến gào thét, trời từ xanh ngắt đến trắng xóa rồi đen ngòm - cái hình học kia không bao giờ thay đổi. Cái nhìn ngây dại của ta luôn luôn là đường bán kính mà thôi. Cái vòng tròn đó mãi mãi lớn lao. Mà thực tế là, những vòng tròn còn nhân bản lên nữa. Một kẻ đắm tàu là kẻ bị mắc cạn trong một màn múa ba lê kì bí của các vòng tròn. Ta là tâm điểm của một vòng tròn, trong khi trên đầu ta, hai vòng tròn đối nghịch cũng đang quay tít xung quanh. Mặt trời quấy rối ta như một đám đông, một đám đông ồn ào, xô đẩy nhau khiến ta phải bịt tai, nhắm mắt, khiến ta muốn lẩn trốn. Mặt trăng quấy rối ta bằng cách nhắc cho ta nhớ đến tình cảnh cô quạnh của mình, ta mở to mắt để lần tránh nỗi cô quạnh đó. Khi ta nhìn lên, đôi khi ta tự hỏi không biết ở tâm điểm của trận bão vũ trụ, hay ở tâm điểm của Biển Yên Bình, liệu cũng có ai như ta, cũng đang nhìn lên, cũng đang mắc cạn bởi thứ hình học này, cũng đang tranh đấu với sợ hãi, gian dữ, điên cuồng, vô vọng và vô tình.
+
+Nếu không thế, thì là một kẻ đắm tàu lại là bị mắc kẹt giữa những đối nghịch lạnh lùng và mệt mỏi. Khi có ánh sáng, cái mênh mang của biển khiến ta mù lòa và sợ hãi. Khi không có ánh sáng, bóng tối lại làm cho ta sợ như bị nhốt trong một nơi kín mít. Ban ngày, ta nóng nực và mong được mát mẻ, thèm kem, đội nước biển lên người. Ban đêm, ta rét và quấn hai ba cái chăn không đủ ấm. Khi nắng thì ta khô ran và thèm được ướt. Khi mưa thì ta ướt như chuột lội và chỉ thèm được khô ráo. Khi có thức ăn thì có thừa có thãi và ta phải ăn rổ nhiều. Khi đã không có gì thì tình chẳng còn gì và ta phải chịu đói. Lúc biển lặng, ta mong nó động lên. Lúc nó nổi sóng và cái vòng tròn giam hãm ta bị những núi nước bẻ gãy, ta lại phải chịu đựng mọi sự thất thường của biển khơi, ngạt thở vì không gian bao la, và chỉ ước gì biển lặng trở lại. Những đối nghịch thường xảy ra vào cùng một lúc. Khi mặt trời thiêu đốt ta đến mức chỉ có thể ngồi im một chỗ, thì cái nắng thiêu đốt đó cũng đang sấy khô những
+
+38

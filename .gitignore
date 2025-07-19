@@ -14,7 +14,6 @@ wheels/
 
 # Local RAG index storage
 storage
-data
 
 # Hydra
 outputs

@@ -1,0 +1,10 @@
+cùng các hoa màu khác để làm lễ vật cúng Mặt Trăng. Nghi thức lễ được tiến hành vào tối 15-10 âm lịch, khi Mặt Trăng lên cao, mọi người tập trung tại sân chùa hay sân nhà để làm lễ. [...] Cúng xong, mọi người quây quần cùng thụ lộc các đồ cúng để hưởng phước, các em nhỏ thì vui chơi, múa hát cho đến đêm khuya.
+
+[Hình ảnh mô tả một cuộc đua thuyền trên sông. Có rất nhiều thuyền đủ màu sắc như đỏ, vàng, xanh dương đang tham gia cuộc đua. Trên mỗi thuyền có nhiều người mặc áo cùng màu với thuyền đang chèo. Hai bên bờ sông có rất đông người xem.]
+
+Trong lễ hội Ok Om Bok, hội đua ghe ngo cũng là hoạt động mà bà con Khmer Nam Bộ mong chờ. Đua ghe ngo là nghi thức truyền thống tiễn đưa thần Nước, sau mùa gieo trồng về với biển cả, cũng là nghi thức tôn giáo tưởng nhớ rằng thần Rắn Na-ga(1) xưa biến thành khúc gỗ để đưa Phật qua sông. Chiếc ghe ngo là vật dụng được người Khmer và nhà chùa coi là linh thiêng, cũng là tài sản quý của cả phum sóc(2), được bảo quản cẩn thận tại chùa. Trước kia, mỗi năm ghe ngo được hạ thủy một lần vào ngày lễ hội Ok Om Bok. Ghe ngo có chiều dài khoảng 30 mét, mỗi ghe có thể chở trên dưới 50 tay bơi. Nguyên bản chiếc ghe ngo là loại thuyền độc mộc lớn, làm từ thân cây gỗ tốt. Ngày nay, ghe ngo được đóng bằng nhiều tấm ván dài ghép lại với nhau. Ghe ngo có mũi và lái cong, thân được trang trí hoa văn sặc sỡ, đầu ghe có hình con thú biểu trưng cho ghe và chùa của mình. Giữa lườn ghe, người ta đặt một cây dài từ đầu đến cuối thân ghe gọi là cây cân cầu nhằm giữ thăng bằng và làm cho ghe có sức bật tốt khi bơi. Để có thể bước vào cuộc đua ghe ngo sôi nổi, công tác chuẩn bị được tiến hành rất chu đáo, từ việc sửa chữa, đóng ghe ngo mới, sơn vẽ hoa văn lại trên thân ghe cho đến tập luyện bơi. Đặc biệt, các chùa Khmer có đội ghe ngo tham gia còn tổ chức một nghi lễ rất quan trọng, đó là lễ hạ thủy. Ngày nay, nghi lễ hạ thủy không chỉ được thực hiện
+
+(1) Rắn Na-ga (tiếng Phan – ngôn ngữ cổ Ấn Độ, có nghĩa là rắn hổ mang): một sinh vật huyền thoại trong văn hóa Khmer, gắn liền với các truyền thuyết về Đức Phật.
+(2) Phum sóc (tiếng Khmer): xóm làng của đồng bào dân tộc Khmer ("sóc" gồm một số "phum").
+
+116

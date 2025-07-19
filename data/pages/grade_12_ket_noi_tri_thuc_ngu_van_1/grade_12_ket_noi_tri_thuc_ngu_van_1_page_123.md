@@ -1,0 +1,13 @@
+thức dậy của những khao khát vô hình mà chính Mị Nương cũng khó lòng nhận diện. Nó lớn lại trong vô thức, tự thuở nàng còn hồn nhiên trong niềm vui trẻ thơ, cất lên tiếng hát giữa lòng con suối đầu nguồn.
+
+[...] Dù đã bao năm tận mắt chứng kiến cuộc bão thù hung bạo của Thuỷ Thần, nhìn thấy người đời vẽ "tên chúa trùm nạn lụt" với bộ mặt xanh lét, đôi mắt ti hí gian xảo, đầu úp một con ốc vặn xoắn hện mọn..., nàng vẫn nhận ra con người thực của Thuỷ Tinh "chàng trai tuyệt vời đẹp và buồn". Tiếng gọi thốt lên từ đáy lòng sau bấy nhiêu thời gian xa cách đã để lộ tình yêu mà nàng từng giấu kín với cả bản thân mình!
+
+Trong tình yêu Thuỷ Tinh, Mị Nương đã tìm lại trọn vẹn bản thân mình nhưng nàng chưa từng có ý nghĩ vượt qua một ranh giới nào của khuôn phép. Nàng ngỡ mình sẽ chẳng bao giờ phải sống trong cảm giác có lỗi với người chồng mẫu mực. Thuỷ Tinh cũng không hề muốn làm xáo trộn cuộc sống êm đềm, hạnh phúc của nàng. Nàng không thể có được sự bình yên như cũ nhưng cuộc sống của nàng phong phú hơn, đẹp hơn, giàu ý nghĩa hơn. Nàng đón đợi những hạt mưa Thuỷ Tinh trong vắt bên khung cửa sổ. Và ngay trong những vách gỗ của lầu đài Thần Nữi, nàng âm thầm lắng nghe tiếng vọng rì rầm của muôn ngàn con sóng "nghe, mà còn cảo tưởng đến biển, mà khát khao được thấy biển một lần". Để rồi cuối cùng, tâm hồn Mị Nương thăng hoa trong khát vọng tình yêu thuần khiết, tìm về với Biển. Phải nói, đây là một trong những trang viết đậm chất cổ tích nhất, mà cũng hiện đại nhất của Hoà Vang [...].
+
+[...] Trong Sự tích những ngày đẹp trời, Hoà Vang mang lại ánh sáng lung linh cho câu chuyện bằng lời kể giàu chất thơ, giàu cảm hứng lãng mạn. Ông không ngại ngần dùng lối nói du dương, những câu văn nhiều vần điệu có khả năng hồi sinh tư duy hồn nhiên, lãng mạn của người đọc, đưa họ về với tuổi hoa niên, yêu và xúc động trước "những lời cổ cảnh" như mạch nước trong ngần, mát lành, róc rách,... Nhiều câu văn, đoạn văn cứ ngân nga mãi trong lòng người. Giọng kể trong Sự tích những ngày đẹp trời cũng vang lên với nhiều cung bậc, nhiều âm sắc. Có chất giọng khi thì sôi nổi, nồng nàn; khi trầm buồn, khi thiết tha của người tình Thuỷ Tinh. Có giọng điệu trầm tĩnh, ấm áp của một Sơn Tinh trí tuệ và bao dung; có giọng điệu vừa trẻ trung, thơ ngây, nũng nịu vừa đằm thắm của nàng công chúa nể nếp, đoan trang - biết mình yêu và được yêu. Nhưng ấn tượng sâu đậm nhất vẫn là giọng của người kể chuyện với tâm hồn trẻ thơ đã làm sống dậy những cảm xúc trong sáng, mơ mộng và tạo nên một thế giới cổ tích hoàn hảo. [...]
+
+(Nguyễn Thị Nương, http://nguvan.hnue.edu.vn, ngày 11/10/2020)
+
+Sáng tạo mới về nhân vật của Hoà Vang so với truyền thuyết.
+
+Đúng luận điểm bàn về ngôn ngữ nghệ thuật để kết luận.

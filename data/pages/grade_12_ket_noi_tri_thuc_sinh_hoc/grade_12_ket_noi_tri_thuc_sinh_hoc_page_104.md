@@ -1,0 +1,11 @@
+Nam Mỹ. Darwin đã phát hiện thấy, mặc dù các loài chim trên các đảo có nhiều đặc điểm giống nhau, nhưng chúng cũng khác nhau về một vài đặc điểm nhỏ như kích thước và hình dạng mỏ nên có khả năng chúng là các loài khác nhau. Ví dụ: Những con chim sẻ ở các đảo có nhiều cây cho hạt to thì hầu hết có mỏ ngắn, dày có thể tách được vỏ hạt để lấy thức ăn, còn những con sống ở đảo có nhiều côn trùng mỏ lại mảnh, dài thích hợp với việc bắt sâu bọ (H 20.1). Darwin gọi những biến dị cá thể giúp sinh vật sống sót và sinh sản tốt hơn giống như các dạng mỏ chim là các đặc điểm thích nghi. Các đặc điểm thích nghi được Darwin quan sát thấy ở nhiều loài sinh vật như các loài hoa lan, côn trùng,...
+
+[Hình ảnh minh họa ba loài chim khác nhau với mỏ có hình dạng và kích thước khác nhau]
+
+Hình 20.1. Ví dụ về đặc điểm thích nghi: Ba kiểu mỏ chim thích nghi với ba loại thức ăn được Darwin mô tả trong công trình Nguồn gốc các loài là mỏ chim ăn xương rồng (a), và mỏ chim ăn sâu (b), mỏ chim ăn hạt (c)
+
+Ngoài những quan sát về các biến dị cá thể và đặc điểm thích nghi, Darwin còn nhận thấy các sinh vật có khả năng sinh ra một số lượng rất lớn cá thể con, vượt xa số lượng cá thể mà nguồn tài nguyên của môi trường có thể nuôi dưỡng. Vì vậy, chỉ một số ít cá thể con sinh ra có thể sống sót đến giai đoạn trưởng thành và sinh sản.
+
+2. Quan sát các giống vật nuôi và cây trồng
+
+Darwin đã quan sát các giống vật nuôi và cây trồng được con người tạo ra từ một giống ban đầu. Trong cùng một giống, khi phát hiện thấy những biến dị cá thể ưa thích, con người đã giữ lại, nhân giống riêng và chỉ qua một số thế hệ đã có thể tạo nên giống mới. Ví dụ: Các giống chim bồ câu khác nhau được chọn lọc và nhân giống từ giống bồ câu núi; Các loại rau bắp cải, su hào, rau cải, súp lơ,... được chọn lọc từ giống cải hoang dại (H 20.2). Darwin gọi phương pháp tạo giống mới như vậy là chọn lọc nhân tạo. Như vậy, để chọn lọc nhân tạo có thể xảy ra thì cần phải có các biến dị cá thể. Con người chọn ra những loại biến dị cá thể mà mình ưa thích, cho nhân giống và loại bỏ những biến dị mà mình không mong muốn.

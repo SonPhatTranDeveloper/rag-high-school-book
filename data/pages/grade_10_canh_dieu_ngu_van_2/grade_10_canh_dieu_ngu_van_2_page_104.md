@@ -1,0 +1,14 @@
+Tại sao chúng ta cư xử thô lỗ? Bởi vì chúng ta bị xao nhãng, đầu óc ta đang mải mơ màng những việc khác? Đôi khi, lí do này đúng. Nhưng sự thô lỗ thường là dấu hiệu của cảm giác bất an. Đó là cách chúng ta tránh né người khác để họ không nhận thấy cảm giác thật của mình. Làm như vậy có thể hiệu quả nhưng nó chẳng giúp ích cho ai cả. Nó khiến mọi người xa rời nhau thay vì đoàn kết vì một mục đích chung. Chúng ta không bao giờ tìm thấy sự bình yên nếu cứ khăng khăng bảo vệ cái ốc đảo cô đơn của mình. Cố gắng theo đuổi mối liên kết chung với mọi người là con đường bằng phẳng nhất đưa chúng ta đến hòa bình.
+
+Hãy đối mặt với thực tế. Dùng lời nói sỉ nhục người khác không bao giờ là thái độ hợp lí, ngay cả trong những hoàn cảnh thù địch nhất; nó gây ra những vết thương không đáng có trong tâm hồn. Có người từng nói, đại ý: "Chúng ta chỉ được giao phó một nhiệm vụ duy nhất, đó là yêu thương lẫn nhau. Nếu không thể làm được như vậy thì ít nhất hãy cố gắng kiềm chế để không xúc phạm nhau.". Đó là lời gợi ý đơn giản để sống cuộc đời bình yên và hạnh phúc. Nó khởi đầu bằng những thay đổi tích cực nhỏ bé mà về sau trở thành thói quen. Bất kì ai trong chúng ta cũng có thể hoàn thành nhiệm vụ này nếu có quyết tâm.
+
+3. Mỗi ngày một cam kết
+
+"Mỗi ngày, chúng ta phải sống sao cho xứng đáng.".
+Lựa chọn này giúp ta đơn giản hóa cuộc sống và quyết định của mình trên nhiều khía cạnh, hơn hẳn điều chúng ta tưởng tượng ban đầu. [...] Chúng ta chỉ có duy nhất ngày hôm nay thôi. Chúng ta chỉ có duy nhất khoảnh khắc này mà thôi.
+
+Dường như quan điểm trên có vẻ gần với sự tránh né trách nhiệm. Song, việc cố gắng sống quá xa khoảnh khắc hiện tại không những lãng phí năng lượng trí tuệ mà còn lãng phí năng lượng cảm xúc của chúng ta. Mỗi ngày, đừng gây tổn thương cho ai là một phương pháp thực hiện nguyên tắc quan trọng này. Tại sao chúng ta phải cam kết như thế với bản thân mỗi ngày? Bởi vì trong quá trình thay đổi, chúng ta thường không chú ý đến lối cư xử của mình và kết quả là ta gây tổn thương cho người khác. Chúng ta dễ dàng hạ thấp giá trị của người khác chỉ trong một phút suy nghĩ thiếu thận trọng.
+
+Chúng ta phán xét và quy tội cho người khác. Chúng ta "giảng bảy" khiến họ thất bại, đôi khi do có ý nhưng thường thì vô ý nhiều hơn. Lời nói, nét mặt, ngôn ngữ cơ thể của chúng ta, tất cả đều chuyển tải một thông điệp nào đó, nếu ta bất cẩn, chúng sẽ dễ dàng biến thành thái độ khinh thường hoặc vô tâm. Nhiều hình thức gây tổn thương khác nhau đã ăn sâu vào tiềm thức, đến nỗi chúng ta phải thật cảnh giác để không lặp lại nó. Tương tự, đôi khi, việc chúng ta hạ thấp người khác
+
+103

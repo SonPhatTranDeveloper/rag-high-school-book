@@ -1,0 +1,9 @@
+# Want a better job? Work for a better company
+
+Some people love working so much that it doesn't feel like work. But most people are not so lucky. They need money to live, so they need a job. However, they don't love their work, and they feel unhappy. And because they are unhappy, they may not work hard. Luckily, some people and companies are trying to improve things.
+
+Dan Price is the CEO of a company based in Seattle. In 2015, he raised the salaries of all of his workers to $70,000 a year, much higher than the average income in the United States. To pay for this, he cut his own salary to the same amount. Interestingly, according to a study by Princeton University in 2010 about salaries, people who make around $75,000 each year are happier and feel more satisfaction than those who make less or more money. Since Price made his decision, his workers have been happier and his company has been more successful.
+
+Money is one reason why some workers are unhappy with their jobs. Another reason is working too many hours. Perpetual Guardian, a company based in New Zealand, wanted staff to have a better work-life balance. The company came up with a plan. Its staff were paid for five days, but they only had to work four days each week. Not surprisingly, workers were happier and more satisfied.
+
+Many studies show that people who do things are happier than people who buy things. For example, going on a road trip or learning to play the guitar is better than buying a car or guitar. The famous company Airbnb wants its staff to have great experiences. Workers get $2,000 each year to stay at Airbnb properties anywhere in the world. As a result, many people who work at Airbnb love their jobs.

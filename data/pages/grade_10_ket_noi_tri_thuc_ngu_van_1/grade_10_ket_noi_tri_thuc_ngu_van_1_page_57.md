@@ -1,0 +1,12 @@
+Lưu Trọng Lư đang muốn chia sẻ, muốn tìm kiếm sự đồng điệu, hay đang muốn phô bày những cảm nhận huyền diệu mình mới nghe được trong lúc hoàng qua một thoáng nghiêng tai thì sĩ? Ba khổ thơ nói đến ba thứ tiếng của mùa thu. Chẳng biết là ngẫu nhiên hay được sắp đặt một cách tinh vi, nhưng nhị mà ba "tiếng" ấy lần lượt cất lên theo một trật tự phát triển: từ tiếng thôn thúc của mùa thu dưới ánh trăng mờ, đến tiếng rạo rực của lòng người cô phụ, đến tiếng là thu kêu xào xạc - nghĩa là từ xa đến gần, từ mơ hồ đến cụ thể, từ toàn thể đến cá thể, từ cảnh vật đến nhân vật, từ hình sắc đến thanh âm, từ bề sâu đến bề ngoài, từ kín khuất đến phát lộ. Nhưng lắng kí mà xem, thực ra thôn thúc và rạo rực chưa thực là âm thanh. Những tiếng ấy hiện hữu mà mơ hồ. Toàn bài chỉ có duy nhất một từ tượng thanh: xào xạc. Vậy Tiếng thu là bao gồm cả những tiếng có thể nghe được một cách trực quan cả những tiếng chỉ nhận được bằng linh cảm, thị cảm. Nhưng trong ba tiếng trên dường như chứa đựng một tương quan khác. Thôn thúc và rạo rực là những âm nền còn xào xạc là âm nổi. Phải chăng nói thôn thúc của tạo vật, nói rạo rực của lòng người đã cộng hưởng thành nỗi xôn xao mênh mang đang rung lên bên trong lòng trời đất này. Còn tiếng xào xạc kia chỉ là sự phát lộ thành tiếng ra bên ngoài của nỗi xôn xao ngấm ngầm đó thôi? Hồn thu bàng bạc trong toàn bài nhưng nó hiện hình sống động nhất là ở cái tiếng xào xạc ấy. Nghe cái tiếng thu này, ta dễ nhớ đến một tiếng thu khác của Nguyễn Đình Thi về sau này:
+
+Sáng chớm lạnh trong lòng Hà Nội
+Những phố dài xao xác lá may.
+(Đất nước)
+
+10. Xao xác và xào xạc thực chỉ là một âm thôi, khác nào như một nốt nhạc chơi ở hai cung khác nhau. Ấy thế mà không thể thay thế được. Xao xác danh và cao, gợi được tiếng lá quét mình trên đường phố, nó là cái hơi thu phố phường. Còn xào xạc lại trầm và đục, trong không khí này, đã gợi được vẻ âm u và huyền bí của rừng già:
+
+Em không nghe rừng thu
+lá thu kêu xào xạc,
+
+11. Tiếng thôn thúc của đất trời còn mơ hồ, tiếng rạo rực của lòng người cô phụ có phần rõ rệt hơn! Có thể em không nghe! Nhưng còn tiếng xào xạc gần gũi thế, lẽ nào em không nghe? Cấu trúc lời thơ vừa lặp lại vừa phát triển như thế khiến cho tiếng thu ngày một xôn xang hơn và lòng thị nhân (người cất lên tiếng hỏi tìm sự đồng điệu) cũng ngày một khắc khoải hơn!

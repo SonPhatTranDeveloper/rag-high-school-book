@@ -1,0 +1,13 @@
+Hắn thấy nhục hơn là thích, huống hồ lại sợ. Quả thật, từ khi biết rằng con vợ chủ sai hắn làm một việc không chính đáng, hắn vừa làm vừa run. Không làm thì không được; mọi việc trong nhà, quyền đàn bà. Chứ hắn, hắn còn lòng nào đâu! Đến nỗi người đàn bà phát cáu. Bà thấy xa xôi không được, phải làm đến nơi. Bà bảo hắn rằng: "Mày thực thà quá! Con trai gì hai mươi tuổi mà đã như ông già". Hắn vẫn giả vờ không hiểu. Bà lẳng lơ bảo: "Chả nhẽ tao gọi mày vào chỉ để bóp chân thế này thôi ư?..." và thấy hắn đứng đực, bà mắng xối xả vào mặt. Hắn chỉ thấy nhục, chứ yêu đương gì. Không, hắn chưa được một người đàn bà nào yêu cả. Vì thế mà bát cháo hành của thị Nở làm hắn suy nghĩ nhiều. Hắn có thể tìm bạn được, sao lại chỉ gây kẻ thù?
+
+Bát cháo húp xong rồi, thị Nở dở lấy bát cháo và múc thêm bát nữa. Hắn thấy đầm đìa bao nhiêu mồ hôi. Mồ hôi chảy ra trên đầu, trên mặt, những giọt to như giọt nước. Hắn đưa tay áo quệt ngang một cái, quệt mũi, cười rồi lại ăn. Hắn càng ăn, mồ hôi lại càng nhiều. Thị Nở nhìn hắn, lắc đầu, thương hại. Hắn thấy lòng thành trẻ con. Hắn muốn làm nũng với thị như với mẹ. Ôi sao mà hắn hiền, ai dám bảo đó là cái thằng Chí Phèo vẫn đập đầu, rạch mặt mà đâm chém người? Đó là cái bản tính của hắn, ngày thường bị lấp đi. Hay trận ốm thay đổi hắn về sinh lí, cũng thay đổi cả tâm lí nữa? Những người yếu đuối vẫn hay hiền lành. Muốn ác, phải là kẻ mạnh. Hắn đâu còn mạnh nữa. Và có lúc hắn ngẫm mình mà lo. Xưa nay hắn chỉ sống bằng giật cướp và doạ nạt. Nếu không còn sức mà giật cướp, doạ nạt nữa thì sao? Đã đành, hắn chỉ mạnh vì liều. Nhưng hắn mơ hồ thấy rằng sẽ có một lúc mà người ta không thể liều được nữa. Bây giờ mới nguy! Trời ơi! Hắn thèm lương thiện, hắn muốn làm hoà với mọi người biết bao! Thị Nở sẽ mở đường cho hắn. Thị có thể sống yên ổn với hắn thì sao người khác lại không thể được. Họ sẽ thấy rằng hắn cũng có thể không làm hại được ai. Họ sẽ lại nhận hắn vào cái xã hội bằng phẳng, thân thiện của những người lương thiện... Hắn bần thần nhìn thị Nở, như thầm đố. Thị vẫn im lặng, cười tin cẩn, hắn thấy tự nhiên nhẹ người. Hắn bảo thị:
+
+- Giá cứ thế này mãi thì thích nhỉ?
+
+Thị không đáp, nhưng cái mũi đỏ của thị như càng banh ra. Hắn thấy thế cũng không có gì là xấu. Bằng một cái giọng nói và một vẻ mặt rất phong tình(1) theo ý hắn, hắn bảo thị:
+
+- Hay là mình sang đấy ở với tớ một nhà cho vui.
+
+(1) Phong tình: tình tứ (nghĩa trong văn bản).
+
+Lời và điểm nhìn của người kể chuyện thể hiện thái độ như thế nào đối với Chí Phèo?

@@ -1,0 +1,9 @@
+Bài viết tham khảo
+
+Truyện Kiều - kiệt tác của đại thi hào dân tộc Nguyễn Du
+
+Truyện Kiều là kiệt tác của đại thi hào Nguyễn Du và của nền văn học Việt Nam. Tác phẩm có vị trí đặc biệt trong đời sống tinh thần của người Việt.
+
+Nguyễn Du (1765 - 1820) tự là Tố Như, hiệu là Thanh Hiên; quê ở làng Tiên Điền, huyện Nghi Xuân, tỉnh Hà Tĩnh. Ông sinh ra trong một gia đình quyền quý, có nhiều người đỗ đạt cao và đạt nhiều thành tựu về sáng tác văn chương. Sống trong một thời đại đầy biến động dữ dội nên cuộc đời Nguyễn Du nếm trải nhiều thăng trầm. Ông có kiến thức uyên bác, trải tim nhân hậu và tài năng văn học bẩm sinh. Nguyễn Du để lại 250 bài thơ chữ Hán và một số tác phẩm viết bằng chữ Nôm, trong đó nổi bật nhất là Truyện Kiều.
+
+Truyện Kiều được viết bằng chữ Nôm, theo thể thơ lục bát. Thời điểm sáng tác Truyện Kiều đến nay vẫn còn gây nhiều tranh luận, chưa có sự thống nhất. Tác phẩm gồm 3 254 câu thơ lục bát, dựa trên cốt truyện của cuốn tiểu thuyết chương hồi: Kim Vân Kiều truyện (Thanh Tâm Tài Nhân). Cốt truyện Truyện Kiều được tổ chức theo mô hình cơ bản của truyện thơ Nôm với ba phần: Gặp gỡ, đính ước - Tai biến, chia li - Đoàn tụ. Nội dung cốt truyện kể về cuộc đời mười lăm năm chìm nổi của Vương Thuý Kiều, người con gái tài sắc, đức hạnh vẹn toàn. Nhân buổi du xuân trong tiết Thanh minh, Thuý Kiều gặp gỡ Kim Trọng, một Nho sinh hào hoa, phong nhã và cả hai đều ôm nỗi tương tư. Kim Trọng đã tìm cách gặp mặt, bày tỏ tình yêu với Thuý Kiều, được nàng đón nhận và hai người trao nhau vật đính ước. Thuý Kiều đã tìm sang nhà Kim Trọng tình tự và họ cùng nhau thề nguyện kết duyên đôi lứa. Ngay sau đó, Kim Trọng phải từ biệt Thuý Kiều để về quê chịu tang chú. Cùng lúc, nhà họ Vương mắc án oan, Thuý Kiều phải bán mình chuộc cha, trao duyên cho Thuý Vân. Nàng bị Mã Giám Sinh và Tú Bà lừa đưa vào lầu xanh, rồi được Thúc Sinh chuộc ra làm lẽ nhưng bị vợ cả là Hoạn Thư ghen tuông, đày đọa. Thuý Kiều phải bỏ trốn

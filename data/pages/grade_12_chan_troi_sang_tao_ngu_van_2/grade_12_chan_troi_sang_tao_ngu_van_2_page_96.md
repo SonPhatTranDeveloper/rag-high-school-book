@@ -1,0 +1,17 @@
+astictopus. [...] Số lượng của chúng rất nhiều nên con người cảm thấy khó chịu vì phải san sẻ môi trường sống của mình với chúng. Họ cố gắng khống chế tình hình này nhưng vô ích. Đến cuối những năm 1940, khi thuốc trừ sâu nhóm hi-đrô các-bon clo (hydrocarbon clo) hoá mạng đến loại vũ khí mới, chất DDD, con người đã chọn hoá chất này để chiến đấu với loại muỗi mắt. DDD tuy là họ hàng gần với thuốc DDT¹ nhưng dường như ít gây nguy hại hơn cho cá.
+
+Những biện pháp khống chế mới được hứa hẹn tiến hành vào năm 1949. Việc thực hiện đã được lên kế hoạch cẩn thận và ít ai cho rằng điều không may sẽ xảy ra. Người ta bắt đầu khảo sát hồ, xác định thể tích và pha loãng thuốc trừ sâu theo tỉ lệ một phần hoá chất ứng với 70 triệu phần nước. Việc kiểm soát muỗi mắt đã bước đầu thành công; tuy nhiên, trước năm 1954, biện pháp này lại được thực hiện một lần nữa; lần này tỉ lệ pha trộn là một phần thuốc ứng với 50 triệu phần nước. Đa số mọi người đều nghĩ rằng muỗi mắt gần như đã bị tiêu diệt hoàn toàn.
+
+Điềm báo đầu tiên xuất hiện vào những tháng mùa đông sau đó, một sự sống khác bị đe doạ: loài chim lặn phía tây sống trên hồ bắt đầu chết dần, chẳng mấy chốc số lượng chim chết lên đến hơn trăm con. Chim lặn phía tây ở Hồ Cli-a sinh sản và di trú vào mùa đông, chúng bị thu hút bởi vô số loài cá khác nhau trong hồ. Đây là loài chim rất đẹp và có tập quán thú vị là xây tổ nổi trên những hồ cạn phía tây Hoa Kỳ và Ca-na-đa (Canada). Người ta còn gọi loài chim này là "chim lặn thiên nga", bởi vì chúng có thể lượn qua và tạo thành một gợn sóng lăn tăn trên mặt hồ; có chim nhỏ, màu trắng, cái đầu màu đen sáng lúc nào cũng ngẩng cao. Những chú chim non mới nở được khoác lên mình lớp áo bằng lông tơ xám mịn; chỉ trong vài giờ sau đó chúng đã có thể tự uống nước và cười lên lưng bố mẹ, rúc mình dưới đôi cánh chim bố mẹ.
+
+[...] Năm 1954, quả thật là không có bằng chứng nào cho thấy có sự xuất hiện của bệnh truyền nhiễm khi thực hiện khám nghiệm xác của những con chim đã chết. Tuy nhiên, khi tiến hành phân tích mô mỡ của chim lặn, người ta lại tìm thấy thuốc DDD có trong mô này với nồng độ rất đáng kinh ngạc, 1 600 phần triệu.
+
+Nồng độ thuốc tối đa khi pha với nước chỉ là 0,02 phần triệu. Vậy thì bằng cách nào mà nồng độ của loại hoá chất này có thể tăng đến mức độ kinh hoàng như thế trong cơ thể chim lặn? Đương nhiên, chim lặn là loài ăn cá. Khi cá trong Hồ Cli-a cũng được phân tích thì mọi việc bắt đầu rõ ràng – chất độc được tìm thấy ở những sinh vật nhỏ nhất, có đầu là vi đi vào cơ thể của những loài động vật ăn thịt lớn hơn. Người ta xác định cơ thể sinh vật phù du có chứa khoảng 5 phần triệu thuốc trừ sâu (nhiều hơn khoảng 25 lần nồng độ tối đa khi pha loại hoá chất ấy trong nước), loài cá ăn thực vật sẽ tích luỹ từ 40 đến 300 phần triệu hoá chất này trong cơ thể, và những loài ăn thịt sẽ lưu trữ gần như toàn bộ. Cá bống biển nâu là loài có nồng độ
+
+¹ DDT (dichlorodiphenyltrichloroethane): hoá chất nhân tạo, không có trong môi trường tự nhiên. Đây là chất rắn kết tinh, màu trắng, không có mùi hoặc vị. DDT là một loại thuốc trừ sâu đã từng được sử dụng rộng rãi để kiểm soát côn trùng trong nông nghiệp và côn trùng mang mầm bệnh. Nó đã bị cấm sử dụng vào năm 1972 vì gây hại cho động vật hoang dã.
+
+Theo dõi
+
+2. Hoá chất nào được chọn để diệt loại muỗi mắt ở Hồ Cli-a?
+
+94

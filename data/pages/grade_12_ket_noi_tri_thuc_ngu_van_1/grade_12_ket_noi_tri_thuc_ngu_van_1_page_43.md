@@ -1,0 +1,13 @@
+# Yếu tố siêu thực trong thơ
+
+Yếu tố siêu thực trong thơ biểu hiện trước hết qua những hình ảnh có vẻ kì lạ, gắn kết với nhau theo một logic khác thường, phần nào gây cho độc giả cảm giác khó hiểu. Tuy nhiên, từ phía người sáng tác, sự hiện diện của những hình ảnh ấy hoàn toàn mang tính tự nhiên vì chúng gắn với việc "cắt lời" của tiềm thức, vô thức. Để khám phá được một hiện thực khác ẩn đằng sau những hiện tượng thông thường dễ thấy, các nhà thơ siêu thực theo đuổi "lối viết tự động", để ngòi bút "buông" theo sự dẫn dắt của tiềm thức, vô thức, từ đó, xây dựng một thế giới thơ có sự pha trộn giữa chiêm bao và tỉnh thức, giữa ảo giác và thực tế. Yếu tố siêu thực đã xuất hiện thập thoáng trong một số tác phẩm thơ thời trung đại hoặc thơ dân gian, nhưng chỉ trở thành hiện tượng thẩm mĩ đặc thù trong sáng tác của các nhà thơ theo chủ nghĩa siêu thực hoặc chịu ảnh hưởng sâu đậm của chủ nghĩa này ở thời hiện đại.
+
+# Phong cách cổ điển
+
+Phong cách cổ điển là loại phong cách sáng tác được hình thành từ thời trung đại, chịu sự chi phối của một quan niệm về thế giới có tính đặc thù. Theo phong cách này, cuộc sống con người và vũ trụ được hình dung như một mô hình ổn định, có tôn ti trật tự chặt chẽ, vận động theo quy luật tuần hoàn,... Từ quan niệm về thế giới như vậy, phong cách cổ điển định hình với các đặc trưng cơ bản: nghiêng về thể hiện những đề tài cao nhã; có cảm hứng đặc biệt với cái vĩnh hằng, bất biến; luôn hướng về những mẫu hình lí tưởng, tôn trọng tính quy phạm của cách tổ chức các yếu tố nghệ thuật thành một cấu trúc hoàn mĩ;...
+
+# Phong cách lãng mạn
+
+Xét theo nghĩa rộng, phong cách lãng mạn thường được đặt trong tương quan so sánh với phong cách hiện thực, là hai phong cách nghệ thuật đã từng xuất hiện trong sáng tác văn học từ thời cổ đại. Xét theo nghĩa hẹp, phong cách lãng mạn gắn với sự xuất hiện của chủ nghĩa lãng mạn, một trào lưu văn học - nghệ thuật hình thành ở phương Tây vào khoảng nửa cuối thế kỉ XVIII và nửa đầu thế kỉ XIX. Tùy theo cảm hứng, thái độ của người cầm bút, chủ nghĩa lãng mạn được chia thành hai khuynh hướng: khuynh hướng bi quan (hoài nghi thực tại, hoài niệm quá khứ) và khuynh hướng lạc quan (tin tưởng, hướng tới một thế giới tốt đẹp, lí tưởng).
+
+Trong sáng tác văn học, phong cách lãng mạn có các đặc điểm cơ bản: khẳng định cái cao cả, phi thường và phủ định thực tại tầm thường, tù túng; đề cao cá tính sáng tạo, trí tưởng tượng, sự phóng khoáng; chú trọng thế giới nội tâm với những cảm xúc mãnh mẽ, khoáng đạt, tinh tế và ưa dùng các yếu tố tượng phản.

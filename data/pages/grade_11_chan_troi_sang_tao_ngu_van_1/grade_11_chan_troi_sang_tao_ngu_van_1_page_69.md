@@ -1,0 +1,13 @@
+dương trở về. Gần cuối cuộc chiến tranh, tin nhắn của dương về nhà thường xuyên hơn. Hình như lời cầu nguyện của di lĩnh ứng để dương tránh hỏn tên mũi đạn nơi chiến trường.
+
+Nhà tôi gần đường số 1. Mỗi ngày, sau khi đi làm đồng trở về, di tôi thường ngồi trên bộ phản gỗ ngoài hiên nhìn ra con ngõ, nơi ngày xưa dương cùng những người đồng đội lần đầu đến nhà tôi xin chỗ trú quân. Tháng Tư năm 1975, những đoàn xe Mô-lô-tô-va (Molotova) nối tiếp nhau chạy ngang trước nhà tôi để chuyển quân vào mặt trận phía Nam. Dương tôi ở trên một trong những chuyến xe đó. Hai mươi năm, dương không quên người xưa nhưng đã quên cảnh cũ. Khi đến địa phận huyện Mộ Đức, dương đảo mắt tìm xóm nhà quê vợ nhưng không nhận ra vì cảnh vật đổi thay. Đến khi dừng lại hỏi nhà, thì xe đã chạy vượt qua gần năm cây số. Trên đường tiến quân, đâu thể quay xe trở lại, dương chỉ kịp nhờ một người đi đường báo tin cho gia đình.
+
+Những ngày sau đó, gia đình tôi nao nức trong niềm vui chờ đợi. Ông ngoại tôi mất sớm trên miền Bắc, ba tôi hi sinh trên chiến trường đã tám năm, nỗi đau dần nguôi ngoai. Nhà có năm người ra đi, ba người trở về, cũng còn là may mắn. Di Bảy tôi lại ngồi trước hiên nhà mỏi mắt nhìn ra đường cái. Nhưng hai cậu tôi lần lượt trở về mà dương Bảy vẫn không tin tức. Những chiếc xe chở bộ đội hồi hương chạy qua không dừng lại. Gia đình đò hỏi các nơi, mãi đến cuối năm 1975 mới nhận giấy báo tử: dương ngã xuống trong trận đánh ở Xuân Lộc, cửa ngõ phía đông bắc Sài Gòn, chỉ mười ngày trước khi chiến tranh ngưng tiếng súng.
+
+Như trong một câu chuyện cổ, người kị sĩ ra đi trên lưng chiến mã nhưng ngày chiến thắng chỉ có chiến mã trở về mà không bóng dáng người trên lưng ngựa. Di tôi nén nỗi đau vào bên trong. Nhà tôi lập bàn thờ cho dương. Tôi đã nhờ người về tận xã Tam Thanh, huyện Tam Kỳ (nay là thành phố Tam Kỳ), tỉnh Quảng Nam tìm gia đình dương nhưng không ai còn nhớ tên người lính cũ Nguyễn Ngọc Linh. Gần đây, dò tìm danh sách liệt sĩ trên mạng, cũng không có thông tin gì để tìm mộ phần của dương.
+
+Ngày hòa bình, di tôi đã qua tuổi bốn mươi. Vẫn có người đàn ông để ý đến di nhưng lòng di đã không còn rung động. Bà ngoại tôi ngày một già yếu. Những người con trai của bà về thăm ít ngày rồi lại đi ra thành phố. Những người con gái theo chồng, theo con. Chỉ còn mình di Bảy ở lại chăm sóc bà, trông coi nhà thờ giữa khu vườn ít bàn tay vun xới.
+
+Bà ngoại mất, mấy năm trước di vào Sài Gòn sống với em nhưng được ít lâu, nhớ quê, lại về sống một mình trong ngôi nhà cũ. Di lại tiếp tục những bữa cơm vắng lặng như mấy mươi năm trước. Và mỗi buổi chiều muộn lại ra ngồi trước hiên nhà, nhìn con đường kéo dài như nỗi chờ mong trong vô vọng. Đêm đêm, ngọn đèn
+
+69

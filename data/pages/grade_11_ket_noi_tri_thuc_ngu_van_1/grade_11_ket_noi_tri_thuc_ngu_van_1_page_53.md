@@ -1,0 +1,15 @@
+Con người ta, hết đau bé này tới đau bé khác, ông Năm xa xôi nhìn hai đứa trẻ chơi với mắt đương vẻ. Diễm Thương nói tui mắc cười quá ông Năm à, tui lên ti vi để cha mẹ nhìn mà họ không biết tui là ai, còn người đứng liếc ngang là nhớ liền.
+
+Ông già Năm Nhỏ lặng người đi, tự hỏi, bây giờ ông lên ti vi, con Cải có nhận ra ông không. Câu trả lời là có, ông đã dắt con nhỏ đi hái xoài chín trong vườn hoang, đã chặt chuối lùm bẻ dây cho nó lợi(1), thà trâu, chơi diều, ông đã cõng con nhỏ đi tắt mấy vạt đồng đến khám bệnh cho ông bác sĩ già, mỗi khi nó nhức đầu, sổ mũi. Cây kẹp nhỏ, mở dây thun khoanh, mấy cục kẹo đưa vung vính(2) trong túi áo mỗi khi ông đi chợ về... Tất cả những thứ đó, ông nhớ món mòn thì nhỏ Cải chắc chưa quên. Ông già muốn lên ti vi để nhắn đứa trẻ bỏ nhà rằng, về đi con ơi, đời trâu có sá gì(3)!
+
+Đăng tin trên truyền hình đắt đỏ, mà lần nào lại phỏng quảng cáo ông cũng phải đổi cớ, đổi phải đọc theo ý mình, trong đó có đoạn, "Con không về ba nhớ đã đành, mà con còn giận ba, không nhìn mặt". Người ta cười, trên đài chữ có phải chợ trời đâu mà muốn nói gì cũng được. Ông giận, quày quả về nhà, nghĩ cách tự mình lên ti vi. Chỉ tội, câu nói gọn hơ vậy mà ông chưa có dịp gởi lời. Có lần, ông đẩu xe kẹo đậu chợ, thấy người ta làm phim vụt lấn chiếm lòng lề đường, người hớt thúng mủng cá rau bỏ chạy, ông sượng rơn lăng xăng chạy lọt chỗ này lỗ mặt đằng kia, mặp máy câu "Cải ơi..." (mà vô phim người ta đã xóa mất tiếng còn đâu). Chỉ mong được thấy mình trên ti vi, một khuôn mặt teo héo sạm đen dưới những sợi tóc ngả màu trắng xóa, một thân hình gầy guộc, lưng đã chớm còng... "Mình thèm lên ti vi muốn chết giấc(4) mà không được, còn mấy ông cán bộ ngồi chình ình trong đó hoài, thấy mắc(5) ngán, ông già Năm Nhỏ than thở với thằng Thân, nói sao tao muốn làm bí thơ tỉnh quá". Thân kêu, trời ơi, chỉ vậy tía. Ông cười, lên ti vi chớ chi, lúc đó tao đường hoàng nói chuyện với con Cải, tao nói từ từ, nhắc chuyện xưa cho nó nghe. Thằng Thân cũng cười, tưởng tía làm lớn để lo cho dân, ai dè cũng bo bo cho mình.
+
+Họ ngồi đụt mưa(6) dưới một hàng ba trường tiểu học. Nước đổ trắng trời. Mưa còn ướt lạnh dài dài. Thằng Thân lo ở nhà mưa dột ướt đầu giường, về không có gối để nằm, không mền(7) để đắp. Diễm Thương biết có chạy qua không hay là bận khách, bận cười cợt (mà lòng nào nè) biểu uống với em chút nữa đi anh. Thân chép miệng, buồn quá tía ơi. Mẹ vẫn nghề vẫn giọng nên chừng này tuổi đầu rồi mà nghèo quá chừng, đến nỗi không lo được cho nhỏ Thương. Ông già Năm Nhỏ thấy thằng Thân
+
+(1) Lợi: bơi.
+(2) Vung vính: có dáng vẻ vênh vang, đắc ý, ở đây tác giả chuyển trạng thái của nhân vật cho các đồ vật trong túi áo rộng.
+(3) Sá gì: đáng gì.
+(4) Muốn chết giấc: rất muốn.
+(5) Mắc: trạng thái tâm lí bất ngờ này sinh do một tác động nào đó, thường đi với các từ chỉ trạng thái: cười, buồn, ham, ghét,...
+(6) Đụt mưa: trú mưa.
+(7) Mền: chăn.

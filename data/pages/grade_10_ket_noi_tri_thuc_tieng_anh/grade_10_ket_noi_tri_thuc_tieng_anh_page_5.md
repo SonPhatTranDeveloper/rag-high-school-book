@@ -1,0 +1,9 @@
+| SPEAKING | LISTENING | WRITING | EVERYDAY ENGLISH | CULTURE / CLIL | PROJECT |
+|-----------|-----------|----------|-----------------|----------------|---------|
+| Explaining why children should or shouldn't do housework | Listening for specific information in a talk show about family life | Writing about family routines | Expressing opinions | Family values in the UK | Doing research on Family Day in Viet Nam or other countries |
+| Talking about ways to live green | Listening for specific information in an announcement about a green event | Writing about ways to improve the environment | Asking for and giving advice | Carbon footprint | Planning activities for a Go Green Weekend event |
+| Talking about a TV music show | Listening for gist and specific information in an interview about a music festival | Writing a blog about experiences at a music event | Making and responding to suggestions | Chau van singing | Doing research on traditional music in Viet Nam or another country |
+| Talking about the benefits of volunteering activities | Listening for specific information in an announcement for volunteers | Writing an application letter for volunteer work | Expressing feelings | Save the Children organisation | Doing research on a volunteer project in your community |
+| Talking about inventions and their uses | Listening to instructions on how to use an invention for specific information | Writing about the benefits of an invention | Making and responding to requests | Computer hardware | Collecting information about an existing invention or creating a new one for the classroom |
+
+5

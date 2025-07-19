@@ -1,0 +1,1 @@
+[Hình ảnh hiển thị một logo màu xám nhạt ở giữa trang trắng. Logo này có hình dạng một hình tròn với một cái diều bên trong. Cái diều được tạo thành từ các hình tam giác đơn giản và có một đuôi ngắn phía dưới. Toàn bộ thiết kế rất tối giản và tinh tế.]

@@ -1,0 +1,12 @@
+# BlogTailieu.com
+
+| Listening | Speaking | Pronunciation | Reading | Writing |
+|-----------|----------|----------------|---------|---------|
+| Focused Listening<br>A Discussion:<br>Urbanization Factors | Discussing Opportunities and Challenges of Urbanization<br>Discussing Ways to Preserve a Tradition | Contractions with Auxiliary Verbs | Quality of Life:<br>An Article about Things People Do to Improve the Community<br>(Reading for Details) | Writing a Paragraph Describing Famous Landmarks |
+| Listening for General Understanding and Specific Information<br>An Interview:<br>Cognitive Biases | Discussing Mental Influences<br>Describing Emotions | Th Sounds | How Memories are Made:<br>An Article about Memory Competitions and Memory Methods<br>(Reading for Gist; Reading for Details) | Writing about an Emotional Experience |
+| General and Focused Listening<br>An Interview:<br>Extreme Weather Events | Discussing Causes and Effects<br>Talking about the Effects of Climate Change | Linking Words Together | Is Coffee in Danger?<br>An Article about the Effects of Climate Change on Coffee<br>(Reading for Details) | Reporting a Chart |
+| General and Focused Listening<br>A Conversation:<br>Life-Changing Moments | Discussing Important People or Events<br>Expressing Agreement and Disagreement | Assimilation of the Sound /t/ | Want a Better Job? Work for a Better Company:<br>An Article about Factors Affecting Job Satisfaction<br>(Reading for Details; Identifying the Meanings of Words from Context) | Writing an Opinion Paragraph |
+| Listening for Instructions and Key Information<br>A Talk:<br>Operating Fire Extinguishers | Talking about the Survival Skills in Emergency Situations<br>Giving Advice about Difficult Situations | Sentence Stress for Emphasis of Meanings | A Birthday to Remember:<br>An Article about the Tham Luang Cave Rescue<br>(Reading for Details; Making Inferences) | Writing a Paragraph Giving Advice |
+| Listening for General Understanding<br>A Radio Call-in Show:<br>Public Art | Discussing Opinions about Art<br>Talking about Profiles of Artists | Thought Groups | Silk—the Weaving of Việt Souls:<br>An Article about Việt Nam's tradition—Silk Weaving<br>(Reading for Gist; Reading for Details) | Writing a Biographical Profile |
+
+https://blogtailieu.com/sach-giao-khoa

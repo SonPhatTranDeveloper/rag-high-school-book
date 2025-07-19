@@ -1,0 +1,13 @@
+BẢNG GIẢI THÍCH THUẬT NGỮ
+
+TT | Thuật ngữ | Giải thích | Trang
+--- | --- | --- | ---
+B | bài văn nghị luận so sánh, đánh giá hai tác phẩm thơ | kiểu bài nghị luận văn học dùng lí lẽ và bằng chứng để làm rõ những điểm tương đồng/ khác biệt về đặc điểm/ giá trị nội dung và nghệ thuật của hai tác phẩm thơ | 20
+ | các giá trị của tác phẩm văn học (nhận thức, giáo dục, thẩm mĩ) | giá trị nhận thức thể hiện ở việc tác phẩm văn học mang đến cho bạn đọc những hiểu biết về tự nhiên, xã hội và về chính bản thân mình. Giá trị giáo dục thể hiện ở khả năng hình thành nơi người đọc những phẩm chất đạo đức, làm thay đổi thế giới quan, nhân sinh quan. Giá trị thẩm mĩ thể hiện ở khả năng thỏa mãn nhu cầu về cái đẹp, phát triển năng lực, thị hiếu về cái đẹp cho người đọc. | 30
+C | câu mơ hồ | loại câu không rõ ràng về nghĩa | 30
+ | câu sai logic | có ngữ nghĩa không phù hợp với logic thông thường | 67
+ | chi tiết, sự kiện hiện thực | loại chi tiết, sự kiện có thật trong đời sống, tồn tại một cách khách quan | 100
+ | cốt truyện hài kịch | hệ thống sự kiện chính trong hài kịch là câu chuyện đời thường, dựa trên tình huống gây cười (hiểu lầm, nhầm lẫn, trùng hợp ngẫu nhiên,...) dẫn đến nghịch cảnh trớ trêu, bộc lộ bản chất, tính cách đáng chê cười của nhân vật, nhiều khi có kết cục đổ khóc, đổ cười,... | 125
+H | hài kịch | thể loại kịch dùng tiếng cười phê phán thói hư tật xấu, suy đồi đạo đức, tệ nạn xã hội, tổng tiến những gì không phù hợp với đời sống; từ đó nó lực thay đổi nhận thức của khán giả, hướng đến một nhân sinh quan tốt đẹp hơn; nếu bi kịch gợi lên cảm xúc xót thương và sợ hãi trong khán giả thông qua sự mất mát hay cái chết của những nhân vật cao quý thì hài kịch dùng tiếng cười để phê phán những giá trị lỗi thời, khẳng định sự chiến thắng của những giá trị mới mẻ, tiến bộ; đặc điểm của hài kịch thể hiện qua tình huống, xung đột, hành động, nhân vật, các sắc điệu của tiếng cười, thủ pháp trào phúng, ngôn ngữ hài kịch,... | 125
+ | hành động trong hài kịch | toàn bộ hoạt động của các nhân vật thông qua lời thoại, ngữ điệu, cử chỉ, biểu cảm,... nhằm thể hiện thế giới nội tâm và kết nối sự kiện, làm nên sự phát triển của cốt truyện hài kịch, thường gắn với tình huống hài kịch và góp phần thể hiện các thủ pháp trào phúng | 126
+ | hiệu ứng "chữa trị" của hài kịch | một trong những thể loại nghệ thuật có khả năng tác động và định hình ý thức công đồng, ngoài chức năng giải trí, làm hưng phấn tâm trạng, hài kịch còn giúp khán giả lạc quan và tỉnh táo nhận thức thực tế, bảo vệ mình trước cái tiêu cực, đẩy lên mong muốn chữa trị những khiếm khuyết, bất cập trong đời sống xã hội và cá nhân | 126

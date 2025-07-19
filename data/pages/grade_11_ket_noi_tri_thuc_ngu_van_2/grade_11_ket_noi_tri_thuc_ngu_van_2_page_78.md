@@ -1,0 +1,13 @@
+Vượt qua những nỗi đau
+
+Sau sáu thập niên, những nạn nhân của chiến tranh một lần nữa trở thành tâm điểm của Pa-ra-lim-pích. Gần 10% các vận động viên của Mỹ dự Pa-ra-lim-pích Tô-ky-ô 2020 là những cựu chiến binh. Đoàn thể thao người tị nạn cũng tham dự giải với sáu thành viên, và mỗi ngày chúng ta lại thấy những vận động viên xuất sắc như Van Gát tỏa sáng. Cựu lính nhảy dù người Anh gặp nạn vào năm 2009, và được Help for Heroes (tổ chức Hỗ trợ các Cựu chiến binh) của Anh giúp đỡ.
+
+"Tôi đã học cách thích nghi, giống như cách mà tôi đã thích nghi để trở thành một lính nhảy dù. Chúng tôi có thể lên kế hoạch để hạ cánh trên một tòa nhà có cửa thoát, nhưng nếu phải hạ cánh ở một nơi khác thì chúng tôi vẫn phải chấp nhận. Thông qua Help for Heroes, tôi biết cuộc sống của mình vẫn còn nhiều mục tiêu", Van Gát nói.
+
+Với năng lực và ý chí của một quân nhân, Van Gát nhanh chóng thích nghi với đời sống thể thao chuyên nghiệp. Trượt tuyết và leo núi là những môn thể thao đầu tiên anh lựa chọn. Năm 2011, anh trở thành người gốc Nam Phi đầu tiên chinh phục được ngọn Man-na-xlu (Manaslu) ở dãy Hi-ma-lay-a (Himalaya - ngọn núi cao thứ tám thế giới, 8.164 mét). Hai năm sau, Van Gát, cùng hoàng tử Anh Ha-ry (Harry) tham gia chuyến thám hiểm hành trình 335 ki-lô-mét ở Nam Cực nhằm gây quỹ cho các thương binh. Sau đó, anh bắt đầu hướng đến những môn thể thao cạnh tranh. Ngay trong lần đầu tham dự Pa-ra-lim-pích, cựu quân nhân người Anh đã giành được hai huy chương Vàng và một huy chương Đồng ở môn xe đạp.
+
+Trong số các cựu quân nhân tham dự Pa-ra-lim-pích, Brét-ly Xnai-đơ (Bradley Snyder) có lẽ là người nổi tiếng nhất. Vận động viên bơi lội khiếm thị này từng phục vụ trong hải quân Mỹ khi tham chiến ở Áp-ga-ni-xtan. Khi giúp đỡ các nạn nhân trong một vụ đánh bom năm 2011, mắt của anh đã bị hỏng và từ đó anh phải làm quen với cuộc sống mù lòa.
+
+"Khi không còn ánh sáng đối mặt, mọi việc bạn làm đều trở nên khó khăn. Điều duy nhất tôi không bị cản trở là bơi lội", Xnai-đơ nói.
+
+Anh vốn là đội trưởng đội bơi ở Học viện Hải quân nên dễ dàng thích nghi với đời sống thi đấu thể thao. Chỉ một năm sau đó, Xnai-đơ đến Pa-ra-lim-pích Luân Đôn 2012 và giành hai huy chương Vàng. Ở Ri-ô đờ Gian-nê-rô (Rio de Janeiro) 2016, anh lại có ba huy chương Vàng. Đến với Tô-ky-ô 2020, Xnai-đơ chuyển sang thi đấu ba môn phối hợp (bơi, đạp, chạy) và lập tức giành huy chương Vàng Pa-ra-lim-pích thứ sáu trong sự nghiệp.

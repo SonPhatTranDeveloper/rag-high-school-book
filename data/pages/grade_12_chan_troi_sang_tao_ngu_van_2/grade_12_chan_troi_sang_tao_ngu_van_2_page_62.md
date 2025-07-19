@@ -1,0 +1,13 @@
+nước ở Phan Thiết (nay thuộc tỉnh Bình Thuận), ít lâu sau, vào Sài Gòn, rồi từ đó ra nước ngoài tìm đường cứu nước vào năm 1911. Năm 1918, Người tham gia Đảng Xã hội Pháp, thành lập Hội những người Việt Nam yêu nước. Năm 1919, Người thay mặt những người Việt Nam ở Pháp gửi tới Hội nghị hoà bình họp ở Véc-xây (Versailles) (Pháp) bản yêu sách Quyền các dân tộc, kí tên Nguyễn Ái Quốc. Năm 1920, Nguyễn Ái Quốc tham gia thành lập Đảng Cộng sản Pháp và trong thời gian ở Pháp, Người tích cực viết báo, viết sách tuyên truyền chống chủ nghĩa thực dân và đoàn kết các dân tộc thuộc địa. Từ năm 1923 đến năm 1941, Người chủ yếu hoạt động ở Liên Xô, Trung Quốc, Thái Lan. Ngày 03 tháng 02 năm 1930, Người chủ trì hội nghị thống nhất các tổ chức cộng sản trong nước và thành lập Đảng Cộng sản Việt Nam ở Hương Cảng. Đầu năm 1941, lấy tên là Hồ Chí Minh, Người về nước thành lập Mặt trận Việt Minh, chuẩn bị lực lượng để đón thời cơ giành độc lập dân tộc. Tháng 8 năm 1942, trong chuyến đi sang Trung Quốc nhằm tranh thủ sự viện trợ quốc tế đối với cách mạng Việt Nam, Người bị chính quyền Tưởng Giới Thạch bắt giữ, giam cầm suốt 14 tháng ở các nhà lao thuộc tỉnh Quảng Tây. Ra tù, Người về nước tiếp tục lãnh đạo cách mạng Việt Nam. Cách mạng tháng Tám thắng lợi, ngày 02 tháng 9 năm 1945, trong cương vị Chủ tịch nước, Hồ Chí Minh đọc bản Tuyên ngôn Độc lập tại Quảng trường Ba Đình, khai sinh nước Việt Nam Dân chủ Cộng hoà (nay là nước Cộng hoà xã hội chủ nghĩa Việt Nam). Tiếp đến, Người đã lãnh đạo hai cuộc kháng chiến chống thực dân Pháp, chống đế quốc Mỹ của dân tộc.
+
+Với những đóng góp lớn lao cho sự nghiệp đấu tranh vì độc lập dân tộc, sự phát triển của đất nước và hạnh phúc của nhân dân, cùng những tư tưởng, đạo đức, phong cách cao đẹp kết tinh trong cuộc đời và sự nghiệp cách mạng của mình, Chủ tịch Hồ Chí Minh được tôn vinh là anh hùng dân tộc, nhà văn hoá kiệt xuất của Việt Nam.
+
+2. Quan điểm sáng tác văn học
+
+Là người am hiểu quy luật và đặc trưng của hoạt động văn học, Hồ Chí Minh luôn coi trọng vai trò của văn chương đối với sự nghiệp cách mạng và đời sống con người. Người quan niệm văn học nghệ thuật là vũ khí đấu tranh cách mạng, văn chương nghệ thuật trong thời đại cách mạng cần đề cao tính chiến đấu, chất "thép" và tinh thần "xung phong" trên tuyến đầu của "mặt trận" văn hoá nghệ thuật; làm thơ, viết văn cũng là hành động cách mạng.
+
+Nay ở trong thơ nên có thép
+Nhà thơ cũng phải biết xung phong.
+(Hồ Chí Minh, Cảm tưởng đọc Thiên gia thi)
+
+Với nhận thức và quan niệm như vậy, khi đặt bút viết, bao giờ Người cũng tự hỏi: "Viết cho ai?" (xác định đối tượng người đọc), "Viết để làm gì?" (xác định mục đích sáng tác); sau đó mới quyết định "Viết cái gì?" (lựa chọn nội dung) và "Viết

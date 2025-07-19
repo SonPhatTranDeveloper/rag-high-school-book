@@ -1,0 +1,10 @@
+Bài viết tham khảo
+
+Tiếc thương sinh thái
+(Trích)
+
+Nguyễn Bình
+
+Bước sang năm 2022, chúng ta nghe thấy và nhìn thấy biến đổi khí hậu ở mọi nơi, cả ở ngoài đời thực, cả trong ngôn ngữ và trong nghệ thuật. Giữa một thế giới nơi tất cả các giọng nói - hay thậm chí là giọng hát - đều gợi nhắc về một thảm kịch toàn cầu đang cận kề, biến đổi khí hậu đã đi vào tâm thức của mọi người và tác động sâu sắc đến đời sống tinh thần. Một hậu quả đáng chú ý là sự xuất hiện của hiện tượng tâm lí "tiếc thương sinh thái" (ecological grief).
+
+Cụm từ "tiếc thương sinh thái" xuất hiện lần đầu trong một bài viết vào năm 2018 của hai nhà khoa học xã hội A-sli Kun-xô-lơ (Ashlee Cunsolo) và Ne-vi-lơ R. E-li (Neville R. Ellis), trong đó họ định nghĩa tiếc thương sinh thái là nỗi đau khổ trước những mất mát về sinh thái mà con người hoặc là đã trải qua, hoặc là tin rằng đang ở phía trước. Những mất mát này có thể đa dạng, ví dụ như sự biến mất của các loài sinh vật hay sự thay đổi ở các cảnh quan quan trọng đối với đời sống tinh thần, song điểm chung là chúng đều do biến đổi khí hậu gây ra và đều khiến tâm trí con người phản ứng tương tự như khi mất người thân. Theo Kun-xô-lơ và E-li, tiếc thương sinh thái là một phản ứng có thể đoán trước được, nhất là ở những cộng đồng vẫn còn sinh sống, làm việc và giữ các mối quan hệ văn hóa mật thiết với môi trường tự nhiên. Hai tác giả này đưa ra hai trường hợp cụ thể: những người I-nu-it (Inuit) ở miền Bắc Ca-na-đa (Canada) và những người làm nghề trồng trọt ở Ốt-xtrây-li-a (Australia). Lúc được hỏi về sự thay đổi môi trường chóng vánh ở nơi mình sống, cả hai cộng đồng này đều có chung những cảm xúc như nỗi thất vọng, u sầu, hay thậm chí là ý nghĩ muốn tự sát, mặc dù họ sinh sống ở hai nơi hoàn toàn khác nhau về mặt địa lí, phong tục tập quán, và còn bị ảnh hưởng bởi các loại thiên tai hoàn toàn khác nhau.

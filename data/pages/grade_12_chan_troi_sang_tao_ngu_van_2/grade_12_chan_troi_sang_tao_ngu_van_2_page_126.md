@@ -1,0 +1,15 @@
+Văn học từng bước thoát khỏi tính quy phạm chặt chẽ và nghiêm ngặt của văn học trung đại để xây dựng một nền văn học hiện đại theo mô hình văn học phương Tây. Sự phát triển mang tính cách mạng của văn học trong giai đoạn này kết tinh rực rỡ trong sáng tác của đội ngũ nhà văn hiện đại thuộc phong trào Thơ mới, tiểu thuyết của Tự lực văn đoàn, văn xuôi hiện thực phê phán, thơ ca cách mạng vô sản,... Cá tính sáng tạo, phong cách nghệ thuật của nhà văn đặc biệt được đề cao. Tuy nhiên, quá trình hiện đại hoá trong bối cảnh xã hội thực dân nửa phong kiến, văn học giai đoạn này phát triển đa dạng trong sự phân hoá phức tạp thành nhiều bộ phận, xu hướng.
+
+Văn học thời kì này tiếp tục phát huy các tư tưởng truyền thống của dân tộc như chủ nghĩa yêu nước, chủ nghĩa nhân đạo đồng thời cũng mang lại cho các tư tưởng truyền thống nguồn cảm hứng mới: tinh thần dân chủ. Trên con đường hiện đại hoá, văn học đạt được những thành tựu mang tính cách mạng về quan điểm sáng tác, về thể loại và ngôn từ.
+
+Thời kì thứ hai: Từ Cách mạng tháng Tám năm 1945 đến nay, văn học hiện đại Việt Nam phát triển thống nhất dưới sự lãnh đạo của Đảng Cộng sản Việt Nam. Văn học góp phần đưa hai cuộc kháng chiến chống Pháp, chống Mỹ đến ngày thắng lợi, nước nhà độc lập, thống nhất, từng bước vươn tới sự phát triển giàu đẹp. Tuy nhiên, tuỳ vào bối cảnh lịch sử xã hội của từng giai đoạn, văn học cũng có những đặc điểm riêng.
+
+Văn học 1945 - 1975 phát triển trong hoàn cảnh chiến tranh, đề cao chủ nghĩa yêu nước, chủ yếu sáng tác theo khuynh hướng sử thi và cảm hứng lãng mạn. Khuynh hướng sử thi thường thể hiện qua việc lựa chọn đề tài lịch sử dân tộc, xây dựng nhân vật anh hùng, thể hiện giọng điệu khẳng định, ngợi ca chính nghĩa, tương lai tươi sáng của dân tộc, sức mạnh của nhân dân. Cảm hứng lãng mạn thể hiện ở tinh thần lạc quan hướng đến ngày chiến thắng, ngợi ca sức mạnh của ý chí đấu tranh, tinh thần cách mạng. Đặc điểm này thấm nhuần ở tất cả các thể loại văn chính luận, thơ ca đến truyện, kí,... trong văn học 1945 - 1975.
+
+Ở miền Nam Việt Nam, do có đặc điểm tình hình chính trị - xã hội riêng, từ năm 1954 đến năm 1975, văn học phát triển theo nhiều khuynh hướng đáng ghi nhận, phản ánh bối cảnh lịch sử hiện thực đời sống của xã hội ở trong lòng các đô thị miền Nam đương thời như: khuynh hướng đề cao chủ nghĩa quốc gia, khuynh hướng thể hiện tinh thần phản kháng, khuynh hướng tôn vinh truyền thống văn hoá dân tộc¹,...
+
+Sau năm 1975, trong bối cảnh đất nước thống nhất và yêu cầu đổi mới, hội nhập, văn học vận động theo hướng dân chủ hoá cả trong sáng tác lẫn trong tiếp nhận. Trên cơ sở lấy tư tưởng nhân bản và sự thức tỉnh ý thức cá nhân làm nền tảng cho
+
+¹ Theo Huỳnh Như Phương, Văn học miền Nam Việt Nam 1954 - 1975: những khuynh hướng chủ yếu và thành tựu hiện đại hoá, in trong Kỉ yếu Hội thảo khoa học quốc tế Việt Nam học lần thứ IV, chủ đề Những vấn đề giảng dạy tiếng Việt và nghiên cứu Việt Nam trong thế giới ngày nay, NXB Đại học Quốc gia Thành phố Hồ Chí Minh, 2019, tr. 710 - 723.
+
+123

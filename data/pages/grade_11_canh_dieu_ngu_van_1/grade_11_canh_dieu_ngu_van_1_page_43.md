@@ -1,0 +1,14 @@
+người phụ nữ). Về bi kịch tình yêu: mối tình Kim Trọng – Thúy Kiều là một tình yêu lí tưởng, tình yêu đang đẹp thì tan vỡ và tan vỡ không hạn gần nối. Bởi sau mười lăm năm lưu lạc, Kiều gặp lại người yêu nhưng không bao giờ gặp lại tình yêu nữa. Về bi kịch nhân phẩm: Thúy Kiều là người rất trọng nhân phẩm, biết giữ gìn nhân phẩm nhưng rồi phải thất thân(1) với kẻ nho bần, phải "thanh lâu hai lượt", "đổn người cửa trước, rước người cửa sau".
+
+Tiếng nói đồng tình với khát vọng chân chính của con người thể hiện tập trung qua tình yêu Kim Trọng – Thúy Kiều và qua hình tượng nhân vật Thúy Kiều, Từ Hải. Truyện Kiều là tiếng nói ca ngợi tình yêu tự do, chung thủy, tiếng nói khẳng định khát vọng tình yêu: tình yêu Kim – Kiều tan vỡ nhưng khát vọng tình yêu không mất. Thúy Kiều là hiện thân của khát vọng sống. Trải qua biết bao "gió dập sóng dồi", một thân phận "con ong cái kiến" nhưng Kiều vẫn vươn lên với khát vọng sống không gì dập tắt nổi. Đoạn Thúy Kiều trả ân, báo oán thể hiện sức mạnh vùng lên của những con người bị áp bức, đau khổ. Nhân vật Từ Hải là hiện thân của khát vọng tự do, công lí. Khát vọng tự do của Từ Hải bộc lộ qua lí tưởng, chí khí, hành động phi thường "đội trời, đạp đất", "bể Sở sông Ngô tung hoành". Công lí của Từ Hải là lẽ phải, lẽ công bằng, thể hiện qua tuyên ngôn: "Anh hùng tiếng đã gọi rằng / Giữa đường dẫu thấy bất bằng mà tha". Công lí ấy hướng đến những số phận nhỏ bé, những con người bị áp bức đau khổ. Từ Hải giúp Thúy Kiều đòi lại công lí, thực thi lẽ công bằng: người tốt được đền bù, kẻ ác bị trừng trị. Công lí trong Truyện Kiều mang quan điểm của nhân dân từng được thể hiện ở các truyện cổ tích như Thạch Sanh, Tấm Cám,...
+
+Nội dung nhân đạo trong Văn tế thập loại chúng sinh thống nhất với nội dung nhân đạo trong Truyện Kiều. Ở bài văn tế này, Nguyễn Du khóc thương cho những loại người trong xã hội. Những giọt nước mắt xót xa nhất là dành cho người phụ nữ ("Đau đớn thay phận đàn bà"), dành cho trẻ em ("Kìa những đứa tiểu nhi tấm bé"), người lao động ("Dốn gánh tre chín ran hai vai"). Chính vì vậy mà nhận định của Mộng Liên Đường chủ nhân(2) về Truyện Kiều cũng đúng với Văn tế thập loại chúng sinh: "Lời văn ta ra hình như có máu chảy ở đầu ngọn bút, nước mắt thấm ở trên tờ giấy, khiến ai đọc đến cũng phải thảm thía ngậm ngùi, đau đớn như đứt ruột." (Bài Tựa về Truyện Kiều).
+
+2. Nguyễn Du – thiên tài nghệ thuật
+
+Đại thi hào Nguyễn Du có những đóng góp nghệ thuật hết sức to lớn đối với sự phát triển của văn học dân tộc.
+
+(1) Thất thân: người phụ nữ mất đi sự trinh tiết, không giữ được trong sạch (theo quan niệm phong kiến).
+(2) Mộng Liên Đường chủ nhân: tên thật là nhà văn Nguyễn Đăng Tuyển (1795 – 1880).
+
+41

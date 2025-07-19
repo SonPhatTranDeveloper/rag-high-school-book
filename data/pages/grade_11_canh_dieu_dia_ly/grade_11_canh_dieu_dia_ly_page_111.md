@@ -1,0 +1,7 @@
+Hình 23.1. Bản đồ phân bố một số trung tâm công nghiệp và ngành công nghiệp của Nhật Bản năm 2020
+
+[Bản đồ Nhật Bản với các biểu tượng chỉ ra vị trí của các trung tâm công nghiệp và ngành công nghiệp khác nhau. Chú giải bao gồm các biểu tượng cho trung tâm công nghiệp, luyện kim đen, luyện kim màu, điện tử - tin học, cơ khí, chế tạo máy bay, sân bay, đóng tàu, hóa chất, dệt may, gỗ, giấy, sản xuất ô tô, cảng biển, thực phẩm, nhà máy thủy điện, nhà máy nhiệt điện, điện nguyên tử và năng lượng tái tạo. Bản đồ cũng hiển thị đường bờ biển, sông, đảo, quần đảo, đường ô tô, biên giới quốc gia và ranh giới tỉnh, thành phố.]
+
+- Công nghiệp chế tạo phát triển mạnh và chiếm khoảng 40 % giá trị hàng công nghiệp xuất khẩu (năm 2020), nổi bật với sản xuất ô tô và đóng tàu đứng hàng đầu thế giới. Ngành này có khối lượng sản phẩm lớn và đa dạng, áp dụng tối đa các công nghệ tiên tiến và đạt hiệu quả cao. Các trung tâm công nghiệp chế tạo lớn là: Tô-ky-ô, Na-gôi-a, Ô-xa-ca.
+
+- Công nghiệp luyện kim chủ yếu dựa vào nguyên liệu nhập từ nước ngoài, có tốc độ phát triển nhanh, ứng dụng phổ biến kĩ thuật và công nghệ hiện đại. Nhật Bản là nước xuất khẩu thép đứng thứ hai thế giới. Công nghiệp luyện kim phân bố chủ yếu ở Tô-ky-ô, I-ô-cô-ha-ma, Na-gôi-a,...

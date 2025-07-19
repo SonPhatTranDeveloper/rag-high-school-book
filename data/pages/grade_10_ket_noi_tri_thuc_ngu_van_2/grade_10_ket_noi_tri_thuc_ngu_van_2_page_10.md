@@ -1,0 +1,13 @@
+2. Đặc điểm nghệ thuật
+
+Thơ văn Nguyễn Trãi kết tinh nhiều thành tựu nghệ thuật đặc sắc; góp phần quan trọng vào sự phát triển, hoàn thiện một số thể loại văn học trung đại Việt Nam: văn chính luận, thơ chữ Hán và thơ chữ Nôm.
+
+Văn chính luận của Nguyễn Trãi, đặc biệt là những thư từ bút chiến, văn kiện ngoại giao với nhà Minh luôn đạt đến trình độ mẫu mực. Nguyễn Trãi đã vận dụng một cách triệt để và sắc sảo các mệnh đề tư tưởng, đạo đức của Nho giáo và chân lí khách quan của đời sống để tạo dựng nên tầng chính nghĩa vững chắc cho những luận điểm lớn được nêu lên. Nhiều văn bản được mở đầu bằng triết lí nhân nghĩa: "Mưu tính việc lớn phải lấy nhân nghĩa làm gốc, hoàn thành công to phải lấy nhân nghĩa làm đầu." (Lại thư trả lời Phương Chính - Quân trung từ mệnh tập) hoặc bằng những quy luật tất yếu: "Tôi nghe: Trời không che riêng ai, đất không chở riêng ai, mặt trời mặt trăng không chiếu riêng ai." (Lại thư cho Vương Thông - Quân trung từ mệnh tập).
+
+Sức thuyết phục của văn chính luận Nguyễn Trãi còn được tạo nên nhờ khả năng bám sát từng đối tượng và tình hình thời sự, chiến sự; sự kết hợp giữa lí lẽ sắc bén với dẫn chứng xác đáng; cách lập luận và bố cục chặt chẽ; ngôn ngữ hàm súc, kết hợp nhiều phong cách ngôn ngữ và nhiều phương thức biểu đạt; giọng điệu truyền cảm. Lê Quý Đôn từng ca ngợi Nguyễn Trãi là cây bút viết thư, thảo hiệu tài giỏi hơn hết mọi thời.
+
+Thơ chữ Hán của Nguyễn Trãi hầu hết được sáng tác bằng các thể thơ Đường luật, đạt tới sự nhuần nhuyễn, điêu luyện; ngôn ngữ cô đúc; nghệ thuật tả cảnh, tả tình tinh tế, tài hoa. Nghệ thuật trữ tình vẫn mang nét trang nhã, hàm súc "ý tại ngôn ngoại" của thơ cổ phương Đông nhưng không theo hướng cầu kì, khuôn thuộc. Ý tình trong nhiều bài thơ vừa in đậm dấu ấn cá nhân vừa có giá trị tư tưởng sâu sắc (Loạn hậu đáo Côn Sơn cảm tác, Chu trung ngẫu thành, Tự thán, Thanh minh,...). Hình tượng thiên nhiên trong Ức Trai thi tập khi thì phóng khoáng, hùng vĩ, điền lệ, khi thì thanh sơ, thơ mộng (Thần Phù hải khẩu, Đề Yên Tử sơn Hoa Yên tự, Vân Đồn, Tức hứng, Mộ xuân tức sự, Trại đầu xuân dạ,...).
+
+Thơ chữ Nôm của Nguyễn Trãi được đánh giá là đỉnh cao của dòng thơ quốc âm (tiếng Việt) thời trung đại. Trong Quốc âm thi tập, ông dường như đã có ý thức sáng tạo một thể thơ riêng khi đưa cấu trúc lục ngôn(1) xen vào bài thơ thất ngôn ở các vị trí đa dạng, linh hoạt, đồng thời rất chú ý Việt hóa nhiều đề tài, thi liệu mượn từ văn học Trung Quốc.
+
+(1) Lục ngôn: sáu tiếng.

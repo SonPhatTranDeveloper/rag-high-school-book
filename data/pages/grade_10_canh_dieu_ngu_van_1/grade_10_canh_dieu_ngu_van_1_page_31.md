@@ -1,0 +1,13 @@
+nàng có thể để làm đến Lắc-ma-na, Bha-ra-ta (Bharata), Xa-tru-na (Shatrughna)(1), Xu-gri-va (Sugriva)(2), hay nếu nàng thích, nàng có thể đi theo Vi-phi-sa-na cũng được...
+
+Thấy nàng yếu kiều xinh đẹp, lại có được nàng trong nhà hắn, Ra-va-na đâu có chịu dừng được lâu.".
+
+2. Nghe những lời giận dữ đó của Ra-ma, Gia-na-ki đau đớn đến nghet thở, như một cây dây leo bị vòi voi quất nát. Nghe những lời tố cáo chưa từng có, trước mặt đông đủ mọi người, Gia-na-ki xấu hổ cho số kiếp của nàng. Nàng muốn tự chôn vùi cả hình hài thân xác của mình. Mỗi lời nói của Ra-ma xuyên vào trái tim nàng như một mũi tên. Nước mắt nàng đổ ra như suối. Lấy tà áo lau nước mắt, rồi bằng giọng nghẹn ngào, nức nở, nàng nói: "Có sao chàng lại dùng những lời lẽ gay gắt khó tả như vậy đối với thiếp, giống như một kẻ thấp hèn chửi mắng một con mụ thấp hèn? Thiếp đâu phải là người như chàng tưởng! Thiếp có thể lấy tư cách của mình ra mà thề, hãy tin vào danh dự của thiếp. Suy từ hành vi của loại phụ nữ thấp hèn, chàng đã ngờ vực tất cả giới phụ nữ, nhưng như thế đâu có phải. Nếu chàng có hiểu biết thiếp chút đỉnh thì xin hãy từ bỏ mọi ngờ vực không căn cứ đó đi.
+
+Chàng xem, Ra-va-na đã đụng tới thiếp khi mà thiếp đang chết ngất đi, làm thế nào tránh được? Về điều đó, chỉ có số mệnh của thiếp là đáng bị chê trách, nhưng những gì nằm trong vòng kiểm soát của thiếp, tức trái tim thiếp đấy, là thuộc về chàng. Thiếp có thể làm gì với cái thân thiếp đây, bởi nó có thể phụ thuộc vào kẻ khác, khi thiếp hoàn toàn ở dưới quyền lực của hắn. Thiếp còn gì là thanh danh, nếu như chàng vẫn chưa hiểu được thiếp qua tình yêu của thiếp và qua tiếp xúc với tâm hồn của thiếp. Hỡi chàng phải Ha-nu-man tới đó tin tức về thiếp, cớ sao chàng không gửi cho thiếp lời nhắn nhủ chàng từ bỏ thiếp? Nếu thế thì thiếp đã kết liễu đời mình ngay trước mặt chàng Va-na-ra(3) đó rồi. Mà sự thể đã như vậy, thì chàng chẳng cần phải mạo hiểm để có thể nguy hại đến thân mình, và các bạn hữu của chàng đã khỏi phải chịu đựng những phiền muộn, đau khổ. Hỡi Đức vua! Như một người thấp hèn bị con giận giày vò, Người đang nghĩ về thiếp như một phụ nữ tầm thường. Tên thiếp là Gia-na-ki, bởi vì thiếp có liên quan đến lễ tế sinh của nhà vua Gia-na-ka chứ không phải vì thiếp sinh ra trong gia đình đó; chỉ có nữ thần Đất là mẹ của thiếp thôi. Vì không thể suy xét cho đúng đắn, chàng đã không hiểu được bản chất của thiếp.
+
+(1) Xa-tru-na: em của Ra-ma.
+(2) Xu-gri-va: vua của loài khỉ Va-na-ra sống ở núi rừng trên cao nguyên Đê-can (Deccan), miền Nam Ấn Độ.
+(3) Chàng Va-na-ra: ở đây chỉ Ha-nu-man.
+
+30

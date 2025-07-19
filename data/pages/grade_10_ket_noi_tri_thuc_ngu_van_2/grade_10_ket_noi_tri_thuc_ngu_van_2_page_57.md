@@ -1,0 +1,13 @@
+Có lần vào một buổi trưa, tôi đến sân trượt một mình; đi lần trong đám đông. Tôi bỗng thấy Na-đi-a đang đi về phía đồi và đưa mắt tìm tôi... Rồi nàng chậm chạp bước theo bậc thang lên đỉnh đồi... Trượt xe một mình thật ghê sợ biết bao, ôi, thật đáng ghê sợ! Mặt nàng tái nhợt, trắng như tuyết, toàn thân run rẩy, nàng bước đi hệt như đến nơi chịu án tử hình, nhưng nàng vẫn xăm xăm đi, dẫu không ngoái lại.
+
+Lưu ý "đồ vênh" giữa suy đoán của người kể chuyện với hành động tiếp theo của Na-đi-a.
+
+Chắc là cuối cùng nàng quyết định thử xem có còn nghe thấy những lời ngọt ngào say đắm ấy nữa không, khi không có tôi bên cạnh? Tôi nhìn thấy nàng tái nhợt, miệng há ra vì sợ hãi; ngồi lên xe, nhắm mắt lại và, sau khi vĩnh biệt Trái Đất, bắt đầu lao xuống chân đồi... Tiếng càng trượt xe rít lên... Na-đi-a có nghe thấy những lời đó nữa không, tôi không biết... Tôi chỉ thấy nàng bước ra khỏi xe một cách mệt nhọc, gần như kiệt sức. Qua nét mặt nàng có thể thấy rằng chính nàng cũng không biết nàng có nghe được những lời đó hay không. Nỗi sợ hãi khi xe lao xuống đồi đã làm nàng không còn khả năng nghe được, phân biệt được các âm thanh, không còn khả năng hiểu nữa...
+
+Thế rồi những ngày xuân tháng Ba đã tới... Mặt trời như trở nên dịu dàng hơn. Quả đồi tuyết của chúng tôi bắt đầu sẫm lại, dần dần mất đi cái vẻ óng ánh của nó, và cuối cùng thì tan đi. Chúng tôi thôi không trượt xe nữa. Na-đi-a đáng thương cũng không còn nơi nào để nghe những lời đó nữa, và cũng không có ai nói những lời đó nữa, bởi vì gió thì không còn thổi nữa, mà tôi thì sửa soạn đi Pê-téc-bua (Petersburg) - đi rất lâu, có lẽ là suốt đời.
+
+Thế nào đó, khoảng hai ngày trước khi đi, vào một buổi chiều ta, tôi ngồi trong khu vườn nhỏ ngăn cách với sân nhà Na-đi-a bởi một hàng rào cao có đỉnh nhọn... Trời hãy còn lạnh. Tuyết hãy còn đọng lại dưới đống phân ủ hoai mục¹⁾, cây cối hãy còn trơ trụi, nhưng hương vị mùa xuân đã đến, từng đàn quạ bay về tổ trú đêm, rộn lên quang quác. Tôi đến bên hàng rào và ghé nhìn qua khe hở. Tôi thấy Na-đi-a bước ra thềm và đưa mắt nhìn lên trời buồn bã... Làn gió xuân nhẹ thổi qua khuôn mặt nhợt nhạt rầu rĩ của nàng... Làn gió xuân gợi lại cho nàng cái tiếng gió rít trên đồi tuyết, khi nàng nghe thấy bốn tiếng ấy, và gương mặt nàng trở nên buồn bã lạ thường, nước mắt lăn lẽ chảy trên má... Nàng đáng thương đưa hai tay mình về phía trước như muốn cầu xin làn gió đem
+
+Lưu ý hình ảnh "hàng rào cao có đỉnh nhọn" ngăn cách hai nhân vật và hành động "ghé nhìn qua khe hở" của nhân vật "tôi".
+
+¹⁾ Tháng Ba ở nước Nga, người ta đánh đống phân ủ đã hoai mục qua đông để chuẩn bị bón cho cây trồng lúc sang xuân.

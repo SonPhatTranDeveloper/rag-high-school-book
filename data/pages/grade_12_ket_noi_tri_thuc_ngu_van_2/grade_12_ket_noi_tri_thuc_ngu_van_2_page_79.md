@@ -1,0 +1,13 @@
+và dê, chúng có thể trở thành một nguồn thức ăn mới. Lũ chó cũng góp công sức trong việc này. Đến khoảng năm 8 900 trước Công nguyên, cừu đã được thuần hoá ở I-rắc (Iraq), thậm chí có thể là từ sớm hơn nữa ở những nơi khác trên thế giới.
+
+Vào khoảng năm 8 000 trước Công nguyên, phụ nữ vùng Cận Đông bắt đầu gieo trồng hạt giống ngũ cốc hoang trên những cánh đồng đã được khai khẩn. Dấu mốc này thường được coi là khởi đầu của nông nghiệp. Tuy nhiên, vào năm 1970, một đoàn thám hiểm của Đại học Ha-oai (Hawaii) đã đến Bơ-ma (Burma), nay là Mi-an-ma (Myanmar), báo cáo rằng đã tìm thấy những dấu tích để lại của rau trồng, bao gồm đậu, củ mã thầy và dưa chuột, có niên đại từ năm 9 750 trước Công nguyên tại một nơi được gọi là "Hang Thần".
+
+Lợn xuất hiện muộn hơn, vào khoảng năm 7 000 trước Công nguyên, do việc chăn nuôi lợn không đơn giản chỉ là chăn thả trên các bãi cỏ, hơn nữa, phải mất khá khá thời gian để con người nhận ra lợi ích của việc tốn thêm một phần thức ăn để chăn nuôi động vật. Mãi cho đến khoảng năm 6 000 trước Công nguyên, ở Thổ Nhĩ Kỳ hoặc vùng bán đảo Ban-căng (Balkan), con người cuối cùng cũng thành công trong việc thuần hoá những con bò rừng châu Âu vừa to lớn, vừa nhanh nhẹn lại vừa khoẻ mạnh. Bằng việc kiểm soát chế độ ăn uống, thiến những con đực và nuôi nhốt con vật trong không gian chật hẹp, người ta đã biến những con bò rừng hoang đã trở thành gia súc. Gia súc trở thành nguồn thức ăn chính, tiêu thụ một lượng lớn ngũ cốc và muối. Bò rừng châu Âu, nhanh nhẹn và hung dữ, đã bị săn bắn đến mức tuyệt chủng vào giữa thế kỉ XVII.
+
+Khi chế độ ăn của con người chủ yếu bao gồm ngũ cốc và rau quả, được bổ sung thêm thịt động vật từ những trang trại chăn nuôi gia súc, việc buôn bán muối trở thành một nhu cầu thiết yếu trong cuộc sống, mang lại ý nghĩa tượng trưng vô cùng trọng đại và giá trị kinh tế to lớn. Muối trở thành một trong những mặt hàng thương mại quốc tế đầu tiên, sản xuất muối trở thành một trong những ngành công nghiệp đầu tiên, và dĩ nhiên ngành độc quyền nhà nước đầu tiên.
+
+Công cuộc tìm kiếm muối đã tạo ra đề bài hóc búa thách thức các kĩ sư trong nhiều thiên niên kỉ, để rồi chế tạo ra những cỗ máy kì quặc nhất, cũng như những cỗ máy tinh xảo và khéo léo nhất. Nhiều công trình công cộng vĩ đại từng được tạo ra do nhu cầu về vận tải muối thúc đẩy. Muối đã đi đầu trong sự phát triển về cả hoá học lẫn địa chất học. Những tuyến đường trọng yếu được lập nên luôn dành cho mục đích thương mại trao đổi hàng hoá, từ đó hình thành nên các liên minh, nhu cầu bảo vệ đế chế, đồng thời dẫn đến những cuộc khởi nghĩa nổi dậy - tất cả
+
+Tìm ra mối liên hệ giữa các sự kiện, dấu mốc lịch sử với sự phát của muối.
+
+Tìm câu chủ đề của đoạn văn.

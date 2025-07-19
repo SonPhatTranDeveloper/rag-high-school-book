@@ -1,0 +1,14 @@
+Không ai trong chúng ta đủ khéo léo để che giấu mức độ ảnh hưởng từ lời nói và hành động của người khác đối với mình. Cặp mắt trừng trừng, ánh nhìn lo đi nơi khác, cái nhếch mép hay đôi môi trề xuống... thường bộc lộ cảm xúc thật của chúng ta. Nhận thấy được những biểu hiện này ở người khác giúp chúng ta đưa ra các lựa chọn tốt hơn trong những lần giao tiếp về sau, với bất kì ai.
+
+Hầu hết chúng ta đều không chủ tâm tỏ ra ác ý trong giao tiếp, trừ khi với kẻ thù thật sự. Những câu bình luận mỉa mai cũng thường xuất hiện một cách vô ý, xuất phát từ cảm xúc nhất thời hay sự thiếu suy nghĩ chứ không phải từ bản chất xấu xa, hèn hạ.
+
+Phương pháp giải quyết vấn đề này là tập trung tri óc. Đơn giản thôi! Bạn hãy đưa ra quyết định và theo đuổi nó bằng cách rèn luyện. Bạn có thể tạo nên mọi sự khác biệt trong mối quan hệ nếu tuân theo quy tắc ứng xử cơ bản: Đừng nói với người khác những điều mà bạn không muốn nghe. Tôi muốn bạn nhớ lại câu chuyện về người phóng viên vẫn mua báo từ một kẻ bán báo vô văn hoá. Người phóng viên ấy đã lựa chọn cách cư xử từ tế ngay cả với một kẻ chẳng ra gì. Ông ấy chọn hành động ôn hoà. Đôi lúc chúng ta có suy nghĩ sai lầm rằng đáp trả là cần thiết. Và nó thường được ngụy biện rằng đó là sự công bằng. Nhưng hành động "ăn miếng trả miếng" chỉ cho thấy bạn là người yếu đuối và thiếu suy nghĩ. Nói đơn giản hơn là bạn chẳng được lợi gì khi đối xử với người khác không tử tế.
+
+Mỗi tình huống ta trải qua đều là cơ hội để lựa chọn con đường tương tác đúng đắn giữa ta và người khác. Chúng ta không cần phải đáp trả bằng thái độ tương tự khi ai đó đối xử tệ với mình. Chọn cách ứng xử cùng với yêu thương không quá khó so với chọn cách đáp trả tàn nhẫn. Đó chỉ là một quyết định mà thôi – quyết định mang lại lợi ích cho tất cả mọi người.
+
+Trong quá trình giao tiếp, chúng ta luôn có các phương án lựa chọn khác nhau như chú ý lắng nghe, giả vờ lắng nghe một cách tế nhị hay phớt lờ người khác ra mặt. Bất cứ điều gì không thể hiện sự chú tâm của chúng ta đều đồng nghĩa với sự thô lỗ; thái độ thô lỗ này gây tổn hại tinh thần cho bất kì ai liên quan đến chúng ta trong mọi tương tác. Điều này thậm chí có thể đo đếm được bằng các nghiên cứu về sinh lí. Tổ chức Hơi Mát (Heart Math) đã tiến hành nghiên cứu sự ảnh hưởng của cách cư xử thiếu từ tế đối với tình trạng thể chất con người. Sau đó, họ áp dụng những điều phát hiện được vào việc tư vấn cho khoảng 500 công ti đang cần xây dựng môi trường làm việc thân thiện hơn. Cuối cùng, họ kết luận rằng, không chỉ người bị chúng ta đối xử tệ mà bản thân chúng ta cũng bị ảnh hưởng về mặt trí tuệ, cảm xúc, thể chất và tinh thần. Đúng vậy! Sức khoẻ mỗi chúng ta đều phụ thuộc vào những cử chỉ yêu thương lẫn nhau.
+
+[Hình ảnh chú thích bên phải:]
+- Chú ý cách nhận ra việc mình đã làm tổn thương người khác.
+- Nhận biết lí lẽ và bằng chứng của người viết.
+- Theo tác giả, thế nào là "thô lỗ"?

@@ -1,0 +1,15 @@
+lông lẫy của tuổi dại. Ôi, tôi muốn hoá làm một con chim nhỏ đứng co một chân trên con tàu thuỷ tinh để đi ra biển. Tôi cuống quýt vỗ tay, nhưng sông Nê-va đã chảy nhanh quá, không kịp cho lũ hải âu nói một điều gì với người bạn của chúng đang ngẩn ngơ trông theo. Hai nghin năm trước, có một người Hy Lạp tên là Hê-ra-clit, đã khóc suốt đời vì những dòng sông trôi đi quá nhanh(1), thế vậy! Lúc ấy, tôi nhớ lại con sông Hương của tôi, chợt thấy quý điệu chảy lặng lờ của nó khi ngang qua thành phố... Đây là điệu slow(2) tình cảm dành riêng cho Huế, có thể cảm nhận được bằng thị giác qua trăm nghin ánh hoa đăng bồng bềnh vào những đêm hội rằm tháng Bảy từ điện Hòn Chén trôi về, qua Huế bỗng ngập ngừng như muốn đi muốn ở, chao nhẹ trên mặt nước như những vần vương của một nỗi lòng.
+
+Hình như trong khoảnh khắc chùng lại của sông nước ấy, sông Hương đã trở thành một người tài nữ đánh đàn lúc đêm khuya. Đã nhiều lần tôi thất vọng khi nghe nhạc Huế giữa ban ngày, hoặc trên sân khấu nhà hát. Quả đúng như vậy, toàn bộ nền âm nhạc cổ điển Huế đã được sinh thành trên mặt nước của dòng sông này, trong một khoang thuyền nào đó, giữa tiếng nước rơi bán âm(3) của những mái chèo khuya. Nguyễn Du đã bao năm lênh đênh trên quãng sông này, với một phiến trăng sầu. Và từ đó, những bản đàn đã đi suốt đời Kiều. Tôi đã chứng kiến một người nghệ nhân già, chơi đàn hết nửa thế kỉ, một buổi tối ngồi nghe con gái đọc Kiều: "Trong như tiếng hạc bay qua - Đục như tiếng suối mới sa nửa vời"... Đến câu ấy, người nghệ nhân chợt nhổm dậy vỗ đùi, chỉ vào trang sách Nguyễn Du mà thốt lên: "Đó chính là Tứ đại cảnh!"(4)
+
+Rời khỏi kinh thành, sông Hương chếch về hướng chính bắc, ôm lấy đảo Cồn Hến quanh năm mơ màng trong sương khói, đang xa dần thành phố để lưu luyến ra đi giữa màu xanh biếc của tre trúc và của những vườn cau vùng ngoại ô Vĩ Dạ. Và rồi, như sực nhớ lại một điều gì chưa kịp nói, nó đột ngột đổi dòng, rẽ ngoặt sang hướng đông tây để gặp lại thành phố lần cuối ở góc thị trấn Bao Vinh xưa cũ. Đối với Huế, nơi đây chính là chỗ chia tay đôi xa ngoài mười dặm trường đình(5). Riêng với sông Hương, vốn đang xuôi chảy giữa cánh đồng phù sa êm ái của nó, khúc quanh này thực bất ngờ biết bao. Có một cái gì rất lạ với tự nhiên và rất giống con người ở đây; và để nhấn cách hoá nó lên, tôi gọi đây là nỗi vương vấn, cả một chút lẳng lơ kín đáo của tình yêu. Và giống như nàng Kiều trong đêm tình tự,
+
+Nét độc đáo của sông Hương sau khi rời khỏi Kinh thành Huế là gì?
+
+(1) Câu nói của nhà triết học Hy Lạp cổ đại Hê-ra-clit: "Không ai có thể tắm hai lần trên một dòng sông", ý nói "vạn vật biến chuyển", không lặp lại.
+(2) Điệu slow: giai điệu nhẹ nhàng, chậm rãi.
+(3) Tiếng nước rơi bán âm: chỉ tiếng nước rơi trầm đục theo cách cảm nhận âm nhạc.
+(4) Tứ đại cảnh: tên một bản nhạc cổ Huế, tương truyền do vua Tự Đức sáng tác.
+(5) Trường đình: trạm (nhà, quán) đặt dọc đường đi ở Trung Hoa thời xưa để khách bộ hành nghỉ chân, cứ 10 dặm lại có một trạm.
+
+72

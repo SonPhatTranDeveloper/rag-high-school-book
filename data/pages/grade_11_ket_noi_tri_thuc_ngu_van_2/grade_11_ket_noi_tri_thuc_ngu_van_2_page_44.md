@@ -1,0 +1,13 @@
+Chúng tôi đi với những cái bụng ống, như tôi chẳng hạn, có thể ăn cả xô xúp, bởi trong xúp chẳng có gì. Họ đổ cho tôi bao nhiêu, tôi sẽ ăn và ăn bấy nhiêu. Thiên nhiên đã cứu chúng tôi, những con vật nhại lại. Mùa xuân, trong bản kinh vài cây số không một cái cây nào dám chồi nảy lộc. Bởi chúng tôi đã ăn hết tất cả chồi mầm, chúng tôi lướt cả lớp vỏ non. Chúng tôi ăn cỏ, ăn sạch. Người ta cho chúng tôi mặc những chiếc áo khoác ngắn, chúng tôi khoét túi áo để mang cỏ theo người, mang theo và nhại đi nhại lại. Mùa hè cứu đói chúng tôi, còn mùa đông trời qua tất nặng nề. Những đứa trẻ nhỏ, chúng tôi có khoảng bốn mươi đứa, được cho ở riêng. Ban đêm chúng tôi khóc rền. Gọi ba gọi mẹ. Các cô bảo mẫu và giáo viên cố không nhắc đến từ "mẹ" khi có mặt chúng tôi. Họ kể cho chúng tôi chuyện cổ tích và chọn những quyển sách không có từ này. Nhưng nếu ai đó bất ngờ nhắc đến "mẹ", lập tức tất cả khóc òa. Gào khóc không nguôi.
+
+Trong thời tinh thần của những đứa trẻ khi thiếu vắng mẹ.
+
+Tôi học lại lớp Một, bởi cơ sự thế này: Tôi đã kết thúc lớp Một với bảng khen, nhưng khi tôi trại mồ côi và người ta hỏi em nào bị thi lại, tôi đáp là em, vì tôi nghĩ: Thi lại tức là bảng khen. Đến lớp Ba, tôi trốn khỏi trại. Tôi đi tìm mẹ. Đói lả và kiệt sức, tôi được ông già Bôn-sa-cốp (Bolshakov) tìm thấy trong rừng. Biết tôi từ trại mồ côi, ông mang tôi về gia đình mình. Cùng với bà, ba người chúng tôi sống đắp đổi qua ngày. Khi dần khoẻ lên, tôi bắt đầu giúp họ việc nhà: dọn cỏ, thu hoạch khoai tây - làm hết mọi việc. Chúng tôi ăn thứ bánh mì có rất ít bột mì. Nó đắng - đắng làm sao. Chúng tôi cho vào bột tất tần tật những gì xay ra được: rau muối, hoa hồ đào, khoai tây. Đến giờ tôi vẫn không thể thản nhiên nhìn cỏ mọng và ăn rất nhiều bánh mì. Tôi không cảm thấy no. Sau hàng chục năm trôi qua.
+
+Dẫu sao tôi vẫn nhớ bao nhiêu chuyện. Tôi còn nhớ nhiều...
+
+Tôi nhớ một bé gái điên, lên vào vườn ai đó, tìm thấy một cái hang và đứng đó canh chuột. Em muốn ăn. Tôi nhớ gương mặt em, thậm chí cả cái áo không tay mà em mặc. Có lần tôi lại gần em, em kể tôi nghe về con chuột. Rồi chúng tôi cùng ngồi canh con chuột đó.
+
+Suốt cuộc chiến tôi đã đợi, đợi khi nào chiến tranh chấm dứt, sẽ thắng con ngựa của ông đi tìm mẹ. Khi những người tản cư ghé qua nhà, tôi luôn hỏi họ: "Mọi người có gặp mẹ cháu không?". Người sơ tán đông lắm, đông đến nỗi mỗi nhà đều có một nồi nước tắm ma(1). Để người tị nạn có chút gì đó ấm áp mà hớp khi họ ghé qua. Ngoài ra chẳng có gì cho họ cả. Nhưng cái nồi tắm ma ở mỗi nhà... Tôi nhớ rất rõ. Tôi là người đi hái tắm ma mà.
+
+(1) Tắm ma: cây cao không quá 1 mét, thân cây có lông nhỏ bao phủ, là hình trâm có răng của viền quanh, được dùng làm thuốc.

@@ -1,0 +1,12 @@
+đều chỉ vì một thứ vật chất tồn tại đầy trong các đại dương, nổi bong bóng trong các con suối, lắng cặn dưới lòng hồ, hoặc là một thành phần lớn trong tầng khoáng vật gần với bề mặt vỏ Trái Đất.
+
+Hầu như không có nơi nào trên Trái Đất là không có muối. Nhưng trước khi được địa chất học hiện đại tiết lộ, trong suốt chiều dài lịch sử loài người cho đến thế kỉ XX, muối được săn lùng, mua bán và tranh giành gắt gao. Trong hàng thiên niên kỉ, muối là biểu tượng của sự giàu có. Những lái buôn muối vùng Ca-ri-bê (Caribe) dự trữ muối dưới tầng hầm trong nhà. Người Trung Quốc, người La Mã, người Pháp, Vê-nê-xi-a (Venezia), Háp-xbót (Habsburg), và vô vàn hệ thống chính quyền khác đã đánh thuế muối để lấy tiền phục vụ cho chiến tranh. Đôi khi, binh lính và dân lao động được trả lương bằng muối. Thậm chí, muối còn thường được dùng như một đơn vị tiền tệ.
+
+Trong chuyên luận năm 1776 về chủ nghĩa tư bản có tên The Wealth of Nations (đã xuất bản ở Việt Nam với tên Của cải của các dân tộc), A-đam Xmít (Adam Smith) đã chỉ ra rằng hầu hết tất cả những gì có giá trị đều có thể sử dụng làm tiền tệ, ví dụ thuốc lá, đường, cá tuyết khô, gia súc. Ông viết: "Muối được cho là một công cụ thương mại và giao dịch phổ biến ở A-bi-xi-ni-a (Abyssinia)". Nhưng ông đưa ra ý kiến rằng loại tiền tệ tốt nhất nên được chế tạo bằng kim loại do đặc tính bền vững về mặt vật lí, dù giá trị chỉ tồn tại trong một thời gian ngắn giống như nhiều loại hàng hóa khác.
+
+Ngày nay, sự thèm khát, tranh giành, tích trữ, đánh thuế và tìm kiếm muối của con người suốt hàng ngàn năm qua đã trở thành một điều xa vời và có phần ngớ ngẩn. Các nhà lãnh đạo Anh của thế kỉ XVII quan ngại về sự phụ thuộc đáng lo ngại của quốc gia vào muối biển Pháp có vẻ nực cười hơn các vị lãnh đạo ngày nay lo lắng về sự phụ thuộc vào dầu từ nước ngoài. Ở bất cứ thời đại nào, con người đều tin rằng chỉ có những thứ họ cho là có giá trị mới có giá trị thực sự.
+
+Khao khát tình yêu và khao khát làm giàu luôn là hai đề tài hấp dẫn nhất đối với con người. Tuy nhiên, trong khi đề tài tình yêu vẫn bền vững theo năm tháng, thì những câu chuyện về truy cầu tiền tài vật chất, đến một lúc nào đó, đều trở thành nỗi ám ảnh theo đuổi một ảo ảnh không có thực.
+
+(Mác Kơ-len-xki, Đời muối: Lịch sử thế giới, Hoàng Ly dịch,
+NXB Dân trí - Công ti cổ phần văn hóa Huy Hoàng, Hà Nội, 2022, tr. 21 - 24)

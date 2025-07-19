@@ -1,0 +1,15 @@
+Năm 1956, cô bán ngôi nhà ở Hàng Bún cho một người bạn mới ở kháng chiến về. Một năm sau, có một cán bộ tới hỏi về nhà cũ và có nhắc tới ngôi nhà ở Hàng Bún. Cô trả lời tinh khô: "Xin mời anh tới ngôi nhà anh vừa nói, hỏi thằng chủ nhà xem họ trả lời ra sao. Nếu còn thắc mắc xin mời anh trở lại.". Cũng trong năm 1956, ông chú tôi muốn mua một máy in nhỏ để kinh doanh trong ngành in vì chế độ mới không cho phép ông mở trường tư thục. Bà vợ hỏi lại: "Ông có đứng máy được không?". Ông chồng trả lời: "Không.", "Ông có sắp chữ được không?", "Không.", "Ông sẽ phải thuê thợ chứ gì. Đã có thợ tất cơ chủ, ông muốn làm một ông chủ dưới chế độ này à?". Ông chồng tỉnh vỡn nhất, rút lui ngay.
+
+Cô kết luận với tôi: "Chế độ này không thích cá nhân làm giàu, chỉ cần họ đủ ăn, thiếu ăn một chút càng hay, thiếu ăn là vinh chứ không là nhục, nên tao chỉ cần đủ ăn.". Làm hoa giấy không thể làm giàu được nhưng rất đủ ăn, lại nhàn, lại không phải lo sợ gì. Tôi hỏi lại: "Còn chú, còn các em?". "Chú tuy chưa già nhưng đành để ngồi chơi, các em sẽ đi làm cán bộ, tao sẽ phải nuôi mỗi lũ ăn bám, dẫu họ có đủ tài để không phải sống ăn bám.".
+
+Cô Hiền bên ngoài, chị Đại bên nội là những người đàn bà có đầu óc rất thực tế. Mọi sự mọi việc đều được các bà ấy tính toán trước cả. Và luôn luôn tính đúng vì không có lòng tự ái, sự ganh đua, thói thời thượng chen vô. Không có cả sự lãng mạn hay mộng mơ vớ vẩn. Đã tính là làm, đã làm là không thèm để ý đến những đám tiểu của thiên hạ. Cô tuyên bố thẳng thừng với tôi: "Một đời tao chưa từng bị ai cấm đoán, kể cả chế độ.".
+
+Gần ba chục tuổi cô mới đi lấy chồng, không lấy một ông quan nào hết, cũng chẳng hứa hẹn gì với đám nghệ sĩ văn nhân, đùa vui một thời son trẻ thế là đủ, bây giờ phải làm vợ, làm mẹ, cô chọn bạn trăm năm là một ông giáo cấp Tiểu học hiền lành, chăm chỉ, khiến cả Hà Nội phải kinh ngạc. Cô gì mà kinh ngạc, cô đã tính trước cả. Sau khi sinh đứa con gái út, người con thứ năm, cô nói với chồng: "Từ nay là chấm dứt chuyện sinh đẻ, bốn mươi tuổi rồi, nếu ông và tôi sống đến sáu chục thì con út đã hai mươi, có thể tự lập được, khỏi phải sống bám vào các anh chị.". Là thời hạn.
+
+Cô bảo tôi: "Mày bắt nạt vợ mày quá, không để nó tự quyết định bất cứ việc gì, vậy là hỏng. Người đàn bà không là nội tướng thì cái gia đình ấy cũng chẳng ra sao.". Khi các con còn nhỏ, ngồi vào bàn ăn, cô thường chú ý sửa chữa cách ngồi, cách cầm bát cầm đũa, cách múc canh, cả cách nói chuyện trong bữa ăn. Cô vẫn răn lũ con tôi: "Chúng mày là người Hà Nội thì cách đi đứng nói năng phải có chuẩn, không được sống tùy tiện, buông tuồng.". Cô lần tôi cãi: "Chúng tôi là người của thời loạn, các cụ lại bắt dạy con cái theo thời bình là khó lắm.". Cô ngồi ngẫm ra một lúc, rồi bảo: "Tao chỉ dạy chúng nó biết tự trọng, biết xấu hổ, còn sau này muốn ra sao là tùy.".
+
+[Ghi chú bên lề 1: Chú ý những chi tiết cho thấy rõ cách suy nghĩ, tính toán và quyết định việc gia đình của nhân vật cô Hiền.]
+
+[Ghi chú bên lề 2: Chú ý thái độ, cách ứng xử của cô Hiền trước những biến động của thời cuộc.]
+
+13

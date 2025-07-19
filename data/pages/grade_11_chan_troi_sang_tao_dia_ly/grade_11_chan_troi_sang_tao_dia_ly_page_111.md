@@ -1,0 +1,13 @@
+Dựa trên những đặc điểm tương đồng về điều kiện tự nhiên, kinh tế - xã hội, mục tiêu phát triển kinh tế,... lãnh thổ Liên bang Nga hình thành 12 vùng kinh tế, bao gồm: Vùng Trung ương, vùng Trung tâm đất đen, vùng Đông Xi-bia, vùng Viễn Đông, vùng Ca-li-nin-grát, vùng Bắc Cáp-ca (Kavkaz), vùng phía Bắc, vùng Tây Bắc, vùng U-ran, vùng Von-ga, vùng Von-ga - Ki-rốp (Kirov), vùng Tây Xi-bia.
+
+Bảng 20.1. Đặc điểm nổi bật của một số vùng kinh tế ở Liên bang Nga
+
+Vùng kinh tế | Đặc điểm nổi bật
+--- | ---
+Vùng Trung ương (diện tích: 482 300 km²) | Nằm ở trung tâm của phần lãnh thổ Liên bang Nga thuộc châu Âu. Đây là vùng có cơ sở hạ tầng hoàn thiện, kinh tế phát triển mạnh với các ngành công nghiệp nổi bật như công nghiệp cơ khí, hoá chất, thực phẩm,... Bên cạnh Mát-xcơ-va là trung tâm kinh tế, văn hoá, chính trị lớn, vùng còn có các thành phố lớn khác như Xmô-len (Smolenski), Da-rốt-xlap (Yaroslavl), Tu-la (Tula).
+Vùng Trung tâm đất đen (diện tích: 167 000 km²) | Nằm ở phần lãnh thổ Liên bang Nga thuộc châu Âu, tiếp giáp U-crai-na, vùng Trung tâm và vùng Von-ga. Trong vùng có loại đất đen màu mỡ với lượng khoáng và mùn cao. Kinh tế chính của vùng là nông nghiệp với các sản phẩm nổi bật như lúa mì, củ cải đường, hạt hướng dương,... Bên cạnh đó, vùng phát triển công nghiệp khai khoáng (quặng sắt), hoá chất,... Các thành phố lớn trong vùng là Bê-gô-rốt (Begorod), Tam-bốt (Tambov),...
+Vùng Bắc Cáp-ca (diện tích: 381 600 km²) | Vùng tiếp giáp vùng Von-ga và vùng Trung tâm đất đen ở phía bắc, giáp Biển Đen và biển Ca-xpi. Vùng có nhiều tài nguyên như dầu mỏ, khí tự nhiên, than,... tạo điều kiện cho ngành công nghiệp khai khoáng, luyện kim phát triển. Các thành phố lớn của vùng là Crax-nô-đa (Krasnodar), Rốt-tốp na Đô-nu (Rostov na Donu),...
+Vùng U-ran (diện tích: 832 300 km²) | Vùng tập trung chủ yếu ở phần miền trung và phía nam dọc dãy núi U-ran. Vùng có diện tích rừng tai-ga lớn, giàu có về các loại khoáng sản như bô-xít, man-gan, vàng,... Các ngành công nghiệp nổi bật là khai khoáng, chế biến gỗ, luyện kim, hoá dầu,... Các thành phố lớn của vùng: Pơm (Perm), Ô-ren-bua (Orenburg),...
+Vùng Viễn Đông (diện tích: 6 900 000 km²) | Vùng Viễn Đông nằm trên bờ biển Thái Bình Dương, giữa eo biển Bê-rinh ở phía bắc và CHĐCND Triều Tiên ở phía nam, tạo điều kiện cho Liên bang Nga hợp tác với các quốc gia khu vực châu Á - Thái Bình Dương. Nền kinh tế của vùng chủ yếu dựa vào một số ngành như đánh bắt và chế biến hải sản, công nghiệp cơ khí,... Các thành phố lớn trong vùng là Ma-ga-đan (Magadan), Kha-ba-rốp (Khabarovsk),...
+
+110

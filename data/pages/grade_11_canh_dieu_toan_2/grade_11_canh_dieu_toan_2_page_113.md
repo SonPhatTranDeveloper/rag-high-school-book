@@ -1,0 +1,1 @@
+[Hình ảnh hiển thị một biểu tượng đơn giản màu xám nhạt trên nền trắng. Biểu tượng này bao gồm một hình tròn bao quanh một hình diều hình kim cương. Hình diều có hai dải ruy băng ngắn ở phía dưới, trông giống như đuôi của một con diều. Toàn bộ thiết kế được thể hiện bằng các đường nét và hình khối đơn giản, tạo ra một logo hoặc biểu tượng nhận diện thương hiệu tối giản.]

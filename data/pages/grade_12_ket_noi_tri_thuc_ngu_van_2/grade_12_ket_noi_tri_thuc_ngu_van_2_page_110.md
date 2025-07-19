@@ -1,0 +1,23 @@
+HỒN TRƯƠNG BA - (nhăn nhục) Cái, rồi lớn lên cháu sẽ hiểu... ông đúng là ông nội cháu...
+
+CÁI GÁI - Ông nội tôi chết rồi. Nếu ông nội tôi hiện về được, hồn ông nội tôi sẽ bóp cổ ông! Ông dám nhận là ông nội, dám dựng vào cây cối trong vườn của ông nội tôi.
+
+HỒN TRƯƠNG BA - Dù sao... Cháu... Sáng nào ông cũng ra cuốc vời chăm chút cây cối ngoài vườn, cháu không thấy sao: Chỉ có ông nội cháu mới biết quý cây như thế...
+
+CÁI GÁI - Quý cây! Hừ, tôi phải rinh lúc này, cả nhà đi vắng hết để đến nói với ông: Từ nay ông không được động vào cây cối trong vườn ông tôi nữa! Ông mà quý cây à? Sáng qua, tôi để ý lúc ông chiết cây cam, bàn tay giết lợn của ông làm gãy tiệt cái chồi non, chân ông to bè như cái xẻng, giẫm lên nát cả cây sâm quý mới ươm! Ông nội đời nào thô lỗ phũ phàng như vậy!
+
+HỒN TRƯƠNG BA - Ông không để... Đây là... tại...
+
+CÁI GÁI - Còn cái điếu của cụ Tị nữa, chiều hôm kia nó mang điếu sang đây chơi, ông cầm lấy đòi chữa cho nó, thế là ông làm gãy cả nan, rách cả giấy, hỏng mất cái điếu đẹp mà cụ Tị rất quý! Lúc này, trong cơn sốt mê man, cụ Tị cứ khóc bắt đền cái điếu, nó tiếc...
+
+HỒN TRƯƠNG BA - Thế ư? Khổ quá...
+
+CÁI GÁI - Đừng vờ! Chính ông làm cụ Tị thêm khổ thì có! Cụ Tị nó cũng rất ghét ông! Ông xấu lắm, ác lắm! Cút đi! Lão đồ tể, cút đi! (vừa khóc vừa chạy vụt đi)
+
+(Chỉ còn dâu Trương Ba ở trong nhà ra, nghe thấy những lời cuối cùng của cái Gái.)
+
+CHỊ CON DÂU - (gọi theo con) Gái, quay lại đây, Gái! (nhìn thấy Hồn Trương Ba đang run rẩy, liền đi tới bên cạnh) Thầy, thầy đừng giận con trẻ... Nó rất yêu thương ông nội. Đêm nào nó cũng khóc thương ông... Nó cất giữ nâng niu từng chút kỉ niệm của ông: đôi guốc gỗ, bó đóm thuốc lào, nhất là những cây thuốc trong vườn... Chỉ tại nó nghĩ thầy không phải là ông nội của nó, con đỡ đánh thế nào nó cũng không nghe... (rưng rưng) Khổ thân thầy...
+
+HỒN TRƯƠNG BA - Đến lúc này, cả nhà chỉ còn mình con vẫn thương thầy như xưa.
+
+CHỊ CON DÂU - Hơn xưa nữa, thưa thầy. Hơn cả hôm thầy mới từ nhà người hàng thịt trở về. Bởi con biết giờ thầy khổ hơn xưa nhiều lắm... (khẽ) Mà u con cũng khổ hơn nhiều lắm. U đã định bỏ đi đâu thật xa, cho thầy được thảnh thơi. Nhà ta như sắp tan hoang ra cả...

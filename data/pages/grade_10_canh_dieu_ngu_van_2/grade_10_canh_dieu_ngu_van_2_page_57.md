@@ -1,0 +1,13 @@
+- Phân tích là chia tách, đi sâu tìm hiểu và làm rõ giá trị của từng phương diện cụ thể về nội dung và hình thức của tác phẩm truyện.
+
+- Đánh giá là nêu lên những suy nghĩ, nhận xét, bình luận của người viết về vấn đề đã được phân tích.
+
+Phân tích và đánh giá là những thao tác thường kết hợp với nhau trong các bài nghị luận văn học. Ví dụ, trong đoạn trích sau đây, người viết tập trung phân tích và đánh giá tính hoàn chỉnh về cốt truyện của văn bản Hồi trống Cổ Thành:
+
+Hồi trống Cổ Thành chỉ là một đoạn trích ngắn song vẫn có thể xem là một câu chuyện trong tác phẩm tự sự có cốt truyện hoàn chỉnh, tức diễn ra qua các bước thường thấy: trình bày (giới thiệu nhân vật, sự việc, hoàn cảnh), khai đoan (hoặc thắt nút: sự việc bắt đầu), phát triển (các biến cố tiếp diễn), đỉnh điểm (hoặc cao trào), mở nút (thường đồng thời cũng là kết thúc).
+
+Phần đầu đoạn trích trình bày những việc diễn ra trước khi Trương Phi, nhân vật trung tâm của đoạn trích, xuất hiện. Quan Công, sau khi thoát khỏi tay Tào Tháo, nghe lời Tôn Cần, đưa hai vợ của Lưu Bị là Cam phu nhân và Mỵ phu nhân đi về Nhữ Nam gặp Lưu Bị. Trên đường về Nhữ Nam, được biết Trương Phi sau khi thua trận đã chiếm được Cổ Thành làm căn cứ, Quan Công rất mừng, "liền sai ngay Tôn Cần vào thành báo tin, bảo Trương Phi ra đón". Tôn Cần vừa nói xong, Trương Phi đã đứng dựng thịnh nộ, "chẳng nói năng gì, lập tức mặc áo giáp, vác mâu lên ngựa, dẫn một nghìn quân, đi tắt ra cửa bắc", "mặt trơn xoe, râu vểnh ngược, hò thét như sấm, mưa xà mâu chạy lại đâm Quan Công". Còn Quan Công, thấy Trương Phi, lại "mừng rỡ vô cùng, giao long đao cho Châu Thương cầm, tế ngựa lại đón". Tình hình diễn ra quá bất ngờ, sự việc chính đã bắt đầu, mâu thuẫn đã bùng nổ mà một bên liên quan vẫn chưa hề rõ đầu đuôi câu chuyện. Quá trình phát triển của các biến cố dần phơi bày nguyên nhân sự việc và đẩy mâu thuẫn tới cao trào. Quan Công nhắc lại việc kết nghĩa vườn đào, tưởng để uốn nắn thái độ quá khích của Trương Phi, không ngờ lại như "đổ dầu vào lửa", càng làm cho Trương Phi thêm phẫn nộ. Theo Trương Phi, Quan Công ở với Tào một thời gian, nhận tước hầm Tào phong cho là đã phản bội; đã phản bội còn rêu rao "nghĩa vườn đào", lại càng đáng căm thù và phỉ nhổ. Biết lầm vào tình thế "khó nói", Quan Công đã kiên trì, bình tĩnh, lần lượt nhờ Cam phu nhân,
+
+Tác giả nêu nhận xét về vấn đề gì trong đoạn mở đầu?
+
+Tác giả phân tích, làm rõ nhận xét nêu ở đoạn mở đầu bằng cách nào?

@@ -1,0 +1,9 @@
+| SPEAKING | LISTENING | WRITING | EVERYDAY ENGLISH | CULTURE / CLIL | PROJECT |
+|-----------|-----------|---------|------------------|----------------|---------|
+| Talking about career choices | Listening for specific information in a talk about the first woman in space | Writing about jobs for men and women | Expressing agreement and disagreement | Women's football | Doing a survey on students' future jobs |
+| Talking about programmes for communities | Listening for specific information in a conversation about Viet Nam's participation in international organisations | Writing about Viet Nam's participation in international organisations | Making and responding to invitations | FAO and its activities to support Viet Nam | Doing research on an international organisation |
+| Talking about the advantages and disadvantages of online learning | Listening to instructions on how to prepare for a blended learning class for specific information | Writing about the benefits of blended learning | Giving instructions | Modern schools | Doing a survey to find out how students use electronic devices to learn |
+| Talking about environmental solutions | Listening for specific information in a conversation about ways to protect endangered animals | Writing about a wildlife organisation | Making and responding to apologies | Earth Hour | Doing research on a local or an international environmental organisation |
+| Talking about how to become an ecotourist | Listening for specific information in a tour guide speech welcoming ecotourists in the Mekong Delta | Writing a website advertisement for an ecotour | Asking for and giving advice | Tourism impact on the environment | Designing an ecotour to a local attraction |
+
+7

@@ -1,0 +1,13 @@
+[...] Cái chung nhất của sáng tạo là tìm kiếm những cái mới, một tri thức mới hay một cách vận dụng mới của những tri thức đã có, một phương pháp mới hay một giải pháp mới cho một vấn đề tưởng rằng đã cũ, nói gọn lại là tìm những đóng góp mới để giải quyết các vấn đề mà con người gặp phải trong cuộc sống. Có những sáng tạo lớn làm nên những tên tuổi lẫy lừng, nhưng phải chăng đối với đại đa số con người bình thường chúng ta, phần đấu trở thành người sáng tạo, chúng ta không hi vọng sẽ có tên tuổi được thế giới thừa nhận, mà chỉ mong được vui hưởng chút hạnh phúc thầm lặng của một sự thoả mãn tinh thần, của một đời sống có ý nghĩa mà thôi.
+
+Sáng tạo là một loại lao động phức tạp và vất vả. Ta nhớ câu nói nổi tiếng của nhà phát minh Ê-đi-xơn (Edison): "Trong mỗi phát minh có 1% cảm hứng và 99% việc đổ mồ hôi". Vậy để con người có thể hăng say sáng tạo hẳn phải có những động lực mạnh mẽ. Ham hiểu biết, tìm kiếm cái hay cái đẹp đã từng là động lực thúc đẩy sự nghiệp sáng tạo của biết bao thế hệ các nhà bác học, văn nhân, nghệ sĩ. Rồi kinh tế thị trường xuất hiện cùng với chủ nghĩa tư bản, và thị trường với cơ chế cạnh tranh ngày càng khốc liệt dần trở thành nguồn động lực cho sáng tạo, sáng tạo trong sản xuất, trong phát triển công nghệ, trong quản lí kinh doanh,... Và đến ngày nay, kinh tế thế giới đã phát triển đến giai đoạn của "kinh tế tri thức" toàn cầu hoá với một thị trường mở rộng ra phạm vi toàn thế giới, yếu tố "năng lực sáng tạo" trở thành chìa khoá chính cho mọi quốc gia đi vào tiến trình hội nhập, thì việc chăm lo tạo dựng và phát huy năng lực sáng tạo không còn là việc của từng cá nhân, mà trở thành vấn đề chiến lược của mọi quốc gia. [...]
+
+Sáng tạo cho đến nay vẫn là năng lực riêng có của con người. Sáng tạo thường là việc riêng của từng bộ óc, từng con người. Nhưng sự tiếp xúc, trao đổi giữa các bộ óc, thường giúp cho các ý tưởng gặp gỡ, đối sánh, chọn lọc, ý tưởng làm nảy sinh ý tưởng,... cho nên sáng tạo cũng có thể được coi là kết quả của tập thể. Ngoài ra còn có sự tham gia đắc lực của công nghệ thông tin và truyền thông trong việc cung cấp các kho thông tin và tri thức ngày càng phong phú và các phương tiện xử lí tri thức ngày càng tinh tế. Đó là sự cộng năng sức mạnh của công nghệ tri thức hiện đại với trí tuệ sáng tạo riêng có của con người để làm nên năng lực sáng tạo chung của dân tộc. Năng lực sáng tạo là vấn đề hưng vong của quốc gia,
+
+(1) Ê-đi-xơn (1847 - 1931) là nhà phát minh và sáng chế người Mỹ.
+
+Bản chất chung của mọi hoạt động sáng tạo và ý nghĩa của nó.
+
+Vai trò của năng lực sáng tạo trong nền kinh tế tri thức.
+
+Điều kiện phát triển năng lực sáng tạo của con người trong bối cảnh cuộc sống hiện đại.

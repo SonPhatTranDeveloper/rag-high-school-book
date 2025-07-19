@@ -1,0 +1,15 @@
+Tôi đang suy nghĩ mung lung thì bỗng nghe gọi tên mình. Đến lượt tôi đọc bài. Giá mà tôi đọc được trôi lọt cái quy tắc về phân từ hay hô ấy, đọc thật to, thật đúng dấu, không phạm một lỗi nào thì dù có phải đánh đổi gì cũng cam; nhưng tôi lúng túng ngay từ đầu và tôi cứ đứng đứng đưa người trước chiếc ghế dài, lòng rầu rĩ, không dám ngẩng đầu lên. Tôi nghe thấy thầy Ha-men bảo tôi:
+
+- Phràng ạ, thầy sẽ không mắng con đâu, con bị trừng phạt thế là đủ rồi... con thấy đó. Ngày nào người ta cũng tự nhủ: "Chà! Còn khối thì giờ. Ngày mai ta sẽ học". Và rồi con thấy điều gì xảy đến... Ôi! Tai họa lớn của xứ An-đát chúng ta là bao giờ cũng hoãn việc học đến ngày mai. Giờ đây những kẻ kia có quyền bảo chúng ta rằng: "Thế nào! Các người tự nhận là dân Pháp, vậy mà các người chẳng biết đọc, biết viết tiếng của các người!...". Dù thế nào, thì Phràng tội nghiệp của thầy ạ, con vẫn chưa phải là người đáng tội nhất! Mà tất cả chúng ta ai cũng có phần đáng tự chê trách.
+
+Cha mẹ các con không thiết tha lắm với việc thấy các con có học thức. Cha mẹ thích cho các con làm việc đồng áng hoặc vào làm nhà máy sợi để kiếm thêm đồng xu. Cả thầy cũng không có gì để trách mình ư? Thầy đã chẳng sai các con tưới vườn thay vì học hành đó sao? Và khi thầy muốn đi câu cá hương, thầy có ngại ngùng cho các con nghỉ học đâu?...
+
+Thế rồi, từ điều này sang điều khác, thầy Ha-men nói với chúng tôi về tiếng Pháp, bảo rằng đó là ngôn ngữ hay nhất thế giới, trong sáng nhất, vững vàng nhất: phải giữ lấy nó trong chúng ta và đừng bao giờ quên lãng nó, bởi vì khi một dân tộc rơi vào vòng nô lệ, chừng nào họ vẫn giữ vững tiếng nói của mình thì chẳng khác gì nắm được chìa khóa chốn lao tù...
+
+Rồi thầy cầm một quyển ngữ pháp và đọc bài học cho chúng tôi. Tôi kinh ngạc thấy sao mình hiểu đến thế. Tất cả những điều thầy nói, tôi thấy thật dễ dàng, dễ dàng. Tôi cũng cho là chưa bao giờ mình chăm chú nghe đến thế, và cả thầy giáo nữa, chưa bao giờ thầy kiên nhẫn giảng giải đến thế. Cứ như thế trước khi ra đi, con người tội nghiệp muốn truyền thụ toàn bộ tri thức của mình, muốn đưa ngay một lúc tri thức ấy vào đầu óc chúng tôi.
+
+Xong bài giảng, chuyển sang viết tập. Thầy Ha-men đã chuẩn bị cho ngày hôm đó những tờ mẫu mới tinh, trên có viết bằng "chữ rông"¹ thật đẹp: Pháp, An-đát, Pháp, An-đát. Những tờ mẫu treo trước bàn học trông như những lá cờ nhỏ bay phấp phới khắp xung quanh lớp. Ai nấy đều chăm chú hết sức và cứ im phăng phắc! Chỉ nghe thấy tiếng ngòi bút sột soạt trên giấy. Có lúc những con bọ dừa bay vào nhưng chẳng ai để ý, ngay cả những trò nhỏ nhất cũng vậy, chúng đang cắm cúi vạch những nét sổ với một tấm lòng, một ý thức, như thể cái đó cũng là tiếng Pháp... Trên mái nhà trường, chim bồ câu gù thật khẽ, và tôi vừa nghe vừa tự nhủ:
+
+- Liệu người ta có bắt cả chúng nó cũng phải hót bằng tiếng Đức không nhỉ?
+
+¹ "Chữ rông": kiểu chữ viết có nét trên và đậm nét, thường dùng để viết văn bằng, giấy khen.

@@ -1,0 +1,13 @@
++ Có người nói và người nghe; người nói và người nghe có thể đổi vai cho nhau. Để thể hiện sự tôn trọng lẫn nhau, người đối thoại cần đợi đến lượt lời của mình. Khi đối thoại, do cả người nói và người nghe đều phải phản ứng nhanh nên người nói cần chú ý cân nhắc sử dụng từ ngữ, cách nói sao cho thuyết phục, lịch sự; người nghe cần tập trung chú ý để hiểu đúng và đầy đủ ý kiến người nói.
+
++ Ngôn ngữ nói thường sử dụng những từ ngữ giản dị, dễ hiểu và những từ biểu cảm như trợ từ, thán từ. Nhờ có sự hỗ trợ của bối cảnh giao tiếp, người nói có thể sử dụng các câu tỉnh lược, câu đặc biệt. Mặt khác, vì lời nói không nghe lại được ("lời nói gió bay") nên người nói, để không bỏ sót ý kiến của mình, có thể sử dụng những yếu tố chêm xen dư thừa để người nghe dễ theo dõi.
+
+- Ngôn ngữ viết có những đặc điểm sau:
+
++ Phương tiện được sử dụng là chữ viết (phương tiện ngôn ngữ), kết hợp hình ảnh, kí hiệu, sơ đồ,... (phương tiện phi ngôn ngữ). Nhờ những phương tiện này mà các văn bản viết được phổ biến rộng và lưu giữ rất lâu dài.
+
++ Giao tiếp bằng ngôn ngữ viết (viết thư, viết báo, viết sách,...) là hình thức giao tiếp mà người viết và người đọc không thể ngay lập tức đổi vai cho nhau. Nhưng người viết vẫn phải hình dung là viết cho người đọc nhất định và có thể nhận được phản hồi của người đọc.
+
++ Ngôn ngữ viết thường là ngôn ngữ được trau chuốt, hoàn chỉnh. Vì đối tượng giao tiếp (người đọc) không có mặt nên người viết cần lựa chọn từ ngữ và cách diễn đạt sao cho người đọc hiểu đúng và hiểu đầy đủ điều mình muốn nói. Ngôn ngữ viết ít sử dụng các câu tỉnh lược, câu đặc biệt, các yếu tố chêm xen dư thừa.
+
+- Trong thực tế sử dụng ngôn ngữ, chúng ta có thể gặp ngôn ngữ nói ở dạng viết (đối thoại của các nhân vật trong truyện, bản ghi các cuộc phỏng vấn, tọa đàm, nói chuyện,...) và ngôn ngữ viết ở dạng nói (thuyết trình trước tập thể, đọc văn bản, báo cáo,...). Ví dụ, lời nhân vật Chí Phèo trong tác phẩm cùng tên của Nam Cao: "Ối làng nước ơi! Cứu tôi với... Ối làng nước ơi! Bố con thằng Kiến nó đâm chết tôi! Thằng lí Cường nó đâm chết tôi rồi, làng nước ơi!...". Lời nói của nhân vật Chí Phèo ở đây được thể hiện bằng chữ viết, có các dấu ngắt câu để người đọc dễ theo dõi và hình dung được ngữ điệu của nhân vật. Ngôn ngữ của Chí Phèo tuy có thô lỗ (dùng các từ thằng, nó) nhưng vì được miêu tả trong tác phẩm văn học nên không chứa yếu tố chửi bới tục tĩu có thể có ở một nhân vật lưu manh. Tuy vậy, những đặc điểm của ngôn ngữ nói vẫn được thể hiện rất rõ ở ngữ điệu, các thán từ (ối, ơi), trợ từ (với), các yếu tố dư thừa (lặp lại ba lần tiếng kêu Ối làng nước ơi!, lặp lại chủ ngữ: Bố con thằng Kiến nó đâm chết tôi!).

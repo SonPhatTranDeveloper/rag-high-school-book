@@ -1,0 +1,15 @@
+- Tôi đem tự do đến cho ông đây! Va-ren tuyên bố vậy, tay phải giơ ra bắt tay Phan Bội Châu, còn tay trái thì nâng cái gông to kệch đang xiết chặt Bội Châu trong nhà tù âm đạm.
+
+"Nhưng, có đi phải có lại, tôi yêu cầu ông lấy danh dự hứa với tôi là sẽ trung thành với nước Pháp, hãy cộng tác, hãy hợp lực với nước Pháp để tiến hành ở Đông Dương một sự nghiệp khai hoá và công lí.
+
+"Ông Phan Bội Châu, tôi biết rõ tâm hồn cao thượng và cuộc đời đầy hi sinh, nhiều nguy nan của ông, và chính tôi, tôi xin là người đầu tiên, với tư cách là Toàn quyền Đông Dương, được bày tỏ tấm lòng rất mực quý trọng ông. Song những ý tưởng hào hiệp nhất phải chăng bao giờ cũng hay nhất? Phải chăng bao giờ cũng thực hiện được? Than ôi, không đâu, ông ạ! Và lại, trời ơi! Tại sao chúng ta lại cứ cố chấp cãi lộn nhau mãi thế này, trong lúc ông và tôi, tay nắm chặt tay, chúng ta có thể làm được biết bao công việc tốt đẹp cho xứ Đông Dương này? Chúng ta có thể cùng nhau làm cho nước ông trở thành một quốc gia tân tiến lớn, một xứ tự trị, một nước Pháp ở châu Á!
+
+"Ôi! Ông nghe tôi, ông Phan Bội Châu này! Ông hãy để mặc đấy những ý nghĩ phục thù của ông, hãy từ bỏ đi những mưu đồ xưa cũ, và, thôi, chớ tìm cách xúi giục đồng bào ông nổi lên chống lại chúng tôi nữa; trái lại, ông hãy bảo họ cộng tác với người Pháp, và, làm như vậy là ông sẽ được tất cả, được cho đất nước ông, được cho bản thân ông!
+
+"Về chuyện này, tôi có thể kể ông nghe gương của một trong những trợ thủ cũ của ông, là ông Nguyễn Bá Trác(1); ông biết đấy, ông này đã biết điều rồi và hiện nay thì đã đứng về phía chúng tôi. Nhưng nếu gương của người đồng bào ông, ông cho là chưa đủ, thì tôi xin kể gương đồng bào của chính tôi cho ông nghe, gương các bạn học của tôi từ hồi còn nhỏ, các chiến hữu của tôi, Guy-xta-vơ (Gustave), A-lếch-xăng-đrơ (Alexandre), A-ri-xtít (Aristide), An-be (Albert), Pôn (Paul) và Lê-ông (Léon)(2). Những vị ấy, ngày nay lừng danh cả, đều đã lần lượt đốt cháy những cái mà mình đã tôn thờ và đang tôn thờ những cái mà mình đã đốt cháy. Như vậy các vị ấy có sao không? Chẳng sao cả. Nền dân chủ của chúng tôi, nhờ Chúa!
+
+Theo dõi hành động và lời nói của Va-ren.
+
+(1) Nguyễn Bá Trác (1881 - 1945): nhân vật lịch sử từng tham gia phong trào Đông du do Phan Bội Châu khởi xướng, sau về nước viết báo, làm biên khảo và đảm nhiệm một số chức vụ trong triều đình nhà Nguyễn.
+
+(2) Trong nguyên văn, tác giả không nêu đầy đủ tên các nhân vật mà chỉ nêu họ để nhấn mạnh sự quen biết giữa tác giả và những người được nói tới. Nhưng ở phần cuối chú, tác giả đã nêu cụ thể tên họ của từng người: Guy-xta-vơ Héc-vê (Gustave Hervé), A-lếch-xăng-đrơ Min-lơ-răng (Alexandre Millerand), A-ri-xtít Bơ-ri-ăng (Aristide Briand), An-be Tô-ma (Albert Thomas), Pôn Bông-cu (Paul Boncour), Lê-ông Giu-hô (Léon Jouhaux). Họ đều là đảng viên của Đảng Xã hội Pháp nhưng bị cho là đã phản bội quyền lợi của giai cấp công nhân để leo lên những chức vụ cao trong Chính phủ.

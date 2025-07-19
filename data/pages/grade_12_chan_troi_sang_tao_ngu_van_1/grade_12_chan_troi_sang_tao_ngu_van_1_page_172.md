@@ -1,0 +1,89 @@
+Dưới đây là nội dung được trích xuất từ hình ảnh, giữ nguyên cấu trúc và ngôn ngữ gốc:
+
+- không chế
+- phân đoán
+- cách thức, loại
+
+- độc tài,...
+- tài phán,...
+- thể tài,...
+
+tà: viết, chép
+    âm tà, chính tà,...
+
+    bên trái
+    tà hữu, tà đạo (B3),...
+
+tế: - chồng, phu quân
+    - con rể
+
+    - phu tế,...
+    - hiền tế,...
+
+    - giữa
+    - canh, bên bờ, bên lề
+    - giao tiếp
+
+    - quốc tế,...
+    - thiên tế, vô biên tế,...
+    - giao tế,...
+
+    cùng tế
+    tế thần, tế tổ, tế vãn,...
+
+    giúp đỡ
+    tế bần, cứu tế, tế khốn phò nguy,... (B5)
+
+    nhỏ bé, tinh xảo, tỉ mỉ
+    vi tế, tinh tế,...
+
+tệ: xấu, có hại, lừa dối
+    tệ nạn, tác tệ,...
+
+    tiền
+    tiền tệ, đài tệ, nhân dân tệ,...
+
+thể: thâm thiết
+     thể lượng, thể thâm,...
+
+     vợ cả
+     chính thê, thê thiếp,...
+
+     tốt tươi, um tùm
+     phương thảo thê thê (Hoàng Hạc lâu - Thôi Hiệu)
+
+     nghỉ ngơi, dâu lại
+     nhàn thê ("tuyền thạch nhàn thê bất tảo tiên" - Vịnh Tần Viên sơn - Cao Bá Quát)
+
+thiên: ngàn (1000)
+       thiên binh vạn mã,...
+
+       - trời, bầu trời
+       - tự nhiên mà có, sức người không làm được
+
+       - thành thiên bách nhật, thiên hạ,...
+       - thiên nhiên, thiên sinh,...
+
+       phần, bài
+       thiên truyện, đệ nhất thiên, mười sáu thiên (B4),...
+
+       nghiêng, lệch
+       thiên kiến, thiên vị,...
+
+thực: thật, thực, đúng
+      thượng thực hạ hư (B3), hư thực, thực hoc, thực tâm,...
+
+      chỉ chung các loài cây cỏ
+      thực vật,...
+
+      ăn uống, thức ăn
+      ẩm thực, thực thần,...
+
+      - làm tiêu mất, thiêu hụt
+      - ăn món, đục khoét
+
+      - nhật thực, nguyệt thực,...
+      - xâm thực,...
+
+      sinh sôi nảy nở
+      phồn thực, thực dân,...

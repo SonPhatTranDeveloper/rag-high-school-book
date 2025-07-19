@@ -1,0 +1,20 @@
+cuốn buồm lại, bỏ vào khoang thuyền, rồi ngồi xuống, đập mái chèo bằng gỗ thông lăng bóng xuống biển, làm bọt nước trào lên trắng xoá. Còn tôi, với thanh kiếm đồng mài sắc, tôi cắt lấy một bánh sáp to rồi nhào nhuyễn trong đôi tay vạm vỡ. Chẳng bao lâu sáp mềm ra dưới sức mạnh và ánh nắng rực rỡ của Hê-li-ốx (Helios), con trai quyền thế của Hi-pê-ri-ông¹ (Hyperion). Tôi lần lượt nút chặt tai cho các bạn đồng hành, còn họ thì buộc tay chân tôi lại. Tôi đứng dưới cột buồm, và họ lấy dây thừng trói tôi vào đấy. Thế rồi họ ngồi xuống, đập mái chèo xuống mặt biển ngầu bọt xám. Khi chúng tôi chỉ còn cách đảo nọ khoảng chừng một tiếng hú, các bạn tôi hối hả chèo nhanh hơn nữa, nhưng vì thuyền chúng tôi nhấp nhô trên sóng đi gần đảo quá nên không lọt khỏi mắt các nàng Xi-ren. Họ bèn cất tiếng du dương lên hát:
+
+- Hỡi Ô-đi-xê nức tiếng gần xa, quang vinh vô tận của người A-cai² (Achae), mời chàng hãy lại đây, dừng thuyền nghe chúng em hát đã. Xưa nay chưa từng có người nào đi thuyền đến qua đây mà không dừng lại nghe tiếng hát dịu dàng êm ái của chúng em; khi ra đi ai cũng say mê và cảm thấy mình thông thái hơn. Vì chúng em biết, do ý muốn của thần linh, quân To-roa và quân Ac-gốt³ (Argos) đã phải đau khổ như thế nào trên đất To-roa bao la, và chúng em cũng biết mọi sự xảy ra trên mặt đất nuôi sống muôn loài.
+
+Họ cất tiếng du dương hát lên như vậy. Và tôi, lòng nao nức muốn nghe họ quá, tôi nhích lông mày ra hiệu để các bạn đồng hành cởi trói cho tôi, nhưng họ càng ra sức cúi rạp xuống mái chèo, trong khi Pê-ri-mét (Perimedes) và O-ri-lô-cốt⁴ (Eurylochus) vội vàng đứng lên, lấy thêm dây trói tôi càng chặt hơn nữa. Khi đã đi khỏi các nàng Xi-ren, không nghe thấy tiếng nói và giọng hát của họ nữa, các bạn trung thành của tôi mới rút sáp ở tai ra và cởi trói cho tôi.
+
+Vừa đi khỏi đảo, tôi bỗng thấy bụi nước bắn lên như một màn sương từ những ngọn sóng lớn và nghe tiếng sóng dập ầm ầm. 2
+
+Dự đoán
+
+2 Chi tiết "bụi nước bắn lên" và "tiếng sóng dập ầm ầm" cho thấy điều gì sắp xảy ra?
+
+¹ Hi-pê-ri-ông: một trong 12 vị thần Ti-tan (Titan) của thần thoại Hy Lạp. Hi-pê-ri-ông là con của thần U-ra-nốx (Uranus) (Bầu trời) và nữ thần Gai-a (Gaia) (Đất Mẹ). Vị thần Ti-tan này kết hôn với nữ thần Thê-i-a (Theia) và sinh ra một nam thần và hai nữ thần. Nam thần là Hê-li-ốx (thần của Mặt Trời); các nữ thần là Sê-lê-nê (Selene) (thần đại diện cho Mặt Trăng) và Ê-ốt (Eros) (thần của Rạng đông). Thê-i-a là nữ thần của "ánh sáng lộng lẫnh bầu trời"; Hi-pê-ri-ông mang nghĩa là "người quan sát từ phía trên" hay "người đi lên phía trên".
+
+² Người A-cai: người Hy Lạp, một trong những cái tên chung của người Hy Lạp trong sử thi I-li-át và O-đi-xê của Hô-me-rơ.
+Quân To-roa và quân Ac-gốt: tức đội quân của thành To-roa và đội quân của Hy Lạp (Ac-gốt: tên một đô thị cổ Hy Lạp, ở đây chỉ người Hy Lạp) trong chiến tranh thành To-roa. Cuộc chiến này nổ ra vì Pa-rit (Paris) - con Pri-am (Priam), vua thành To-roa đã quyến rũ nàng Hê-len (Helen) - vợ Mê-nê-lốt (Menelaus), vua tiểu bang Hy Lạp. Mê-nê-lốt nhờ anh trai là A-ga-mem-nông (Agamemnon) và kêu gọi các vị vua khác ở khắp Hy Lạp thực hiện lời cam kết trước, đòi lại nàng Hê-len để khôi phục danh dự nên đem quân trừng phạt To-roa. Thần linh cũng chia thành hai phe tham dự và sai khiến hai bên tham chiến. Chiến tranh kéo dài 10 năm. Cả hai bên đều tổn thất nặng nề, hi sinh nhiều binh sĩ và các dũng tướng lừng lẫy. Cuối cùng nhờ vào mưu của Ô-đi-xê: Người Hy Lạp giả vờ rút quân, để lại con ngựa gỗ lớn tế thần. Người To-roa lấy ngựa và đưa vào thành. Trong đêm đó, quân Hy Lạp từ bụng ngựa chui ra trong thành To-roa. Từ ngoài đánh vào, từ trong đánh ra, chẳng mấy chốc thành To-roa đã bị triệt hạ. Người Hy Lạp chiến thắng, kết thúc trận chiến thành To-roa. Các nàng Xi-ren nhắc đến sự kiện này khi dùng lời ca quyến rũ Ô-đi-xê và thủy thủ đoàn.
+
+⁴ Pê-ri-mét và O-ri-lô-cốt: hai trong số những thủy thủ, bạn đồng hành của Ô-đi-xê.
+
+45

@@ -1,0 +1,13 @@
+IV. MỘT SỐ THÀNH TỰU VÀ ỨNG DỤNG CỦA LIỆU PHÁP GENE
+
+1. Thành tựu trong nghiên cứu
+
+Liệu pháp gene là biện pháp chữa trị bệnh di truyền bằng cách thay thế gene bệnh trong tế bào của người bệnh bằng gene bình thường hoặc chỉnh sửa gene bị bệnh. Hiện nay, liệu pháp gene mới được thử nghiệm để thay thế gene trong tế bào soma nhằm chữa một số bệnh di truyền do một gene quy định. Tế bào của người bệnh được lấy ra và đưa gene bình thường vào, đem nuôi cấy nhân lên với số lượng lớn sau đó tiêm trở lại cho bệnh nhân. Một số nghiên cứu liệu pháp gene đã được thử nghiệm tương đối thành công, cải thiện đáng kể triệu chứng của một số bệnh di truyền. Ví dụ: Năm 2007, ở Pennsylvania và London, người ta đã sử dụng liệu pháp gene để chữa cho 4 bệnh nhân bị mù do một đột biến gene hiếm gặp. Mỗi bệnh nhân được tiêm một loại thể truyền là virus mang gene RPE65 bình thường để thay thế gene bệnh. Kết quả là thị lực của cả 4 bệnh nhân đã được cải thiện đáng kể. Năm 2009, các nhà khoa học đã tiến hành thử nghiệm liệu pháp gene để chữa bệnh mù bẩm sinh Leber's cho 12 người. Kết quả cho thấy tất cả các bệnh nhân đều cải thiện được thị lực.
+
+Năm 2018, các nhà nghiên cứu đã công bố kết quả khả quan việc dùng hệ thống CRISPR-Cas 9 chỉnh sửa được gene gây bệnh hồng cầu hình liềm trong tế bào người, sau đó tế bào đã chỉnh sửa được tiêm trở lại cho bệnh nhân. Mặc dù còn nhiều rào cản cần phải vượt qua trước khi có thể thử nghiệm rộng rãi trên người nhưng đây là một kĩ thuật đầy hứa hẹn của liệu pháp gene tương lai.
+
+2. Ứng dụng
+
+Ứng dụng hiện nay của liệu pháp gene chủ yếu hướng đến chữa bệnh di truyền do một gene quy định, gene bình thường đưa vào tế bào để thay thế gene bệnh phải được duy trì và hoạt động trong suốt cuộc đời của bệnh nhân. Điều này có nghĩa là tế bào mang gene chuyển đưa vào người bệnh phải có khả năng phân chia trong suốt cuộc đời, nếu không, việc thay thế gene phải lặp đi lặp lại nhiều lần là không khả thi. Vì vậy, các tế bào gốc tủy xương của bệnh nhân là đối tượng thích hợp cho liệu pháp gene để chữa trị một số bệnh di truyền liên quan đến các tế bào máu, bệnh thiếu hụt miễn dịch.
+
+Tuy vậy, liệu pháp gene hiện nay mới đang ở giai đoạn nghiên cứu thử nghiệm và cũng còn nhiều vấn đề về kĩ thuật cần phải giải quyết. Ví dụ: Làm thế nào để gene chuyển vào tế bào người hoạt động đúng thời điểm, đúng vị trí, với liều lượng sản phẩm cần thiết? Làm thế nào đảm bảo được gene chuyển không làm ảnh hưởng đến sự hoạt động của các gene hay các hoạt động khác của tế bào? Bên cạnh đó, những quan ngại về khía cạnh đạo đức cũng phải được tính đến. Ví dụ: Liệu có nên chỉnh sửa hệ gene người? Việc can thiệp chỉnh sửa hệ gene đã được tiến hóa tạo ra qua hàng triệu năm có thể dẫn đến hậu quả khôn lường.

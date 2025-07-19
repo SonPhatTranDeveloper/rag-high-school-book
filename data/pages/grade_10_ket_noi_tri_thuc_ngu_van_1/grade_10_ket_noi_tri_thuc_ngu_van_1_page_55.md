@@ -1,0 +1,13 @@
+2. Con người cổ điển vốn xem tĩnh là gốc của động, là gốc của sự vận động trong tạo vật. Cho nên người ta đã có cả một quan niệm triết học và mĩ học về cái tĩnh. Tĩnh được xem là trạng thái vĩnh viễn, là nét đẹp vĩnh hằng của tạo vật thiên nhiên trường cửu không di dịch này. Vì thế, bước vào thơ thiên nhiên xưa là bước vào một thiên nhiên tĩnh lặng, miên viễn. Yên bình, thanh vắng trở thành một đặc tính của vẻ đẹp thiên nhiên trong nghệ thuật cổ điển. Ấy là cái tĩnh đầy an nhiên minh triết của thi nhân xưa.
+
+Trong đoạn 2 và 3, thao tác lập luận chính mà tác giả sử dụng là gì?
+
+3. Thơ mới không thế! Nếu như gom toàn bộ Thơ mới lại để mà lắng nghe, thì cái âm hưởng đặc trưng nhất vang lên từ đây hơn Thơ mới chính là tiếng XÔN XAO. Các thi sĩ Thơ mới ít nhìn thiên nhiên bằng cái nhìn chiêm nghiệm. Họ muốn vào đó là cái sự sống tiềm tàng chất chứa bên trong lòng tạo vật. Bằng mối liên hệ tương ứng vi diệu giữa tâm hồn cá nhân và tâm hồn tạo vật, họ đã khám phá ra sự sống bí mật đầy xôn xao trong lòng thiên nhiên. Bên trong mỗi tạo vật kia chất chứa bao biến thái tinh vi và bí mật. Bên trong mỗi tạo vật là cả một thế giới riêng vừa mơ hồ vừa hiện hiện mà người ta chỉ nắm bắt được bằng thị cảm: thế giới huyền diệu! Nó là cái cựa mình của nụ hoa, là tiếng thở dài của lá, là nỗi rạo rực của nhụy phấn, tiếng đập cánh của những giấc mơ, tiếng rung của những đường trăng, là tiếng ngân của những làn ánh sáng, là sự hồi hộn nước mây, là sự run rẩy bàng khuâng của thứ nắng lơ thơ,... Thế giới Thơ mới là vạn vật lên men say, là tạo vật ở trạng thái thăng hoa. Vì thế mà XÔN XAO đã thành điệu hồn riêng của Thơ mới. [...]
+
+4. Tiếng thu không phải là một âm thanh riêng rẽ nào, cũng không phải là một tập hợp giản đơn nếm na của nỗi thổn thức trong đất trời, nỗi rạo rực trong lòng người và tiếng xao xác của lá rụng. Tiếng thu là một điệu huyền. Tiếng thu là cả một bản hòa âm vừa mơ hồ vừa hiện hiện của bao nỗi xôn xao ngầm ngậm trong lòng tạo vật đang hòa điệu với nỗi xôn xao huyền diệu của hồn thi nhân. [...]
+
+Xác định câu chủ đề của đoạn 4.
+
+5. Có lẽ bởi sự cộng hưởng ấy mà "bản hòa âm mùa thu" đã tìm thấy cho mình một "bản hòa âm ngôn từ" để cất lên thành Tiếng thu. Vâng, ta đang nói đến một trong những nét đặc sắc nhất của thi phẩm này: âm điệu. Tiếng thu đã được kí thác vào một cấu trúc ngôn từ chứa chan tính nhạc. Nghe trong lòng thế, thậm chí còn thấy bài thơ tựa tựa một ca khúc. Sao lại né tránh, lại xem nhẹ việc cảm thụ phương diện âm nhạc của Tiếng thu?
+
+Từ đoạn 5 đến đoạn 7, tác giả tập trung phân tích những yếu tố hình thức nào của bài thơ?

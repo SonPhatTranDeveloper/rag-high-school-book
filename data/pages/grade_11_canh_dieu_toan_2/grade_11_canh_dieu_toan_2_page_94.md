@@ -1,0 +1,1 @@
+[Hình ảnh hiển thị một biểu tượng đơn giản màu xám nhạt trên nền trắng. Biểu tượng này bao gồm một hình tròn bao quanh một hình diều hình kim tự tháp với hai dải ruy băng nhỏ ở phía dưới. Biểu tượng này có vẻ như là logo của một tổ chức hoặc thương hiệu nào đó, nhưng không có thêm bất kỳ thông tin văn bản nào đi kèm.]

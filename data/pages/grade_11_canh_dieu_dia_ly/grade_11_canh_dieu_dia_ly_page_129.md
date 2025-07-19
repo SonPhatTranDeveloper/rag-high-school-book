@@ -1,0 +1,7 @@
+Hình 26.2. Bản đồ phân bố nông nghiệp của Trung Quốc năm 2020
+
+[Hình ảnh mô tả bản đồ phân bố nông nghiệp của Trung Quốc. Bản đồ hiển thị các vùng địa lý chính của Trung Quốc với các biểu tượng đại diện cho các loại cây trồng và vật nuôi khác nhau. Chú giải bao gồm các biểu tượng cho ngô, lúa mì, khoai tây, đậu tương, mía, bông, lúa gạo, cừu, lợn, và nhiều loại khác. Bản đồ cũng hiển thị các thành phố lớn, sông ngòi, và biên giới quốc tế.]
+
+Trồng trọt là ngành chủ yếu trong nông nghiệp, các cây trồng chủ yếu là: lúa gạo, lúa mì, ngô, khoai tây, mía, bông, đậu tương, cao su, chè, thuốc lá,... Năm 2020, ngành này đóng góp khoảng 60 % giá trị sản xuất nông nghiệp. Trung Quốc đứng đầu thế giới về sản lượng lương thực, khoảng 1/5 sản lượng ngô trên toàn thế giới có xuất xứ từ Trung Quốc (năm 2020). Ngành trồng trọt phát triển mạnh ở các đồng bằng Đông Bắc, Hoa Bắc, Hoa Trung, Hoa Nam. Do có những khó khăn về đất, thuỷ lợi, nguồn nước,... nên trồng trọt kém phát triển ở miền Tây.
+
+Chăn nuôi ngày càng được hiện đại hoá và đóng vai trò quan trọng trong nền kinh tế để đảm bảo nguồn cung thịt, trứng, sữa,... Các vật nuôi chủ yếu là: lợn, bò, gà,... Chăn nuôi phân bố tập trung ở các đồng bằng phía đông và vùng Đông Bắc, Hoa Bắc; ngoài ra còn có trên các cao nguyên và bồn địa ở phía tây.

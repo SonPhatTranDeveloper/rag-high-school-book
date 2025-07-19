@@ -1,0 +1,14 @@
+b) Bài tập:
+
+Đọc văn bản sau và trả lời các câu hỏi bên dưới:
+
+"Có những cái không thể sửa được, chắp và gượng ép chỉ làm sai thêm" – Hồn Trương Ba nói với Đế Thích, ông tiên đã sửa sai một cách vụng về hấp tấp cho hai quan nhà trời Nam Tào – Bắc Đẩu (kịch bản ấm thị: những sai lầm và những sửa sai tệ hại như thế là nhiều vô kể trên thiên đình!). "Không thể sống với bất cứ giá nào. Có những giá đắt quá, không thể trả được" – với những kết luận chắt đắng như thế, Hồn Trương Ba tự nguyện rút vào cõi hư vô. Vào hư vô, chứ không phải vào bất tử. Nếu các nhân vật Nguồn sáng trong đời không cần đến sự bất tử, vì họ toại nguyện với cuộc sống tuyệt đẹp mà họ tin, như ngọn đuốc sáng sẽ được truyền từ thế hệ này sang thế hệ khác, thì nhân vật Hồn Trương Ba, da hàng thịt chối từ trước sự bất tử, vì nhận ra nó còn tồi tệ hơn cuộc sống hữu tử. Cùng với Hồn Trương Ba, Đế Thích cũng chối bỏ thiên đường, tự nguyện nhận lấy thân phận con người phải chết và xem ra ông ta có lí: đối với những sinh linh bất toàn như ông – mà trong vở kịch ta đương phân tích, những tiên thánh trên thiên đình đều đầy rẫy tội lỗi, không khác gì loài người nơi hạ giới – thì bất tử là hình phạt còn nặng nề và đáng sợ hơn cái chết. [...] Không còn cõi vĩnh hằng loài người ngàn đời mơ ước, không còn sự giải cứu cho những linh hồn tội lỗi và sự đền thưởng cho những linh hồn chân thiện. Từ thế giới này, nơi những con người hướng thiện khổ đau, có độc và thất bại, họ chỉ có thể trở về nơi hư vô tịch diệt. Cái duy nhất mà họ có thể làm được như Trương Ba của Lưu Quang Vũ làm là trung thành đến cùng với bản chất của mình, giữ gìn cho bằng được, bằng giá của ngay sự sống, cái phẩm giá con người của mình. [...] Trong vở kịch xuất sắc của mình, Lưu Quang Vũ không đi đến chủ nghĩa bi quan cực đoan – hình ảnh Trương Ba, người làm vườn, người vun trồng sự sống đẹp tươi, vẫn sống trong tâm tưởng của vợ ông, con dâu ông, cháu gái ông. Nhưng họ yêu đuối làm sao và bất lực làm sao trước xã hội, nơi những chủ nhân thật sự là anh đồ tể sống lại trong thân xác phù hợp với hắn, là anh con trai của Trương Ba thẩm nhuần phép tồn tại ở đời này, là lũ quan chức tham nhũng vô liêm sỉ. Những con người ấy sẽ bất hạnh trong những thành đạt của họ, họ sẽ giẫm đạp tan những giá trị hôm qua họ mới dựng lên, để chạy theo những giá trị mới mà không bao giờ mãn nguyện. Vở kịch của Lưu Quang Vũ sở dĩ thu phục được nhiều khán giả nước ngoài, có lẽ bởi vì nó ứng hợp với tâm trạng phổ biến trong xã hội hiện đại – xã hội đã đánh mất niềm tin cũ vào những giá trị siêu nhân loại và chưa tìm được cái gì thay thế nó."
+
+(Phạm Vĩnh Cư, Thể loại bi kịch trong văn học Việt Nam,
+in trong sách Sáng tạo và giao lưu, NXB Hội Nhà văn, Hà Nội, 2004)
+
+- Xác định hệ thống các tư tưởng luận trong đoạn trích.
+
+- Xác định các phương thức đem lại tính biểu cảm trong đoạn trích.
+
+114

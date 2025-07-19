@@ -1,0 +1,9 @@
+Tháng 9 - 1953, Bộ Chính trị Ban Chấp hành Trung ương Đảng họp để ra phương hướng chiến lược cho Đông - Xuân 1953 - 1954 là "tập trung lực lượng mở những cuộc tiến công vào những hướng quan trọng về chiến lược mà địch tương đối yếu, nhằm tiêu diệt một bộ phận sinh lực địch, giải phóng đất đai; đồng thời, buộc Pháp phải bị động phân tán lực lượng đối phó với ta trên những địa bàn xung yếu mà Pháp không thể bỏ, do phải phân tán lực lượng mà tạo ra cho ta những điều kiện thuận lợi mới để tiêu diệt thêm từng bộ phận sinh lực của Pháp".
+
+Thực hiện quyết định của Bộ Chính trị, quân đội Việt Nam mở cuộc tiến công quân Pháp ở Lai Châu (ngày 10 - 12 - 1953), buộc thực dân Pháp phải tập trung quân xây dựng Điện Biên Phủ thành một tập đoàn cứ điểm mạnh nhất Đông Dương. Đồng thời, liên quân Lào - Việt tiến công quân Pháp ở Trung Lào (đầu tháng 12 - 1953), Thượng Lào (cuối tháng 01 - 1954). Đến tháng 02 - 1954, quân đội Việt Nam tiến công quân Pháp ở Bắc Tây Nguyên; đẩy mạnh chiến tranh du kích ở vùng sau lưng địch, làm phá sản bước đầu kế hoạch Na-va.
+
+Đầu tháng 12 - 1953, Bộ Chính trị quyết định mở chiến dịch Điện Biên Phủ. Trải qua 3 đợt tiến công (từ ngày 13 - 3 đến ngày 07 - 5 - 1954), chiều 07 - 5 - 1954, lá cờ Quyết chiến quyết thắng đã phất cao trên nóc hầm của tướng Đờ Ca-xtơ-ri, đánh dấu thắng lợi của chiến dịch lịch sử Điện Biên Phủ.
+
+[Hình ảnh minh họa: Bản đồ chiến dịch Điện Biên Phủ năm 1954. Bản đồ thể hiện các khu vực chiến sự, vị trí quân Pháp và quân Việt Nam, các hướng tấn công và vùng bao vây. Bản đồ được chia thành các phân khu Bắc, Trung tâm và Nam, với các địa danh như Đồi Độc Lập, Bản Kéo, Mường Thanh, Hồng Cúm được đánh dấu.]
+
+▲Hình 7.8. Lược đồ chiến dịch lịch sử Điện Biên Phủ (năm 1954)
