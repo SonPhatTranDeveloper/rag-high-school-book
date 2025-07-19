@@ -17,4 +17,4 @@ services:
       name: .
     # This assumes the Python module main.py contains a variable called `agent`
     # containing our workflow instance
-    path: main:agent
+    path: deploy_workflow:workflow
