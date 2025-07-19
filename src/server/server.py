@@ -166,4 +166,8 @@ if __name__ == "__main__":
     logger.info("  DELETE /sessions/<session_id> - Delete a session")
     logger.info("  GET  /services - List all services")
 
-    app.run(host="0.0.0.0", port=10_000, debug=True)
+    app.run(
+        host=ServerConstants.SERVER_HOST.value,
+        port=ServerConstants.SERVER_PORT.value,
+        debug=True,
+    )
