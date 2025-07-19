@@ -6,11 +6,16 @@ class DocumentMetadata(pydantic.BaseModel):
     Model for the document metadata
 
     Args:
+        text: The text of the document
+        score: The score of the document
         grade: The grade of the book (grade_10, grade_11, grade_12)
         book_type: The type of the book (canh_dieu, chan_troi_sang_tao, ...)
         book_subject: The subject of the book (toan, ngu_van, vat_ly, ...)
+        page_number: The page number of the book
     """
 
+    text: str
+    score: float
     grade: str
     book_type: str
     book_subject: str
