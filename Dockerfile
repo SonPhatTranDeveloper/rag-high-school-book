@@ -21,28 +21,6 @@ ADD . /app
 # Install the project dependencies using uv, ensuring locked dependencies are respected.
 RUN uv sync --locked
 
-# Create a shell script named 'start.sh' to orchestrate the application startup.
-# This script sets the PYTHONPATH, starts the API server in the background,
-# waits, runs a deployment command, waits again, and then starts the main server.
-RUN echo '#!/bin/sh' > start.sh && \
-    echo 'echo "Setting PYTHONPATH..."' >> start.sh && \
-    echo 'export PYTHONPATH=.' >> start.sh && \
-    echo '' >> start.sh && \
-    echo 'echo "Starting llama_deploy.apiserver in background..."' >> start.sh && \
-    echo 'uv run python -m llama_deploy.apiserver &' >> start.sh && \
-    echo '' >> start.sh && \
-    echo 'echo "Waiting 15 seconds before next command..."' >> start.sh && \
-    echo 'sleep 15' >> start.sh && \
-    echo '' >> start.sh && \
-    echo 'echo "Running llamactl deploy..."' >> start.sh && \
-    echo 'uv run llamactl deploy src/deployment.yml' >> start.sh && \
-    echo '' >> start.sh && \
-    echo 'echo "Waiting 15 seconds before next command..."' >> start.sh && \
-    echo 'sleep 15' >> start.sh && \
-    echo '' >> start.sh && \
-    echo 'echo "Starting main server..."' >> start.sh && \
-    echo 'exec uv run src/server/server.py' >> start.sh
-
 # Make the 'start.sh' script executable.
 RUN chmod +x start.sh
 
