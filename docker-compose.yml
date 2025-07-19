@@ -8,6 +8,7 @@ services:
     restart: always
     environment:
       PYTHONUNBUFFERED: 1 # Ensure Python output is not buffered
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
     expose:
       - "8080" # Expose port 8000 to other services within the Docker network
 
