@@ -21,3 +21,6 @@ outputs
 
 # Logs
 flask_server.log
+
+# Ruff cache
+.ruff_cache
