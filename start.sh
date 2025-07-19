@@ -15,4 +15,4 @@ echo "Waiting 15 seconds before next command..."
 sleep 15
 
 echo "Starting main server..."
-exec uv run src/server/server.py
+exec uv run gunicorn src.server.wsgi:app --bind 0.0.0.0:8080 --log-level=debug --workers=4

@@ -10,8 +10,8 @@ llm:
 data:
   query_engine:
     _target_: src.utils.index.create_or_load_query_engine
-    storage_dir: /app/storage
-    data_dir: /app/data
+    storage_dir: /Users/user/Desktop/Python/rag-book-prod/storage #/app/storage
+    data_dir: /Users/user/Desktop/Python/rag-book-prod/data #/app/data
     chunk_size: 1024
     chunk_overlap: 20
     top_k: 5
