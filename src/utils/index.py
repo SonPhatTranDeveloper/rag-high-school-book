@@ -26,6 +26,24 @@ class BaseQueryEngineCreator(ABC):
 class PineconeQueryEngineCreator(BaseQueryEngineCreator):
     QUERY_ENGINE = None
 
+    def _if_index_exists(
+        self, pinecone_client: Pinecone, pinecone_index_name: str
+    ) -> bool:
+        """
+        Check if the Pinecone index exists.
+
+        Args:
+            pinecone_client (Pinecone): The Pinecone client.
+            pinecone_index_name (str): The name of the Pinecone index.
+
+        Returns:
+            bool: True if the index exists, False otherwise.
+        """
+        for item in pinecone_client.list_indexes():
+            if item["name"] == pinecone_index_name:
+                return True
+        return False
+
     def create_query_engine(
         self,
         data_dir: str,
@@ -61,38 +79,30 @@ class PineconeQueryEngineCreator(BaseQueryEngineCreator):
         )
 
         # Check if index exists
-        index_exists = pinecone_index_name in pinecone_client.list_indexes()
-
-        # If index does not exist, create it
-        pinecone_client.create_index(
-            name=pinecone_index_name,
-            dimension=embedding_dimension,
-            metric=metric,
-            spec=ServerlessSpec(
-                cloud=pinecone_cloud_provider,
-                region=pinecone_environment,
-            ),
+        index_exists = self._if_index_exists(
+            pinecone_client=pinecone_client,
+            pinecone_index_name=pinecone_index_name,
         )
 
         # Check if the Pinecone index exists, create if not
         if not index_exists:
             logger.info(
-                f"Pinecone index '{self._pinecone_index_name}' not found. "
+                f"Pinecone index '{pinecone_index_name}' not found. "
                 f"Creating new index..."
             )
-            self._pinecone_client.create_index(
-                name=self._pinecone_index_name,
-                dimension=self.embedding_dimension,
-                metric=self.metric,
+            pinecone_client.create_index(
+                name=pinecone_index_name,
+                dimension=embedding_dimension,
+                metric=metric,
                 spec=ServerlessSpec(
-                    cloud=self._pinecone_cloud_provider,
-                    region=self._pinecone_environment,
+                    cloud=pinecone_cloud_provider,
+                    region=pinecone_environment,
                 ),
             )
-            logger.info(f"Pinecone index '{self._pinecone_index_name}' created.")
+            logger.info(f"Pinecone index '{pinecone_index_name}' created.")
 
         # Connect to the Pinecone index
-        pinecone_index = self._pinecone_client.Index(self._pinecone_index_name)
+        pinecone_index = pinecone_client.Index(pinecone_index_name)
         vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
 
         if not index_exists:
@@ -172,7 +182,7 @@ def create_or_load_query_engine(
         if "metric" not in additional_args:
             raise ValueError("metric is required")
 
-        return PineconeQueryEngineCreator.create_query_engine(
+        return PineconeQueryEngineCreator().create_query_engine(
             data_dir=data_dir,
             chunk_size=chunk_size,
             chunk_overlap=chunk_overlap,
