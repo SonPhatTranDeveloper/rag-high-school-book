@@ -27,6 +27,8 @@ BOOK_SUBJECT_MAPPING = {
     "dia_ly": "Địa lý",
     "hoa_hoc": "Hóa học",
     "sinh_hoc": "Sinh học",
+    "vat_ly": "Vật lý",
+    "tieng_anh": "Tiếng Anh",
 }
 
 
