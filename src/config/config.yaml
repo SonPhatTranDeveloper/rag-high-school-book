@@ -10,16 +10,18 @@ llm:
 data:
   query_engine:
     _target_: src.utils.index.create_or_load_query_engine
-    # storage_dir: /app/storage #/Users/user/Desktop/Python/rag-book-prod/storage 
     data_dir: /Users/user/Desktop/Python/rag-book-prod/data #/app/data
-    pinecone_environment: "us-west-2"
-    pinecone_index_name: "rag-book-prod"
-    embedding_dimension: 3072
-    metric: "cosine"
     chunk_size: 1024
     chunk_overlap: 20
     top_k: 5
     show_progress: true
+    type: "pinecone"
+    additional_args:
+      pinecone_cloud_provider: "aws"
+      pinecone_environment: "us-east-1"
+      pinecone_index_name: "rag-book-prod"
+      embedding_dimension: 3072
+      metric: "cosine"
 
 # Define the prompts for the agents
 prompts:
