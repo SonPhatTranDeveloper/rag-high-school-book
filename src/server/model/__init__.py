@@ -12,6 +12,7 @@ class DocumentMetadata(pydantic.BaseModel):
         book_type: The type of the book (canh_dieu, chan_troi_sang_tao, ...)
         book_subject: The subject of the book (toan, ngu_van, vat_ly, ...)
         page_number: The page number of the book
+        image_url: The url of the image of the book
     """
 
     text: str
@@ -20,6 +21,7 @@ class DocumentMetadata(pydantic.BaseModel):
     book_type: str
     book_subject: str
     page_number: int
+    image_url: str
 
 
 class AgentResponse(pydantic.BaseModel):

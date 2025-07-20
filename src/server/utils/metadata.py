@@ -1,13 +1,44 @@
 import logging
 
 from src.server.model import DocumentMetadata
+from src.server.utils.image import get_image_url
 
 logger = logging.getLogger(__name__)
+
+# Constants for better maintainability
+GRADE_MAPPING = {
+    "grade_10": "Lớp 10",
+    "grade_11": "Lớp 11",
+    "grade_12": "Lớp 12",
+}
+
+BOOK_TYPE_MAPPING = {
+    "canh_dieu": "Cánh Diều",
+    "ket_noi_tri_thuc": "Kết nối tri thức",
+    "chan_troi_sang_tao": "Chân trời sáng tạo",
+}
+
+BOOK_SUBJECT_MAPPING = {
+    "toan_1": "Toán 1",
+    "toan_2": "Toán 2",
+    "ngu_van_1": "Ngữ văn 1",
+    "ngu_van_2": "Ngữ văn 2",
+    "lich_su": "Lịch sử",
+    "dia_ly": "Địa lý",
+    "hoa_hoc": "Hóa học",
+    "sinh_hoc": "Sinh học",
+}
 
 
 def has_source_nodes(event: dict) -> bool:
     """
     Check if the event has source nodes
+
+    Args:
+        event: The event to check
+
+    Returns:
+        bool: True if the event has source nodes, False otherwise
     """
     return (
         "tool_output" in event
@@ -24,16 +55,11 @@ def get_book_grade(grade: str) -> str:
         grade: The grade of the book
 
     Returns:
-        The appropriate presentation of the book grade in Vietnamese
+        str: The appropriate presentation of the book grade in Vietnamese
     """
-    if grade == "grade_10":
-        return "Lớp 10"
-    elif grade == "grade_11":
-        return "Lớp 11"
-    elif grade == "grade_12":
-        return "Lớp 12"
-    else:
+    if grade not in GRADE_MAPPING:
         raise ValueError(f"Invalid book grade: {grade}")
+    return GRADE_MAPPING[grade]
 
 
 def get_book_type(book_type: str) -> str:
@@ -44,16 +70,11 @@ def get_book_type(book_type: str) -> str:
         book_type: The type of the book
 
     Returns:
-        The appropriate presentation of the book type in Vietnamese
+        str: The appropriate presentation of the book type in Vietnamese
     """
-    if book_type == "canh_dieu":
-        return "Cánh Diều"
-    elif book_type == "ket_noi_tri_thuc":
-        return "Kết nối tri thức"
-    elif book_type == "chan_troi_sang_tao":
-        return "Chân trời sáng tạo"
-    else:
+    if book_type not in BOOK_TYPE_MAPPING:
         raise ValueError(f"Invalid book type: {book_type}")
+    return BOOK_TYPE_MAPPING[book_type]
 
 
 def get_book_subject(book_subject: str) -> str:
@@ -64,26 +85,11 @@ def get_book_subject(book_subject: str) -> str:
         book_subject: The subject of the book
 
     Returns:
-        The appropriate presentation of the book subject in Vietnamese
+        str: The appropriate presentation of the book subject in Vietnamese
     """
-    if book_subject == "toan_1":
-        return "Toán 1"
-    elif book_subject == "toan_2":
-        return "Toán 2"
-    elif book_subject == "ngu_van_1":
-        return "Ngữ văn 1"
-    elif book_subject == "ngu_van_2":
-        return "Ngữ văn 2"
-    elif book_subject == "lich_su":
-        return "Lịch sử"
-    elif book_subject == "dia_ly":
-        return "Địa lý"
-    elif book_subject == "hoa_hoc":
-        return "Hóa học"
-    elif book_subject == "sinh_hoc":
-        return "Sinh học"
-    else:
+    if book_subject not in BOOK_SUBJECT_MAPPING:
         raise ValueError(f"Invalid book subject: {book_subject}")
+    return BOOK_SUBJECT_MAPPING[book_subject]
 
 
 def extract_metadata_from_event(events: list[dict]) -> list[DocumentMetadata]:
@@ -91,10 +97,10 @@ def extract_metadata_from_event(events: list[dict]) -> list[DocumentMetadata]:
     Extract the metadata from the event
 
     Args:
-        event: The event
+        events: The events to extract metadata from
 
     Returns:
-        A list of DocumentMetadata
+        list[DocumentMetadata]: A list of DocumentMetadata
     """
     result = []
 
@@ -103,17 +109,18 @@ def extract_metadata_from_event(events: list[dict]) -> list[DocumentMetadata]:
             # Extract the source nodes
             source_nodes = event["tool_output"]["raw_output"]["source_nodes"]
             for node in source_nodes:
-                # Get the node
+                node_metadata = node["node"]["metadata"]
+
+                # Create DocumentMetadata object
                 result.append(
                     DocumentMetadata(
                         text=node["node"]["text"],
                         score=node["score"],
-                        grade=get_book_grade(node["node"]["metadata"]["grade"]),
-                        book_type=get_book_type(node["node"]["metadata"]["book_type"]),
-                        book_subject=get_book_subject(
-                            node["node"]["metadata"]["book_subject"]
-                        ),
-                        page_number=node["node"]["metadata"]["page_number"],
+                        grade=get_book_grade(node_metadata["grade"]),
+                        book_type=get_book_type(node_metadata["book_type"]),
+                        book_subject=get_book_subject(node_metadata["book_subject"]),
+                        page_number=node_metadata["page_number"],
+                        image_url=get_image_url(node_metadata["file_path"]),
                     )
                 )
 
