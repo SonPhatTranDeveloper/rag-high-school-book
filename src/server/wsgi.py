@@ -2,10 +2,16 @@ import logging
 
 from src.server.server import app
 from src.server.utils.constants import ServerConstants
+from src.server.utils.image import init_cloudinary
 
 logger = logging.getLogger(__name__)
 
 if __name__ == "__main__":
+    # Initialize the cloudinary client for image processing
+    logger.info("Initializing cloudinary client...")
+    init_cloudinary()
+
+    # Start the Flask server
     logger.info("Starting Flask server...")
     logger.info(
         "Make sure your LlamaDeploy workflow is running on http://localhost:10000"
