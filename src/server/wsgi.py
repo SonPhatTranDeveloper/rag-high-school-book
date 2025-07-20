@@ -1,5 +1,7 @@
 import logging
 
+from flask_cors import CORS
+
 from src.server.server import app
 from src.server.utils.constants import ServerConstants
 from src.server.utils.image import init_cloudinary
@@ -23,6 +25,10 @@ if __name__ == "__main__":
     logger.info("  DELETE /sessions/<session_id> - Delete a session")
     logger.info("  GET  /services - List all services")
 
+    # Enable CORS for all routes
+    CORS(app)
+
+    # Run the Flask server
     app.run(
         host=ServerConstants.SERVER_HOST.value,
         port=ServerConstants.SERVER_PORT.value,
