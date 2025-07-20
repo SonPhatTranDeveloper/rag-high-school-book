@@ -15,6 +15,7 @@ dependencies = [
     "llama-deploy>=0.8.1",
     "llama-index>=0.12.49",
     "llama-index-llms-openai>=0.4.7",
+    "llama-index-vector-stores-pinecone>=0.6.0",
     "requests>=2.31.0",
 ]
 

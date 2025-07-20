@@ -1072,6 +1072,19 @@ wheels = [
 ]
 
 [[package]]
+name = "llama-index-vector-stores-pinecone"
+version = "0.6.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "llama-index-core" },
+    { name = "pinecone" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/75/79/d74704802fe952b1659a90aa3acba49e248ce8c10ebd4282325519429cf3/llama_index_vector_stores_pinecone-0.6.0.tar.gz", hash = "sha256:a64ba23146e60ea97d188c3d05e9d8d608f301d9a5bf2d4673aeff2b559c9c7b", size = 7852 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/0f/5c/01b686b2c2ad56927077407325af4e7bcc2b937ee30b46fbc7940bfab8f1/llama_index_vector_stores_pinecone-0.6.0-py3-none-any.whl", hash = "sha256:5559029119baf92b28d996b0e9579fe086a2a28f2e422bd0693b433f32870712", size = 8041 },
+]
+
+[[package]]
 name = "llama-index-workflows"
 version = "1.1.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1431,6 +1444,31 @@ wheels = [
 ]
 
 [[package]]
+name = "pinecone"
+version = "7.0.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "certifi" },
+    { name = "pinecone-plugin-interface" },
+    { name = "python-dateutil" },
+    { name = "typing-extensions" },
+    { name = "urllib3", marker = "python_full_version < '4.0'" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/bc/9d/07a7f2136ce04cabd21d69c057dc2915867082b0047e6873e424388d4475/pinecone-7.0.1.tar.gz", hash = "sha256:49ff7b0f5be4a2ddec5aaa709758a9f2df56baa58ad46507d081409e246a81ec", size = 207930 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/81/88/896221e991077d353e61991b759f46d75f3b4298eb5a4aa6534c1371f4b0/pinecone-7.0.1-py3-none-any.whl", hash = "sha256:ce7b0dab3c9f7d81e75b24c13fcbca4a51371e08021faaecaf0cd9a45ca1be6c", size = 516590 },
+]
+
+[[package]]
+name = "pinecone-plugin-interface"
+version = "0.0.7"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/f4/fb/e8a4063264953ead9e2b24d9b390152c60f042c951c47f4592e9996e57ff/pinecone_plugin_interface-0.0.7.tar.gz", hash = "sha256:b8e6675e41847333aa13923cc44daa3f85676d7157324682dc1640588a982846", size = 3370 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/3b/1d/a21fdfcd6d022cb64cef5c2a29ee6691c6c103c4566b41646b080b7536a5/pinecone_plugin_interface-0.0.7-py3-none-any.whl", hash = "sha256:875857ad9c9fc8bbc074dbe780d187a2afd21f5bfe0f3b08601924a61ef1bba8", size = 6249 },
+]
+
+[[package]]
 name = "platformdirs"
 version = "4.3.8"
 source = { registry = "https://pypi.org/simple" }
@@ -1732,6 +1770,7 @@ dependencies = [
     { name = "llama-deploy" },
     { name = "llama-index" },
     { name = "llama-index-llms-openai" },
+    { name = "llama-index-vector-stores-pinecone" },
     { name = "requests" },
 ]
 
@@ -1752,6 +1791,7 @@ requires-dist = [
     { name = "llama-deploy", specifier = ">=0.8.1" },
     { name = "llama-index", specifier = ">=0.12.49" },
     { name = "llama-index-llms-openai", specifier = ">=0.4.7" },
+    { name = "llama-index-vector-stores-pinecone", specifier = ">=0.6.0" },
     { name = "requests", specifier = ">=2.31.0" },
 ]
 
