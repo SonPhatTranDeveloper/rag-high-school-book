@@ -10,6 +10,9 @@ services:
       PYTHONUNBUFFERED: 1 # Ensure Python output is not buffered
       OPENAI_API_KEY: ${OPENAI_API_KEY}
       GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+      CLOUDINARY_CLOUD_NAME: ${CLOUDINARY_CLOUD_NAME}
+      CLOUDINARY_API_KEY: ${CLOUDINARY_API_KEY}
+      CLOUDINARY_API_SECRET: ${CLOUDINARY_API_SECRET}
     expose:
       - "8080" # Expose port 8000 to other services within the Docker network
 

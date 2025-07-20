@@ -1,7 +1,7 @@
 import os
 
 import cloudinary
-from cloudinary import cloudinary_url
+from cloudinary.utils import cloudinary_url
 
 
 class ImageConstants:
