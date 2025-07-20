@@ -152,3 +152,7 @@ async def list_services():
         return jsonify(
             {"error": f"Error listing services: {str(e)}", "status": "error"}
         ), 500
+
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=10000, debug=True)

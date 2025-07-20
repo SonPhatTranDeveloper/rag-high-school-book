@@ -1,10 +1,11 @@
 import os
+from enum import Enum
 
 import cloudinary
 from cloudinary.utils import cloudinary_url
 
 
-class ImageConstants:
+class ImageConstants(Enum):
     IMAGE_FOLDER = "pages"
     IMAGE_FORMAT = "jpg"
     IMAGE_QUALITY = "auto"
@@ -34,8 +35,9 @@ def get_image_url(file_path: str) -> str:
     # Extract the prefix of the file name
     prefix = file_path.split("/")[-1].split(".")[0]
 
-    return cloudinary_url(
+    url, _ = cloudinary_url(
         f"{ImageConstants.IMAGE_FOLDER.value}/{prefix}",
         fetch_format=ImageConstants.IMAGE_FORMAT.value,
         quality=ImageConstants.IMAGE_QUALITY.value,
     )
+    return url
